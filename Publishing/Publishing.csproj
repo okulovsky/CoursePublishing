@@ -7,7 +7,7 @@
     <ProjectGuid>{9136F673-3E78-471E-A8D4-58E16A30A786}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Publishing</RootNamespace>
+    <RootNamespace>CoursePublishing</RootNamespace>
     <AssemblyName>Publishing</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>

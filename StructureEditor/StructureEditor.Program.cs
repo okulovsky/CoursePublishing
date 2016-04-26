@@ -69,53 +69,74 @@ namespace StructureEditor
             return text.ToString();
         }
 
-        static readonly Regex parser = new Regex("[\\t #]*([^|]*) | (.*)");
+        static readonly Regex parser = new Regex("^([ #\\t]*)([^\\|]+)\\|?(.*)$");
 
-        static Tuple<int, string, Guid> ParseRecord(string line)
+        static Tuple<int, string, Guid?> ParseRecord(string line)
         {
             var match = parser.Match(line);
             if (!match.Success) throw new Exception();
             var level = match.Groups[1].Value.Count(z => z == '#') - 1;
-            return Tuple.Create(level, match.Groups[2].Value, Guid.Parse(match.Groups[3].Value));
-        }
 
-        static Section Parse(string text)
-        {
-            List<Section> roots = new List<Section>();
-            bool hasRootSection = false;
-            var lines = text.Split('\n');
-            for (int i=1;i<=lines.Length;i++)
+            Guid parsedGuid;
+            Guid? resultingGuid=null;
+            if (Guid.TryParse(match.Groups[3].Value, out parsedGuid))
             {
-                var e = lines[i-1];
-                if (e.StartsWith("-----")) break;
-                if (string.IsNullOrWhiteSpace(e)) continue;
-                Tuple<int, string, Guid> record = null;
-                try
-                {
-                    record = ParseRecord(e);
-                }
-                catch
-                {
-                    throw new Ex(i, "Can't parse record");
-                }
-
-                if (record.Item1 != -1)
-                {
-
-                    if (hasRootSection && record.Item1 == 0)
-                        throw new Ex(i, "Only one root record is allowed, it is the name of the course");
-                    if (roots.Count < record.Item1)
-                        throw new Ex(i, "Unexpected section of depth " + record.Item1);
-
-                    if (record.Item1==0)
-                    {
-                        roots.Add(
-                }
+                resultingGuid=parsedGuid;
             }
+            
+
+            return Tuple.Create(level, match.Groups[2].Value, resultingGuid);
         }
+
+        static void TestRegexp()
+        {
+            var guid = Guid.Parse("19D68CA8-2C65-495D-8F4B-EFF6546C5275");
+            Console.WriteLine(ParseRecord("abc | " + guid.ToString()));
+            Console.WriteLine(ParseRecord("## abc | " + guid.ToString()));
+            Console.WriteLine(ParseRecord("\t\t abc | " + guid.ToString()));
+            Console.WriteLine(ParseRecord("# abc | "));
+            Console.WriteLine(ParseRecord("# abc"));
+            return;
+        }
+
+        //static Section Parse(string text)
+        //{
+        //    List<Section> roots = new List<Section>();
+        //    bool hasRootSection = false;
+        //    var lines = text.Split('\n');
+        //    for (int i=1;i<=lines.Length;i++)
+        //    {
+        //        var e = lines[i-1];
+        //        if (e.StartsWith("-----")) break;
+        //        if (string.IsNullOrWhiteSpace(e)) continue;
+        //        Tuple<int, string, Guid> record = null;
+        //        try
+        //        {
+        //            record = ParseRecord(e);
+        //        }
+        //        catch
+        //        {
+        //            throw new Ex(i, "Can't parse record");
+        //        }
+
+        //        if (record.Item1 != -1)
+        //        {
+
+        //            if (hasRootSection && record.Item1 == 0)
+        //                throw new Ex(i, "Only one root record is allowed, it is the name of the course");
+        //            if (roots.Count < record.Item1)
+        //                throw new Ex(i, "Unexpected section of depth " + record.Item1);
+
+        //        }
+        //    }
+        //}
 
         static void Main(string[] args)
         {
+            
+          
+
+
             var text = PrepareText();
             File.WriteAllText("temp.txt", text);
             var p = Process.Start("temp.txt");
