@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,6 +21,7 @@ namespace CoursePublishing
             Sections = new List<Section>();
         }
 
+        [JsonIgnore]
         public IEnumerable<object> Items
         {
             get 
