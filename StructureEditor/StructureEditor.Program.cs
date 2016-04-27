@@ -30,7 +30,7 @@ namespace StructureEditor
         {
             StringBuilder text = new StringBuilder();
             var root = Publishing.LoadCourseStructure(CourseName);
-            var videos = Publishing.LoadAllVideos();
+            var videos = Publishing.LoadList<Video>();
             foreach (var e in root.Items)
             {
                 if (e is Section)
@@ -65,7 +65,7 @@ namespace StructureEditor
             text.AppendLine("Videos below this line are not yet included in any course");
             text.AppendLine();
 
-            var bindedVideos = Publishing.LoadVideoToCourse().SelectMany(z=>z.VideoGuids).Distinct().ToDictionary(z=>z,z=>true);
+            var bindedVideos = Publishing.LoadList<VideoToCourse>().SelectMany(z=>z.VideoGuids).Distinct().ToDictionary(z=>z,z=>true);
             var freeVideos = videos.Where(z => !bindedVideos.ContainsKey(z.Guid));
             foreach (var v in freeVideos.OrderBy(z=>z.OriginalLocation).ThenBy(z=>z.EpisodeNumber))
             {
@@ -106,7 +106,7 @@ namespace StructureEditor
 
         static Section Parse(string text)
         {
-            var videos = Publishing.LoadAllVideos();
+            var videos = Publishing.LoadList<Video>();
            
             List<Section> roots = new List<Section>();
             bool hasRootSection = false;
