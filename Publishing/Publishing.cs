@@ -30,7 +30,7 @@ namespace CoursePublishing
                 path = Path.Combine(path, course);
             if (!Directory.Exists(path))
                 Directory.CreateDirectory(path);
-            path += customName + ".json";
+            path =Path.Combine(path,customName+".json");
             return path;
         }
 

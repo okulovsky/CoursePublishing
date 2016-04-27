@@ -59,7 +59,7 @@ namespace PMConvert
 
         static void Main(string[] args)
         {
-            ProcessAll(@"C:\Users\Yura\Desktop\TestMontage\Models\","LHPS");
+            ProcessAll(@"C:\Users\Yura\Desktop\TestMontage\Models\","LHPS","Hackerdom","OOP");
         }
     }
 }
