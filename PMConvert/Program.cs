@@ -24,7 +24,9 @@ namespace PMConvert
 
         static Section ProcessPMFile(string path, List<VideoToYoutubeClip> videoToYoutube, List<Video> videos)
         {
-            var model = JsonConvert.DeserializeObject<PublishingModel>(File.ReadAllText(path));
+
+
+            var model = HeadedJsonFormat.Read<PublishingModel>(new FileInfo(path));
             
             videoToYoutube.AddRange(model.YoutubeClipData.Records.Select(e=>new VideoToYoutubeClip(e.Guid, e.Data.Id)));
 
