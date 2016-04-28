@@ -22,7 +22,7 @@ namespace YoutubeSync
         {
             var credentialsLocation =Publishing.MakePath(Env.CredentialsFolder,"Youtube");
             var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
-                new ClientSecrets { ClientId = Credentials.YoutubeClientId, ClientSecret = Credentials.YoutubeClientSecret},
+                new ClientSecrets { ClientId = Credentials.Current.YoutubeClientId, ClientSecret = Credentials.Current.YoutubeClientSecret},
                 new[] { YouTubeService.Scope.Youtube },
                 "user",
                 CancellationToken.None,
