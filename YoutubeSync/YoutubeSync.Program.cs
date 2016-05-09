@@ -16,22 +16,7 @@ namespace YoutubeSync
     class YoutubeSync
     {
         static YouTubeService service;
-        static void Initialize()
-        {
-            var credentialsLocation = Publishing.MakePath(Env.CredentialsFolder, "Youtube");
-            var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
-                new ClientSecrets { ClientId = Credentials.Current.YoutubeClientId, ClientSecret = Credentials.Current.YoutubeClientSecret },
-                new[] { YouTubeService.Scope.Youtube },
-                "user",
-                CancellationToken.None,
-                new FileDataStore(credentialsLocation)).RunSync();
 
-            service = new YouTubeService(new BaseClientService.Initializer()
-            {
-                HttpClientInitializer = credential,
-                ApplicationName = "Tuto Editor"
-            });
-        }
 
 
         static List<YoutubeClip> GetAllClips()
@@ -84,7 +69,7 @@ namespace YoutubeSync
         [STAThread]
         public static void Main()
         {
-            Initialize();
+            service = Publishing.InitializeYoutube();
             List<YoutubeClip> clips = null;
 
             //clips = GetAllClips(); Publishing.SaveList(clips);

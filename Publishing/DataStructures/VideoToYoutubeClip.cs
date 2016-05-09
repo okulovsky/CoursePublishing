@@ -16,4 +16,17 @@ namespace CoursePublishing
             YoutubeId = youtubeId;
         }
     }
+
+    public class TopicToYoutubePlaylist
+    {
+        public readonly Guid Guid;
+        public readonly string YoutubeId;
+        public TopicToYoutubePlaylist(Guid guid, string youtubeId)
+        {
+            Guid = guid;
+            YoutubeId = youtubeId;
+        }
+    }
+
+
 }

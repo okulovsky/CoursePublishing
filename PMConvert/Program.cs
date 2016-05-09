@@ -13,16 +13,16 @@ namespace PMConvert
 {
     class Program
     {
-        static Section Build(Topic topic, int level, List<VideoToTopicRelation> videoToTopic)
+        static Section Build(int order, Topic topic, int level, List<VideoToTopicRelation> videoToTopic)
         {
-            var section = new Section { Name = topic.Caption, Guid = topic.Guid, Level = level };
-            foreach (var e in topic.Items)
-                section.Sections.Add(Build(e, level + 1,videoToTopic));
+            var section = new Section { Name = topic.Caption, Guid = topic.Guid, Level = level, Order=order };
+            for (int i=0;i<topic.Items.Count;i++)
+                section.Sections.Add(Build(i,topic.Items[i], level + 1,videoToTopic));
             section.Videos.AddRange(videoToTopic.Where(z=>z.TopicGuid==section.Guid).OrderBy(z=>z.NumberInTopic).Select(z=>z.VideoGuid));
             return section;
         }
 
-        static Section ProcessPMFile(string path, List<VideoToYoutubeClip> videoToYoutube, List<Video> videos)
+        static Section ProcessPMFile(string path, List<VideoToYoutubeClip> videoToYoutube, List<Video> videos, List<TopicToYoutubePlaylist> topicToYoutube)
         {
 
 
@@ -38,17 +38,25 @@ namespace PMConvert
                         videos.Add(new Video { Guid = z.Guid, Title = z.Name, Duration = z.Duration, OriginalLocation = z.OrdinalSuffix });
                 }
             }
-            return Build(model.CourseStructure.RootTopic, 0, model.CourseStructure.VideoToTopicRelations);
+
+            foreach(var x in model.YoutubePlaylistData.Records)
+            {
+                topicToYoutube.Add(new TopicToYoutubePlaylist(x.Guid, x.Data.PlaylistId));
+            }
+
+
+            return Build(0,model.CourseStructure.RootTopic, 0, model.CourseStructure.VideoToTopicRelations);
         }
 
         static void ProcessAll(string folder, params string[] files)
         {
             var videos = Publishing.LoadList<Video>();
             var vty = new List<VideoToYoutubeClip>();
+            var tty = new List<TopicToYoutubePlaylist>();
 
             foreach(var e in files)
             {
-                var section = ProcessPMFile(folder+e+".pm", vty, videos);
+                var section = ProcessPMFile(folder+e+".pm", vty, videos,tty);
                 Publishing.SaveCourseStructure(e, section);
             }
 

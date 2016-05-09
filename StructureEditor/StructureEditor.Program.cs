@@ -18,7 +18,7 @@ namespace StructureEditor
 
     class Program
     {
-        const string CourseName = "LHPS";
+        static string CourseName;
 
 
         static string VideoString(Video video)
@@ -33,9 +33,9 @@ namespace StructureEditor
             var videos = Publishing.LoadList<Video>();
             foreach (var e in root.Items)
             {
-                if (e is Section)
+                if (e.Section!=null)
                 {
-                    var section = e as Section;
+                    var section = e.Section;
                     for (int i = 0; i <= section.Level; i++)
                         text.Append("#");
                     text.Append(" ");
@@ -45,9 +45,9 @@ namespace StructureEditor
                     text.AppendLine();
                     continue;
                 }
-                if (e is Guid)
+                if (e.VideoGuid!=null)
                 {
-                    var guid = (Guid)e;
+                    var guid = e.VideoGuid;
                     var video = videos.Where(z => z.Guid == guid).FirstOrDefault();
                     if (video == null)
                     {
@@ -151,7 +151,8 @@ namespace StructureEditor
 
                     if (roots[roots.Count-1].Videos.Count != 0)
                         throw new Ex(i, "Each section may contain either video or other sections");
-                    
+
+                    topic.Order = roots[roots.Count - 1].Sections.Count;
                     roots[roots.Count - 1].Sections.Add(topic);
 
                     roots.Add(topic);
@@ -173,10 +174,16 @@ namespace StructureEditor
 
         static void Main(string[] args)
         {
-            
+
+            if (args.Length < 1)
+            {
+                Console.WriteLine("Pass the name of the course as the first argument");
+                return;
+            }
+            CourseName = args[0];
+
             File.WriteAllText("temp.txt", PrepareText());
             
-
             while (true)
             {
                 var p = Process.Start("temp.txt");

@@ -1,9 +1,15 @@
-﻿using Newtonsoft.Json;
+﻿using Google.Apis.Auth.OAuth2;
+using Google.Apis.Services;
+using Google.Apis.Util.Store;
+using Google.Apis.YouTube.v3;
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace CoursePublishing
@@ -61,6 +67,18 @@ namespace CoursePublishing
             File.WriteAllText(path, JsonConvert.SerializeObject(data, Formatting.Indented));
         }
 
+        public static T LoadOrInit<T>(string course=null, string customName=null)
+            where T : new()
+        {
+            var path = GetPath<T>(course, customName);
+            if (!File.Exists(path))
+            {
+                var t = new T();
+                Save(t, course, customName);
+                Process.Start(path).WaitForExit();
+            }
+            return Load<T>(course, customName);
+        }
         #endregion
 
 
@@ -83,13 +101,30 @@ namespace CoursePublishing
             else
                 r.Remove(section);
             section.VideoGuids.Clear();
-            section.VideoGuids.AddRange(root.Items.OfType<Guid>());
+            section.VideoGuids.AddRange(root.Items.VideoGuids());
             r.Add(section);
 
             SaveList(r);
 
         }
 
+        public static YouTubeService InitializeYoutube()
+        {
+            var credentialsLocation = Publishing.MakePath(Env.CredentialsFolder, "Youtube");
+            var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
+                new ClientSecrets { ClientId = Credentials.Current.YoutubeClientId, ClientSecret = Credentials.Current.YoutubeClientSecret },
+                new[] { YouTubeService.Scope.Youtube },
+                "user",
+                CancellationToken.None,
+                new FileDataStore(credentialsLocation)).RunSync();
+
+            var service = new YouTubeService(new BaseClientService.Initializer()
+            {
+                HttpClientInitializer = credential,
+                ApplicationName = "Tuto Editor"
+            });
+            return service;
+        }
 
     }
 }

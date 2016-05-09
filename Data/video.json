@@ -231,13 +231,6 @@
     "EpisodeNumber": 1
   },
   {
-    "Guid": "ed912b8f-edca-4513-9813-68d07463eaf9",
-    "Title": "Структуры",
-    "Duration": "00:01:14.3500000",
-    "OriginalLocation": "CS2-Lecture03-1-33.mm",
-    "EpisodeNumber": 0
-  },
-  {
     "Guid": "14b5c0cc-8d6e-464c-91b4-45e91839a2ef",
     "Title": "Наследование",
     "Duration": "00:08:41.3900000",
