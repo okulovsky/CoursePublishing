@@ -1,11 +1,13 @@
 {
   "Level": 0,
+  "Order": 0,
   "Guid": "a7b2f40e-1e7d-4cde-b2e6-d082f4823c47",
   "Name": "Введение в компьютерную безопасность",
   "Videos": [],
   "Sections": [
     {
       "Level": 1,
+      "Order": 0,
       "Guid": "1840a7ac-4293-4b8b-a4ea-9359608a9634",
       "Name": "Вводная лекция",
       "Videos": [
@@ -18,6 +20,7 @@
     },
     {
       "Level": 1,
+      "Order": 1,
       "Guid": "ceef6990-465c-480a-8464-92d37d76709f",
       "Name": "Криптография",
       "Videos": [
@@ -32,6 +35,7 @@
     },
     {
       "Level": 1,
+      "Order": 2,
       "Guid": "fbdaa70f-0935-4f29-8eea-8370e13c068b",
       "Name": "Хеши и биткоины",
       "Videos": [
@@ -47,6 +51,7 @@
     },
     {
       "Level": 1,
+      "Order": 3,
       "Guid": "dbff1086-b2c7-428e-8c12-df1e99b87b52",
       "Name": "Стеганография",
       "Videos": [
@@ -65,6 +70,7 @@
     },
     {
       "Level": 1,
+      "Order": 4,
       "Guid": "e83cdb90-72cc-4686-b007-04e11e3e41cb",
       "Name": "Сети, часть 1",
       "Videos": [
@@ -86,6 +92,7 @@
     },
     {
       "Level": 1,
+      "Order": 5,
       "Guid": "2484fd1d-d93e-490c-b809-31355a40d21a",
       "Name": "Сети, часть 2",
       "Videos": [
@@ -103,6 +110,7 @@
     },
     {
       "Level": 1,
+      "Order": 6,
       "Guid": "b44a0b98-cb58-49fc-ab0b-dbe3939e1448",
       "Name": "Протокол HTTP",
       "Videos": [
@@ -122,6 +130,7 @@
     },
     {
       "Level": 1,
+      "Order": 7,
       "Guid": "349d1600-2f20-4190-8a42-b82d75aa0a7c",
       "Name": "Инъекции",
       "Videos": [
@@ -144,6 +153,7 @@
     },
     {
       "Level": 1,
+      "Order": 8,
       "Guid": "849fbc71-e696-4cf1-884e-4ff7e6a01e43",
       "Name": "Linux",
       "Videos": [
@@ -161,6 +171,7 @@
     },
     {
       "Level": 1,
+      "Order": 9,
       "Guid": "04d21704-1083-411c-b180-0bac0ffda41c",
       "Name": "Низкоуровневое программирование",
       "Videos": [
@@ -181,6 +192,7 @@
     },
     {
       "Level": 1,
+      "Order": 10,
       "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
       "Name": "Reverse Engineering",
       "Videos": [
@@ -196,6 +208,7 @@
     },
     {
       "Level": 1,
+      "Order": 11,
       "Guid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
       "Name": "Бинарные уязвимости",
       "Videos": [

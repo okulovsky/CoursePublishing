@@ -21,12 +21,12 @@ namespace YoutubeSync
 
         static List<YoutubeClip> GetAllClips()
         {
-            Console.WriteLine("Retrieving video data");
+            Console.Write("Retrieving video data");
 
             var videos = new List<YoutubeClip>();
             var channelsListRequest = service.Channels.List("contentDetails");
             channelsListRequest.Mine = true;
-
+            
 
             // Retrieve the contentDetails part of the channel resource for the authenticated user's channel.
             var channelsListResponse = channelsListRequest.Execute();
@@ -65,45 +65,61 @@ namespace YoutubeSync
             return videos;
         }
 
+        private static void UpdateAllPlaylistItems(YoutubePlaylist list)
+        {
+            var nextToken = "";
+            while (nextToken != null)
+            {
+                var itemsRq = service.PlaylistItems.List("snippet,contentDetails");
+                itemsRq.PageToken = nextToken;
+                itemsRq.PlaylistId = list.Id;
+
+                var items = itemsRq.Execute();
+
+                foreach (var e in items.Items)
+                    list.Entries.Add(new YoutubePlaylistEntry { Id = e.Id, VideoId = e.ContentDetails.VideoId });
+
+                nextToken = items.NextPageToken;
+            }
+        }
+
+        public static List<YoutubePlaylist> GetAllPlaylists()
+        {
+            Console.Write("Retrieving playlists data");
+            var result = new List<YoutubePlaylist>();
+
+            var nextPageToken = "";
+            while (nextPageToken != null)
+            {
+                var listRequest = service.Playlists.List("snippet");
+                listRequest.Mine = true;
+                listRequest.PageToken = nextPageToken;
+                var lists = listRequest.Execute();
+                result.AddRange(lists.Items.Select(z => new YoutubePlaylist { Id = z.Id, Title = z.Snippet.Title }));
+                nextPageToken = lists.NextPageToken;
+                Console.Write(".");
+            }
+            Console.WriteLine();
+
+            Console.Write("Retrieving playlists entries");
+            foreach (var e in result)
+            {
+                UpdateAllPlaylistItems(e);
+                Console.Write(".");
+            }
+            Console.WriteLine();
+
+            return result;
+        }
+
+
 
         [STAThread]
         public static void Main()
         {
             service = Publishing.InitializeYoutube();
-            List<YoutubeClip> clips = null;
-
-            //clips = GetAllClips(); Publishing.SaveList(clips);
-            clips = Publishing.LoadList<YoutubeClip>();
-            var relation = Publishing.LoadList<VideoToYoutubeClip>();
-            var videos = Publishing.LoadList<Video>();
-
-            var model = new MatchModel();
-
-            var bound =
-                from clip in clips
-                join rel in relation on clip.Id equals rel.YoutubeId
-                join video in videos on rel.Guid equals video.Guid
-                select new { video, clip};
-
-            foreach (var e in bound)
-                model.Matches.Add(Tuple.Create(e.video, new YoutubeClipViewModel(e.clip)));
-
-            foreach(var v in videos.Except(bound.Select(z=>z.video)))
-            {
-                model.Videos.Add(v);
-            }
-
-            foreach(var y in clips.Except(bound.Select(z=>z.clip)))
-            {
-                model.Clips.Add(new YoutubeClipViewModel(y));
-            }
-
-            var window = new MainWindow();
-            window.DataContext = model;
-            (new Application()).Run(window);
-
-            relation = model.Matches.Select(z => new VideoToYoutubeClip(z.Item1.Guid, z.Item2.Clip.Id)).ToList();
-            Publishing.SaveList(relation);
+            Publishing.SaveList(GetAllPlaylists());
+            Publishing.SaveList(GetAllClips());
         }
     }
 }

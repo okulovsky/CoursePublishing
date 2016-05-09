@@ -1,8 +1,78 @@
 [
   {
+    "Id": "ZiF7H9NF9iY",
+    "Name": "LHPS-3-3-8 Деконструкция науки",
+    "Description": "[GUID: c81171bb-e9d9-4ebb-81a8-34fb6ac09728]"
+  },
+  {
+    "Id": "jp4ABEOTVa0",
+    "Name": "LHPS-3-3-7 Деконструкция и правозащита",
+    "Description": "[GUID: 1800d7f5-68a1-4951-9af5-9d8dc008c763]"
+  },
+  {
+    "Id": "-UxNq-dNx_E",
+    "Name": "LHPS-3-3-6 Деконструкция стереотипов",
+    "Description": "[GUID: 08750cd6-18b6-4f4d-b4aa-a708ce62d94a]"
+  },
+  {
+    "Id": "p8CDypC7sv8",
+    "Name": "LHPS-3-3-5 Другие и привилегированные",
+    "Description": "[GUID: 737dc8f3-981a-4094-8076-c8b6b3095299]"
+  },
+  {
+    "Id": "BW7F-xf46lg",
+    "Name": "LHPS-3-3-4 Новые другие",
+    "Description": "[GUID: 16b7c808-8823-4a6d-885e-64f3d428d037]"
+  },
+  {
+    "Id": "XLohSH_lrtw",
+    "Name": "LHPS-3-3-3 Деконструкция модерна",
+    "Description": "[GUID: eb0884b2-df4d-420d-b336-11fe517e7920]"
+  },
+  {
+    "Id": "937abHvuJgo",
+    "Name": "LHPS-3-3-2 Другие",
+    "Description": "[GUID: b99e35d5-2ace-47d4-80d8-ac87a0714741]"
+  },
+  {
+    "Id": "Tc0ciCYcCp8",
+    "Name": "LHPS-3-3-1 Кризис",
+    "Description": "[GUID: bb1bd34d-4199-42a7-95ba-d5346909ef96]"
+  },
+  {
+    "Id": "70Ajg4b0L9Y",
+    "Name": "CS2-3-4-5 DIP и тестируемость",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/fb131df2-6e6e-4fe1-815f-949d1a16d92a\n\n[GUID: fb131df2-6e6e-4fe1-815f-949d1a16d92a]"
+  },
+  {
+    "Id": "GsfHwrwad7g",
+    "Name": "CS2-3-4-6 Mock Framework",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4\n\n[GUID: dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4]"
+  },
+  {
+    "Id": "UBsBEOjw6cU",
+    "Name": "CS2-3-4-2 Процедурный подход",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/06e5d019-f291-4bf3-a384-3f06d1a6d51c\n\n[GUID: 06e5d019-f291-4bf3-a384-3f06d1a6d51c]"
+  },
+  {
+    "Id": "1sS5Me9X_VI",
+    "Name": "CS2-3-4-4 DIP и расширяемость",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/a9d39216-20f5-4eaf-8aa0-617a94843b95\n\n[GUID: a9d39216-20f5-4eaf-8aa0-617a94843b95]"
+  },
+  {
+    "Id": "Ax-rC7NyfUM",
+    "Name": "CS2-3-4-3 Принципы OCP и DIP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/65eac506-ea6d-43d0-93eb-d9b6d0dfb459\n\n[GUID: 65eac506-ea6d-43d0-93eb-d9b6d0dfb459]"
+  },
+  {
+    "Id": "hB_tLvGmSCY",
+    "Name": "CS2-3-4-1 Введение",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\n\nhttps://ulearn.azurewebsites.net/Slide/93d19beb-1465-430f-ac12-03f40ebd3e17\n\n[GUID: 93d19beb-1465-430f-ac12-03f40ebd3e17]"
+  },
+  {
     "Id": "P2brlcuyskU",
-    "Name": "LHPS-3-1-9 Мироощущение модерна",
-    "Description": "[GUID: 8eee6112-60cd-442d-89af-25f720942fd8]"
+    "Name": "LHPS-3-1-09 Мироощущение модерна",
+    "Description": ""
   },
   {
     "Id": "4S0nQn922LM",

@@ -67,6 +67,23 @@ namespace CoursePublishing
             File.WriteAllText(path, JsonConvert.SerializeObject(data, Formatting.Indented));
         }
 
+        public static void UpdateList<T>(List<T> data, Func<T,string> keySelection, string course=null,string customName=null)
+        {
+            var existing = LoadList<T>(course, customName);
+            var replacements = data.ToDictionary(z => keySelection(z), z => z);
+            for (int i=0;i<existing.Count;i++)
+            {
+                var key = keySelection(existing[i]);
+                if (replacements.ContainsKey(key))
+                {
+                    existing[i] = replacements[key];
+                    replacements.Remove(key);
+                }
+            }
+            existing.AddRange(replacements.Values);
+            SaveList(existing, course, customName);
+        }
+
         public static T LoadOrInit<T>(string course=null, string customName=null)
             where T : new()
         {

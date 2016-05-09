@@ -1,17 +1,20 @@
 {
   "Level": 0,
+  "Order": 0,
   "Guid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f",
   "Name": "Проектирование на языке C#",
   "Videos": [],
   "Sections": [
     {
       "Level": 1,
+      "Order": 0,
       "Guid": "4efb8df0-bbed-45b9-bd9a-f58253a48b72",
       "Name": "Основы проектирования",
       "Videos": [],
       "Sections": [
         {
           "Level": 2,
+          "Order": 0,
           "Guid": "d938e65d-0a57-4e06-bd47-7cb82d4e42fc",
           "Name": "Введение в C#",
           "Videos": [
@@ -30,6 +33,7 @@
         },
         {
           "Level": 2,
+          "Order": 1,
           "Guid": "d3cbe48d-f689-409a-8a63-224ffcb852fc",
           "Name": "Инкапсуляция (лекция)",
           "Videos": [
@@ -47,6 +51,7 @@
         },
         {
           "Level": 2,
+          "Order": 2,
           "Guid": "48998b38-092e-448e-a252-9ebc1cb441e2",
           "Name": "Инкапсуляция (тренинг)",
           "Videos": [
@@ -68,6 +73,7 @@
         },
         {
           "Level": 2,
+          "Order": 3,
           "Guid": "e70b7257-4774-4cd5-ae38-e8b8988d5f51",
           "Name": "Наследование и полиморфизм (лекция)",
           "Videos": [
@@ -81,6 +87,7 @@
         },
         {
           "Level": 2,
+          "Order": 4,
           "Guid": "5195b358-d295-4e30-9cb4-c08bab2863f4",
           "Name": "Наследование и полиморфизм (тренинг)",
           "Videos": [
@@ -100,6 +107,7 @@
         },
         {
           "Level": 2,
+          "Order": 5,
           "Guid": "183a9a63-92b3-49cb-8298-4a9b5557bef0",
           "Name": "Дженерики",
           "Videos": [
@@ -113,6 +121,7 @@
         },
         {
           "Level": 2,
+          "Order": 6,
           "Guid": "367fbb0d-32e6-472a-8011-c4f4fd9dad82",
           "Name": "Делегаты",
           "Videos": [
@@ -133,6 +142,7 @@
         },
         {
           "Level": 2,
+          "Order": 7,
           "Guid": "3e1e674f-02cd-4ba1-8bce-5f42e47ce3e4",
           "Name": "Рефлексия",
           "Videos": [
@@ -153,12 +163,14 @@
     },
     {
       "Level": 1,
+      "Order": 1,
       "Guid": "151e498b-e370-40ea-b8f3-9e67550be888",
       "Name": "Дополнительные главы языка C#",
       "Videos": [],
       "Sections": [
         {
           "Level": 2,
+          "Order": 0,
           "Guid": "c494b78d-f2d6-402c-ac17-12c2a3c1f778",
           "Name": "Управление памятью",
           "Videos": [
@@ -174,6 +186,7 @@
         },
         {
           "Level": 2,
+          "Order": 1,
           "Guid": "1f19cb9c-1a95-4dde-96f8-622ff8131ec6",
           "Name": "Файлы",
           "Videos": [
@@ -188,6 +201,7 @@
         },
         {
           "Level": 2,
+          "Order": 2,
           "Guid": "2cd7bb21-87cb-4ea3-9195-e7420f24e1c0",
           "Name": "Исключения",
           "Videos": [
@@ -205,12 +219,14 @@
     },
     {
       "Level": 1,
+      "Order": 2,
       "Guid": "85f486b8-29ec-46d4-9fe3-f76d308b3d6a",
       "Name": "Продвинутое проектирование",
       "Videos": [],
       "Sections": [
         {
           "Level": 2,
+          "Order": 0,
           "Guid": "e748de76-e1d7-4f91-8dad-d7ae64c6e070",
           "Name": "FluentAPI",
           "Videos": [
@@ -227,6 +243,7 @@
         },
         {
           "Level": 2,
+          "Order": 1,
           "Guid": "241a1e58-c4cf-469a-a2db-a93fb1ae5ea2",
           "Name": "DDD",
           "Videos": [
@@ -238,6 +255,38 @@
             "5acbcf5d-ffa3-44ea-b473-213fdff9b162",
             "c3e22e7e-4300-449d-98ad-a3590ad7b818",
             "64027993-a316-4bcd-b12a-7fe038811c00"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 2,
+          "Guid": "476cd671-a21b-4968-b4b3-100bf920fa35",
+          "Name": "SRP",
+          "Videos": [
+            "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e",
+            "5545b91a-c5c4-425b-a1e3-68663af63464",
+            "1f04d8a9-37cb-4bee-9c7d-77bb565ca346",
+            "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4",
+            "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169",
+            "a0d7e3a5-f653-4ad8-bc30-323f22e87700",
+            "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7",
+            "6c39c149-2d52-4d42-9927-01068314de6e"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 3,
+          "Guid": "43de1ff2-2d1b-4b83-b81b-421dd9609cd3",
+          "Name": "DI",
+          "Videos": [
+            "93d19beb-1465-430f-ac12-03f40ebd3e17",
+            "06e5d019-f291-4bf3-a384-3f06d1a6d51c",
+            "65eac506-ea6d-43d0-93eb-d9b6d0dfb459",
+            "a9d39216-20f5-4eaf-8aa0-617a94843b95",
+            "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
+            "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4"
           ],
           "Sections": []
         }

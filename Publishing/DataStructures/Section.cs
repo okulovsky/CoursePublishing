@@ -60,6 +60,8 @@ namespace CoursePublishing
         {
             get
             {
+                yield return Tuple.Create(new List<Tuple<Section, int>>(), new SectionOrVideoGuid { Section = this });
+
                 for (int i = 0; i < Sections.Count; i++)
                     foreach (var h in Sections[i].ItemsWithPathes)
                     {

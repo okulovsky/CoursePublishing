@@ -1,5 +1,21 @@
 [
   {
+    "CourseGuid": "f3917a19-3f9b-4195-abc1-2723c9fe0418",
+    "VideoGuids": []
+  },
+  {
+    "CourseGuid": "3766a9e8-41d6-4920-b44f-94942939ef28",
+    "VideoGuids": []
+  },
+  {
+    "CourseGuid": "3809d723-dae5-45bf-b9ef-76fadf51115d",
+    "VideoGuids": []
+  },
+  {
+    "CourseGuid": "79e24e47-dbba-4da4-90b9-e5474823cf97",
+    "VideoGuids": []
+  },
+  {
     "CourseGuid": "a7b2f40e-1e7d-4cde-b2e6-d082f4823c47",
     "VideoGuids": [
       "2bc58982-19aa-49ef-bae2-8aaa5d13b967",
@@ -226,7 +242,21 @@
       "40c97cae-2d03-4ce4-a99b-5d886592d373",
       "5acbcf5d-ffa3-44ea-b473-213fdff9b162",
       "c3e22e7e-4300-449d-98ad-a3590ad7b818",
-      "64027993-a316-4bcd-b12a-7fe038811c00"
+      "64027993-a316-4bcd-b12a-7fe038811c00",
+      "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e",
+      "5545b91a-c5c4-425b-a1e3-68663af63464",
+      "1f04d8a9-37cb-4bee-9c7d-77bb565ca346",
+      "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4",
+      "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169",
+      "a0d7e3a5-f653-4ad8-bc30-323f22e87700",
+      "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7",
+      "6c39c149-2d52-4d42-9927-01068314de6e",
+      "93d19beb-1465-430f-ac12-03f40ebd3e17",
+      "06e5d019-f291-4bf3-a384-3f06d1a6d51c",
+      "65eac506-ea6d-43d0-93eb-d9b6d0dfb459",
+      "a9d39216-20f5-4eaf-8aa0-617a94843b95",
+      "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
+      "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4"
     ]
   },
   {

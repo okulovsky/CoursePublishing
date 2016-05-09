@@ -89,6 +89,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataStructures\YoutubePlayList.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="DataStructures\YoutubeClip.cs" />
     <Compile Include="Stepic\Auxiliary.cs" />

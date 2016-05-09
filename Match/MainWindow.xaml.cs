@@ -60,7 +60,7 @@ namespace YoutubeSync
 
         private void CmOk(object sender, RoutedEventArgs e)
         {
-            model.SaveRequest = false;
+            model.SaveRequest = true;
             Close();
         }
     }

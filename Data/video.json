@@ -2735,5 +2735,47 @@
     "Duration": "00:02:54.8960000",
     "OriginalLocation": "Input\\Lecture11\\114-2",
     "EpisodeNumber": 0
+  },
+  {
+    "Guid": "93d19beb-1465-430f-ac12-03f40ebd3e17",
+    "Title": "Введение",
+    "Duration": "00:07:39.5100000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "06e5d019-f291-4bf3-a384-3f06d1a6d51c",
+    "Title": "Процедурный подход",
+    "Duration": "00:11:29.0240000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "65eac506-ea6d-43d0-93eb-d9b6d0dfb459",
+    "Title": "Принципы OCP и DIP",
+    "Duration": "00:09:03.0310000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a9d39216-20f5-4eaf-8aa0-617a94843b95",
+    "Title": "DIP и расширяемость",
+    "Duration": "00:10:06.2860000",
+    "OriginalLocation": "CS2-E-Lecture04-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
+    "Title": "DIP и тестируемость",
+    "Duration": "00:16:07.1160000",
+    "OriginalLocation": "CS2-E\\Lecture04\\03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4",
+    "Title": "Mock Framework",
+    "Duration": "00:13:17.6140000",
+    "OriginalLocation": "CS2-E\\Lecture04\\03-1",
+    "EpisodeNumber": 0
   }
 ]

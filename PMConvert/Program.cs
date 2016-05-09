@@ -43,8 +43,6 @@ namespace PMConvert
             {
                 topicToYoutube.Add(new TopicToYoutubePlaylist(x.Guid, x.Data.PlaylistId));
             }
-
-
             return Build(0,model.CourseStructure.RootTopic, 0, model.CourseStructure.VideoToTopicRelations);
         }
 
@@ -62,12 +60,13 @@ namespace PMConvert
 
             Publishing.SaveList(videos);
             Publishing.SaveList(vty);
+            Publishing.SaveList(tty);
 
         }
 
         static void Main(string[] args)
         {
-            ProcessAll(@"C:\Users\Yura\Desktop\TestMontage\Models\","LHPS","Hackerdom","OOP");
+            ProcessAll(@"C:\Users\Yura\Desktop\Montage\Models\","LHPS","Hackerdom","OOP");
         }
     }
 }
