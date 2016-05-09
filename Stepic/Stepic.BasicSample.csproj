@@ -52,8 +52,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Api.cs" />
-    <Compile Include="Auxiliary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Stepic.Program.cs" />
   </ItemGroup>
@@ -66,14 +64,6 @@
       <Project>{9136f673-3e78-471e-a8d4-58e16a30a786}</Project>
       <Name>Publishing</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="WorkingMock.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
-    <Content Include="Mock.txt">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

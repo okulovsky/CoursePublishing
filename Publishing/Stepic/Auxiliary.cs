@@ -9,7 +9,7 @@ using System.Text;
 using Flurl;
 using System.Threading.Tasks;
 
-namespace Stepic
+namespace CoursePublishing
 {
     static class MyExtension
     {

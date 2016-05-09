@@ -16,9 +16,9 @@ namespace Stepic
 
         static void CreateVideoSlide(string lessonId, int position, FileInfo file)
         {
-            var video = Api.SendVideo(file,lessonId);
+            var video = StepicApi.SendVideo(file,lessonId);
             Console.WriteLine(video.ToString());
-            var step = Api.Step.Create(
+            var step = StepicApi.Step.Create(
                 new
                 {
                     block = new
@@ -45,7 +45,7 @@ namespace Stepic
         {
             //AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
 
-            Api.Authorize();
+            StepicApi.Authorize();
             CreateVideoSlide("27378",3, new FileInfo(@"C:\Users\Yura\Desktop\test1.mp4"));
       
           }

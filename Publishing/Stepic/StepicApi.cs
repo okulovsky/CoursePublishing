@@ -11,9 +11,9 @@ using System.IO;
 using System.Net;
 using System.Collections.Specialized;
 
-namespace Stepic
+namespace CoursePublishing
 {
-    public class Api
+    public class StepicApi
     {
         static string token;
         static string api = "https://stepic.org/api";

@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Publishing", "Publishing\Publishing.csproj", "{9136F673-3E78-471E-A8D4-58E16A30A786}"
 EndProject
@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoutubeSync", "YoutubeVideo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMConvert", "PMConvert\PMConvert.csproj", "{AD30D4DD-98E6-4632-9E10-95A65BEE23F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepic", "Stepic\Stepic.csproj", "{0852D0A0-11A3-4924-888E-C81A1C37CA3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepic.BasicSample", "Stepic\Stepic.BasicSample.csproj", "{0852D0A0-11A3-4924-888E-C81A1C37CA3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stepic", "Stepic", "{FEC3AC0D-CA75-4582-9425-81ECF82AF122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -42,5 +44,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0852D0A0-11A3-4924-888E-C81A1C37CA3B} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 	EndGlobalSection
 EndGlobal
