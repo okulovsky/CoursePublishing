@@ -13,30 +13,43 @@ namespace Stepic
 
     class Program
     {
+
+        static void CreateVideoSlide(string lessonId, int position, FileInfo file)
+        {
+            Console.WriteLine("Sending video " + file.FullName);
+            var video = Api.SendVideo(file);
+            Console.WriteLine(video.ToString());
+            var step = Api.Step.Create(
+                new
+                {
+                    block = new
+                    {
+                        text = "",
+                        name = "video",
+                        video = new
+                        {
+                            id = video["id"].Value<string>(),
+                            status = "raw",
+                            thumbnail = video["thumbnail"].Value<string>(),
+                            urls = new string[] { }
+                        }
+                    },
+                    position = 2,
+                    lesson = "27378"
+                });
+            Console.WriteLine(step.ToString());
+
+
+        }
+
         static void Main()
         {
             AppDomain.CurrentDomain.UnhandledException += CurrentDomain_UnhandledException;
 
             Api.Authorize();
-          //  var lesson = Api.Lesson.Create(new { title = "TestTestTest" });
-            var step = Api.Step.Create(
-                new
-                {
-                    has_instruction = false,
-                    cost = 0,
-                    block = new
-                    {
-                        text = "<p>Hello world!</p>",
-                        name = "text",
-                    },
-                    position = 2,
-                    lesson = "27378"
-                });
-            Console.WriteLine("Check if everithing ready");
-            Console.ReadKey();
-            Api.Step.Delete(step["id"]);
-          //  Api.Lesson.Delete(lesson["id"]);
-        }
+            CreateVideoSlide("27378", 2, new FileInfo(@"C:\Users\Yura\Desktop\test.mp4"));
+      
+          }
 
         private static void CurrentDomain_UnhandledException(object sender, UnhandledExceptionEventArgs _e)
         {

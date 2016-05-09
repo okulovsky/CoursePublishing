@@ -26,6 +26,18 @@ namespace Stepic
                 .First();
         }
 
+        public static JObject SendVideo(FileInfo file)
+        {
+            return api
+                .AppendPathSegment("videos")
+                .WithOAuthBearerToken(token)
+                .PostFileAsync(file.FullName)
+                .ReceiveJson<JObject>()
+                .Now()
+                .Select(z => z["videos"][0] as JObject)
+                .First();
+        }
+
 
 
         public static Entity Lesson = new Entity("lessons", "lesson","lessons");
