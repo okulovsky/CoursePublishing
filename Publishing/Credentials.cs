@@ -11,8 +11,8 @@ namespace CoursePublishing
 {
     public class Credentials
     {
-        public string YoutubeClientId="";// = "329852726670-mlvs6ephqo2vngr04t9t6q1d33dbi1g0.apps.googleusercontent.com";
-        public string YoutubeClientSecret="";//= "TVl9yVgWmsH5bfaB1jymooFV";
+        public string YoutubeClientId="";
+        public string YoutubeClientSecret="";
         public string StepicClientId="";
         public string StepicClientSecret="";
 
