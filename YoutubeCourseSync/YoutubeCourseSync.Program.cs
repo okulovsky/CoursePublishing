@@ -21,6 +21,63 @@ namespace YoutubeCourseSync
         static YouTubeService Service;
         static bool Preview;
 
+        static void Main(string[] args)
+        {
+            if (args.Length < 1)
+            {
+                Console.WriteLine("Pass the name of the course as the first argument");
+                return;
+            }
+
+            CourseName = args[0];
+
+            if (args.Length > 1)
+            {
+                Preview = args[1] == "Preview";
+            }
+
+            Settings = Publishing.LoadInitOrEdit<CourseSettings>(5,CourseName).Youtube;
+
+
+            Service = Publishing.InitializeYoutube();
+           
+            Structure = Publishing.LoadCourseStructure(CourseName);
+
+
+            Clips =
+                (from rel in Publishing.LoadList<VideoToYoutubeClip>()
+                 join clip in Publishing.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
+                 select new { rel, clip }
+                ).ToDictionary(z => z.rel.Guid, z => z.clip);
+
+            Playlists =
+                (from rel in Publishing.LoadList<TopicToYoutubePlaylist>()
+                 join list in Publishing.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
+                 select new { rel, list }
+                 ).ToDictionary(z => z.rel.Guid, z => z.list);
+
+
+
+            Videos = Publishing.LoadList<CoursePublishing.Video>().ToDictionary(z => z.Guid, z => z);
+
+
+            if (!CheckMissingVideos()) return;
+
+            MakeMargins();
+            UpdateVideos();
+            foreach (var e in Settings.PlayListLevels)
+                UpdatePlaylistsForLevel(e);
+
+            if (!Preview)
+            {
+                Publishing.UpdateList(Clips.Values.ToList(), z => z.Id);
+                Publishing.UpdateList(Playlists.Values.ToList(), z => z.Id);
+                Publishing.UpdateList(
+                    Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
+                    z => z.Guid.ToString());
+            }
+        }
+
 
         static bool CheckMissingVideos()
         {
@@ -245,60 +302,6 @@ namespace YoutubeCourseSync
             return playlist;
         }
 
-        static void Main(string[] args)
-        {
-            if (args.Length < 1)
-            {
-                Console.WriteLine("Pass the name of the course as the first argument");
-                return;
-            }
 
-            CourseName = args[0];
-
-            if (args.Length > 1)
-            {
-                Preview = args[1] == "Preview";
-            }
-
-
-            Service = Publishing.InitializeYoutube();
-            Settings = Publishing.LoadOrInit<YoutubeSyncSettings>(CourseName);
-
-            Structure = Publishing.LoadCourseStructure(CourseName);
-
-
-            Clips =
-                (from rel in Publishing.LoadList<VideoToYoutubeClip>()
-                 join clip in Publishing.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
-                 select new { rel, clip }
-                ).ToDictionary(z => z.rel.Guid, z=>z.clip);
-
-            Playlists =
-                (from rel in Publishing.LoadList<TopicToYoutubePlaylist>()
-                 join list in Publishing.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
-                 select new { rel, list }
-                 ).ToDictionary(z => z.rel.Guid, z => z.list);
-
-            
-
-            Videos = Publishing.LoadList<CoursePublishing.Video>().ToDictionary(z=>z.Guid,z=>z);
-           
-
-             if (!CheckMissingVideos()) return;
-
-            MakeMargins();
-            UpdateVideos();
-            foreach (var e in Settings.PlayListLevels)
-                UpdatePlaylistsForLevel(e);
-
-            if (!Preview)
-            {
-                Publishing.UpdateList(Clips.Values.ToList(),z=>z.Id);
-                Publishing.UpdateList(Playlists.Values.ToList(), z => z.Id);
-                Publishing.UpdateList(
-                    Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
-                    z => z.Guid.ToString());
-            }
-        }
     }
 }

@@ -83,7 +83,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="YoutubeCourseData.cs" />
     <Compile Include="YoutubeCourseSync.Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

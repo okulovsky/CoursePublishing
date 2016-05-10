@@ -96,6 +96,31 @@ namespace CoursePublishing
             }
             return Load<T>(course, customName);
         }
+
+        public static T LoadInitOrEdit<T>(int count=9, string course=null, string customName=null)
+            where T:new ()
+        {
+            var path = GetPath<T>(course, customName);
+            if (!File.Exists(path)) return LoadOrInit<T>(course, customName);
+            Console.Write($"Press any key to edit settings {typeof(T).Name} in  ");
+            for (int i=count;i>=0;i--)
+            {
+                if (Console.KeyAvailable)
+                {
+                    try
+                    {
+                        Save(Load<T>(course, customName), course, customName);
+                    }
+                    catch { }
+                    Process.Start(path).WaitForExit();
+                    break;
+                }
+                Console.Write($"\b{i+1}");
+                Thread.Sleep(1000);
+            }
+            Console.WriteLine();
+            return Load<T>(course, customName);
+        }
         #endregion
 
 
