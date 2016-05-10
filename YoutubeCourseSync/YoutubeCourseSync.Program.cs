@@ -294,7 +294,10 @@ namespace YoutubeCourseSync
             if (!Preview)
             {
                 Publishing.UpdateList(Clips.Values.ToList(),z=>z.Id);
-                Publishing.UpdateList(Playlists.Values.ToList(),z=>z.Id);
+                Publishing.UpdateList(Playlists.Values.ToList(), z => z.Id);
+                Publishing.UpdateList(
+                    Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
+                    z => z.Guid.ToString());
             }
         }
     }
