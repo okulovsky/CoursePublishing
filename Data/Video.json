@@ -1,0 +1,2592 @@
+[
+  {
+    "Guid": "6e502f0f-d88d-4168-a1a4-3b5fd204b976",
+    "Title": "Почему важно Новое Время",
+    "Duration": "00:12:23.4740000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\11-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "65d4fa84-a4be-45ef-b963-858b32553a01",
+    "Title": "Почему важна философия",
+    "Duration": "00:07:18.0300000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\11-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9142036a-d7c5-49c3-9f24-419ba6e1cd04",
+    "Title": "Древний мир",
+    "Duration": "00:08:23.4630000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\12-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4dc6a6f6-c8f8-446d-8cd1-4aa9af7aec44",
+    "Title": "Античность",
+    "Duration": "00:12:03.5100000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\12-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fa601ac0-19a0-49e3-8555-93e78672228e",
+    "Title": "Средневековье",
+    "Duration": "00:06:56.1160000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\13-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b7ff7012-c571-4228-9a87-8b9d813ae745",
+    "Title": "Роль христианства",
+    "Duration": "00:14:59.4750000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\13-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c83c3989-0e6c-4e9f-9a95-ed86bf5bcca3",
+    "Title": "Что дальше",
+    "Duration": "00:03:12.5430000",
+    "OriginalLocation": "Input\\Module1\\Lecture1\\13-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "df4c44a3-2fe2-4312-957e-3095270014df",
+    "Title": "Зачем нужна логика",
+    "Duration": "00:04:27.8000000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1f937653-b683-4fcd-a9fc-33fe8c522007",
+    "Title": "Силлогизмы",
+    "Duration": "00:06:16.1670000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "52b960d1-ee60-4a06-84c2-5b376d3647ed",
+    "Title": "Более сложные силлогизмы",
+    "Duration": "00:04:05.4330000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0d343245-b4a0-4cb6-8357-b40879fc4ec7",
+    "Title": "Разоблачение манипуляций с помощью силлогизма",
+    "Duration": "00:05:54.6950000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c7e92d94-f883-4031-bb8c-d25399a0cb55",
+    "Title": "Валидность рассуждения",
+    "Duration": "00:05:15.4290000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c81e3379-58b9-4b8e-8704-4a81d1faa389",
+    "Title": "Обоснованность рассуждения",
+    "Duration": "00:05:43.9260000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5d2d3730-2166-49ae-88cc-6677278904a8",
+    "Title": "О валидности, обоснованности и истинности",
+    "Duration": "00:03:23.2850000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\21-6",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ba011a6f-a601-4008-8168-81fc4cd48a93",
+    "Title": "Логика причин и следствий",
+    "Duration": "00:03:35.4750000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\22-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "37bc47c6-2180-43ad-aa9d-5bedcdc92b54",
+    "Title": "Логическая задача",
+    "Duration": "00:09:43.6330000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\22-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bcc57d46-93e0-4666-85d5-4b0f34437db6",
+    "Title": "Тренировка логического мышления",
+    "Duration": "00:10:46.8680000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\22-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "43b53af9-f345-4842-95cd-b38fb46fc732",
+    "Title": "Математическая логика",
+    "Duration": "00:11:24.5090000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\23-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "240ec178-8da1-4c02-9a5b-f9a2eb328bab",
+    "Title": "Таблицы истинности",
+    "Duration": "00:12:59.0950000",
+    "OriginalLocation": "Input\\Module1\\Lecture2\\23-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cf996496-d026-44dc-b805-083de78ec08d",
+    "Title": "Языковые игры",
+    "Duration": "00:12:37.7510000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\31-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "20e27389-74d0-4b20-8aab-7821e00aea1b",
+    "Title": "Логика в языковых играх",
+    "Duration": "00:07:37.2000000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\31-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a95d4c40-ba4f-4912-86d3-77927e59ce6f",
+    "Title": "Бритва Хэнлона",
+    "Duration": "00:12:32.5130000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\31-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "acd29d86-1449-4f76-bd12-3739bead5a67",
+    "Title": "Стандартная форма",
+    "Duration": "00:03:03.2800000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\32-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "964c96a2-6182-4a68-a373-58dab6185238",
+    "Title": "Пресуппозиции",
+    "Duration": "00:06:37.1900000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\32-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7b77a959-36f5-47aa-9c4f-2fa1d4b4da62",
+    "Title": "Модальности",
+    "Duration": "00:03:31.2580000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\32-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "06ff0323-5276-4f13-914b-ae7a68752e4b",
+    "Title": "Апелляция к авторитету",
+    "Duration": "00:06:24.7400000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\32-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "55d2265e-2980-4042-a96e-dd8e8f427744",
+    "Title": "Ad hominem",
+    "Duration": "00:05:05.8120000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\32-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a6e3fd2e-5f2c-412b-a755-59fbd31b2b8f",
+    "Title": "Оценочные суждения",
+    "Duration": "00:06:47.7650000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1fe2bdc4-71c7-4419-80b3-e232306453de",
+    "Title": "Защитные конструкции",
+    "Duration": "00:05:40.0950000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e31b1eb8-b809-4405-93af-1f3df6f309b4",
+    "Title": "Нечеткие термины",
+    "Duration": "00:04:29.8700000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d20711cb-296b-45a5-96e8-f2df6fc8503d",
+    "Title": "Циклические рассуждения",
+    "Duration": "00:02:43.9650000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b2798bbd-5994-4346-b07e-38dcfd2b0fce",
+    "Title": "Парадокс кучи",
+    "Duration": "00:03:23.2150000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e1e9e523-cd63-44ac-a82e-a600693f19c4",
+    "Title": "Заключение по критическому анализу",
+    "Duration": "00:04:06.4300000",
+    "OriginalLocation": "Input\\Module1\\Lecture3\\33-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "020a0dca-50c0-4ebe-9ef1-b45dcb80fb1a",
+    "Title": "Дедукция и индукция, часть 1",
+    "Duration": "00:10:29.6390000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\51-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cca89e43-a89e-40dc-8a8c-e083df72a665",
+    "Title": "Дедукция и индукция, часть 2",
+    "Duration": "00:10:02.8340000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\51-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9353f2a3-1ba3-489a-b12c-528f84bd88e4",
+    "Title": "Бесплодность дедукции",
+    "Duration": "00:04:13.3110000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\51-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6fdfd0a1-5770-47bd-a074-f2ffbc29dfe4",
+    "Title": "Индуктивные рассуждения и проблема индукции",
+    "Duration": "00:06:11.1720000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\51-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3814455f-5699-4eb2-83b2-2e2787732b01",
+    "Title": "Поспешное обобщение",
+    "Duration": "00:05:44.8240000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\52-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "58037bd3-588a-4c5c-a9a4-e16fb18398a4",
+    "Title": "Misleading vividness и cherry picking",
+    "Duration": "00:04:36.6070000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\52-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "40d13d97-4d79-47be-9a38-22480413ed83",
+    "Title": "Нерепрезентативная выборка",
+    "Duration": "00:05:13.2680000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\52-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9d08d3fc-db77-42e3-befa-f231053ed171",
+    "Title": "Отвержение индукции",
+    "Duration": "00:06:14.0350000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\52-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "99c921f7-ffc5-48ec-a8fd-87271fef390f",
+    "Title": "Защитные конструкции и статистическое обобщение",
+    "Duration": "00:07:55.5790000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\53-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2b3cab1a-49ec-4734-9e50-b66f5f3a88dc",
+    "Title": "Манипуляции с помощью статистики",
+    "Duration": "00:05:14.9230000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\53-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "85c0cdc2-cd95-41d0-a12f-ff930fb04688",
+    "Title": "Примеры ошибок мышления, связанных со статистикой",
+    "Duration": "00:09:11.9320000",
+    "OriginalLocation": "Input\\Module1\\Lecture5\\53-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "076cf09d-2f70-4317-b278-3af0dd8b7c37",
+    "Title": "Причинно-следственные связи",
+    "Duration": "00:12:40.5690000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\61-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fb787def-323a-4b78-9950-1507beb36bea",
+    "Title": "Установление причинно-следственных связей",
+    "Duration": "00:05:09.9780000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\61-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3ed7fb9c-bac0-4c39-bb57-af9c374e249b",
+    "Title": "Классификация причинно-следственных связей",
+    "Duration": "00:09:10.0740000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\61-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e2c0339c-aee9-48d7-85c8-94d3faac4890",
+    "Title": "Ошибки поиска причинно-следственной связи",
+    "Duration": "00:05:18.8280000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\62-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5ddebb58-63ad-4fe4-9ab6-fcb3f755d6fc",
+    "Title": "Абдукция",
+    "Duration": "00:07:28.8160000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\62-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7cdeccb6-77b8-4774-8ac5-132d02707efb",
+    "Title": "Критерии абдукции",
+    "Duration": "00:14:54.0110000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\62-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e03f6450-75b0-46d3-9d49-7fd8ca1585d4",
+    "Title": "Ошибки абдукции",
+    "Duration": "00:05:44.3010000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\63-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "31d92581-8b54-443d-962c-d51cf3dd9177",
+    "Title": "Аналогии",
+    "Duration": "00:04:27.1970000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\63-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8e3a1839-bd2d-4a5c-8d3f-fe06ad6b4519",
+    "Title": "Ошибки аналогии",
+    "Duration": "00:04:33.3930000",
+    "OriginalLocation": "Input\\Module1\\Lecture6\\63-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cf1523a9-5ce2-454a-9a2c-15af37437497",
+    "Title": "Беседы и дискуссии",
+    "Duration": "00:13:36.7650000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\71-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "906b4edb-85c7-4c0c-82a5-aa1afed4ba13",
+    "Title": "Свары",
+    "Duration": "00:12:53.0520000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\72-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c4c6bdfd-0ec4-4189-8905-9290f8c62738",
+    "Title": "Начало дискуссии",
+    "Duration": "00:06:16.4860000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\72-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "76b09903-c28a-4d28-9806-511164c249c0",
+    "Title": "Первый контраргумент",
+    "Duration": "00:09:34.1010000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\72-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3393dcfd-9ef4-408d-87e2-1ded7537c42a",
+    "Title": "Второе возражение",
+    "Duration": "00:09:27.8560000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\73-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3fef1e40-952f-4e0f-b204-dc5644c2b5c8",
+    "Title": "Отзыв тезиса",
+    "Duration": "00:08:43.1890000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\73-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d5c3308e-995a-4957-9764-1bd967ebaf87",
+    "Title": "Обоснование и его первое опровержение",
+    "Duration": "00:07:22.8340000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\73-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2a654f30-7f88-4f17-8a42-c9fd8d2e3e88",
+    "Title": "Второе опровержение",
+    "Duration": "00:07:03.8570000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\73-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6b1e953a-a4f6-4010-915e-d5d6aab5d307",
+    "Title": "Второе обоснование",
+    "Duration": "00:04:54.8510000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\74-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e8496e9d-57fd-4b00-9dd1-c476b3e35265",
+    "Title": "Доказывает утверждающий",
+    "Duration": "00:08:54.8930000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\74-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a6d1f576-e442-4421-9c8f-ff0d76e0e3e7",
+    "Title": "Корни рассуждения",
+    "Duration": "00:11:43.1290000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\74-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "21cd0983-fe1a-44b1-9dbe-50fd96c15f6b",
+    "Title": "Ошибки, связанные с дискуссией",
+    "Duration": "00:05:16.1700000",
+    "OriginalLocation": "Input\\Module1\\Lecture7\\74-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5b70e059-5335-45e8-80dd-c94d3d0db03f",
+    "Title": "Что такое деконструкция",
+    "Duration": "00:04:44.2470000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\81-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4b5539cc-26ab-4aca-9bbf-692910ea1622",
+    "Title": "Модельный пример",
+    "Duration": "00:06:01.8460000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\81-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c29c8386-eb86-4048-a178-052a73bfeeab",
+    "Title": "Я, Сверх-Я и Оно",
+    "Duration": "00:13:07.2560000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\81-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9b989cfc-b080-45e8-94dc-cfcc1dd4c20f",
+    "Title": "Многомерные границы",
+    "Duration": "00:07:28.2930000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\82-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "987b3f64-9367-4f6c-b7b1-5004b92c6e7b",
+    "Title": "Бинарные оппозиции в тексте",
+    "Duration": "00:08:26.4950000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\82-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "55d8c15b-7b3d-4a4a-ad97-bc25b22244da",
+    "Title": "Психологические портреты",
+    "Duration": "00:08:12.2680000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\82-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3f0c8e50-9990-4928-b2ae-8c31b7d6e10f",
+    "Title": "Основная проблема",
+    "Duration": "00:08:03.9050000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\82-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7337a8d7-ee68-42a3-a44e-94c02cd05362",
+    "Title": "Решение проблемы",
+    "Duration": "00:10:59.4060000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\83-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "341d8662-b0fb-4b31-86b1-c8353345cbcc",
+    "Title": "Практика деконструкции",
+    "Duration": "00:11:24.3780000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\83-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "641b9eb6-4092-4a51-8f56-e30d9e6d9e37",
+    "Title": "Как защититься от деконструкции",
+    "Duration": "00:04:17.0330000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\83-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0477d7e1-0e41-4f82-9b02-caf1f5b20b2d",
+    "Title": "Деконструкция в современном искусстве",
+    "Duration": "00:11:52.9350000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\84-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9c36432b-105f-42f7-8696-1fe1cbbb540b",
+    "Title": "Деконструкция в литературной критике",
+    "Duration": "00:14:05.9040000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\84-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c3634336-0cea-4ce2-bf8d-2a07579f5bcb",
+    "Title": "Деконструкция в философии",
+    "Duration": "00:02:27.3260000",
+    "OriginalLocation": "Input\\Module1\\Lecture8\\84-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "51acc40a-ba24-47af-9f3b-9307567f8742",
+    "Title": "Зачем нужна философия науки",
+    "Duration": "00:07:37.4930000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\111-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9ed4ebc8-94fd-4baa-a33a-c853607a638a",
+    "Title": "Новая астрономия",
+    "Duration": "00:10:34.5620000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\111-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d349a09c-270a-4b00-b462-0ce9b3030720",
+    "Title": "Новая механика",
+    "Duration": "00:08:34.6270000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\111-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8dd2c48b-d23d-4ca9-8dc8-1b59600b486b",
+    "Title": "Вопросы новой философии",
+    "Duration": "00:08:07.2110000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\112-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "765c5469-d150-4e94-b6c8-30b049c37cf0",
+    "Title": "Рационализм Декарта",
+    "Duration": "00:09:40.9180000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\112-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "741a4ff4-d4d9-4017-8ef9-e451e9a2802b",
+    "Title": "Эмпиризм Локка",
+    "Duration": "00:06:58.3610000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\112-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "428d5d9d-998f-4d70-a7c0-fa14b4fe0411",
+    "Title": "Критика Юма",
+    "Duration": "00:11:38.3180000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\113-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ab9f5039-5297-44da-8c9a-20a13b8cae92",
+    "Title": "Решение Канта",
+    "Duration": "00:11:28.7800000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\113-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "90574302-1a27-46a2-82b5-57f43b15abcd",
+    "Title": "Философия и разработка программного обеспечения",
+    "Duration": "00:14:08.8160000",
+    "OriginalLocation": "Input\\Module2\\Lecture11\\113-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "46a96a81-f68f-49ba-9892-5a01f1937f9b",
+    "Title": "Научный прогресс 19 века",
+    "Duration": "00:09:02.4820000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\121-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "92f2c47b-0668-4cbd-9bc8-ce0dae6a3278",
+    "Title": "Развод философии и науки",
+    "Duration": "00:07:19.5950000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\121-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ad2c06c6-400d-4abe-8692-239370e0d6cb",
+    "Title": "Вопросы философии науки",
+    "Duration": "00:09:21.5610000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\121-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "04cdd8b0-4215-4b6a-9e10-8a41f6418b18",
+    "Title": "Прогресс в логике и математики",
+    "Duration": "00:09:06.0730000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\122-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ee715e63-1bd9-4763-90ab-8721499af6b2",
+    "Title": "Новая новая наука",
+    "Duration": "00:12:03.4850000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\122-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8b807e1a-9154-4b42-a345-33e2740157a0",
+    "Title": "Логический позитивизм",
+    "Duration": "00:09:43.0010000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\123-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5170939c-a0ff-489b-8ef5-8502613762db",
+    "Title": "Проблемы логического позитивизма",
+    "Duration": "00:06:34.0540000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\123-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "efa6e42d-83b1-478c-847e-77e079679324",
+    "Title": "Пост-позитивизм",
+    "Duration": "00:04:57.3370000",
+    "OriginalLocation": "Input\\Module2\\Lecture12\\123-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "936a1f98-e980-409d-9789-84672d63b77e",
+    "Title": "Научное знание",
+    "Duration": "00:06:27.9300000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\131-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1c0f1fb5-16e4-45e0-bb68-174f9b2deaf4",
+    "Title": "Наблюдение",
+    "Duration": "00:04:57.7560000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\131-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6408486f-d5d0-45ba-be9d-c53ae8c4566f",
+    "Title": "Формирование гипотезы",
+    "Duration": "00:06:07.2300000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\131-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "845f4725-b7af-4b98-b09b-087fa8066a9e",
+    "Title": "Гипотезы и математика",
+    "Duration": "00:05:41.0670000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\131-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2b2bd27f-394e-4716-9abf-edb440ade357",
+    "Title": "Подтверждения и опровержение",
+    "Duration": "00:10:27.2130000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\132-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "222e3c78-00a8-4d5b-ac31-b7f523e33a9b",
+    "Title": "Фальсифицируемость гипотезы",
+    "Duration": "00:07:03.7310000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\132-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "735f56ea-c387-43ac-80a5-84ef3fea33ed",
+    "Title": "Эксперимент",
+    "Duration": "00:06:54.9030000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\132-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "607589f0-94e1-449a-acb7-6845b8e9879b",
+    "Title": "Теория",
+    "Duration": "00:10:02.1940000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\132-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3bab7392-c8b7-4cfc-8ca9-0a0e3791319b",
+    "Title": "Дополнительное чтение по научному методу",
+    "Duration": "00:04:46.8190000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\133-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6ab7abca-5dde-40fc-bd2e-d36cc88b8816",
+    "Title": "Примеры приложения научного метода",
+    "Duration": "00:08:58.3490000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\133-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cdb38ece-1fbe-4583-8f14-1f9138ee782b",
+    "Title": "Место различных наук в научном методе",
+    "Duration": "00:12:11.7810000",
+    "OriginalLocation": "Input\\Module2\\Lecture13\\133-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e6dbb009-d125-45a0-b9a0-a1cfcb43c321",
+    "Title": "Мотивация исследователей",
+    "Duration": "00:10:32.6170000",
+    "OriginalLocation": "LHPS\\Lecture14\\141-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e2a46c8a-b3d6-45e1-a44c-98ef247b99e3",
+    "Title": "Государственное регулирование науки",
+    "Duration": "00:09:38.8470000",
+    "OriginalLocation": "LHPS\\Lecture14\\141-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2b408f5c-d4f0-4b6e-8fdb-84bd2e2fe81b",
+    "Title": "Научный институт",
+    "Duration": "00:06:09.5720000",
+    "OriginalLocation": "LHPS\\Lecture14\\141-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d7c1a42a-acb0-427a-9731-a1f9dd5cf26b",
+    "Title": "Закрытость научного института",
+    "Duration": "00:08:35.3250000",
+    "OriginalLocation": "LHPS\\Lecture14\\142-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5d3b84e6-c9a1-4c71-814b-73a7de4ca763",
+    "Title": "Глобальность научного института",
+    "Duration": "00:04:02.6540000",
+    "OriginalLocation": "LHPS\\Lecture14\\142-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e81f9fff-7ce7-47ab-96df-b29997c42619",
+    "Title": "Научные публикации",
+    "Duration": "00:08:37.4180000",
+    "OriginalLocation": "LHPS\\Lecture14\\142-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c7cb24a3-fc15-4169-a581-f6907b82de88",
+    "Title": "Вторичные источники и массовая культура",
+    "Duration": "00:09:04.4550000",
+    "OriginalLocation": "LHPS\\Lecture14\\142-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "52fb5157-60ef-4c4c-8fe6-efd879f6a453",
+    "Title": "Наукометрика",
+    "Duration": "00:10:27.2480000",
+    "OriginalLocation": "LHPS\\Lecture14\\143-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "776d30c4-3fce-4aa7-85f0-19247fd3fdfa",
+    "Title": "Критика сложившейся модели",
+    "Duration": "00:08:12.1250000",
+    "OriginalLocation": "LHPS\\Lecture14\\143-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "01ee810a-3d76-4ddc-b7a8-d970a1c8e752",
+    "Title": "Издательства тщеславия",
+    "Duration": "00:11:03.6090000",
+    "OriginalLocation": "LHPS\\Lecture14\\143-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d287e10c-b0c8-43c3-8195-4d96d25799ae",
+    "Title": "Вред лженауки",
+    "Duration": "00:10:31.0580000",
+    "OriginalLocation": "LHPS\\Lecture15\\151-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5cb4efd7-925f-4185-a88c-167f1e0f6903",
+    "Title": "Схема демаркации",
+    "Duration": "00:10:57.7180000",
+    "OriginalLocation": "LHPS\\Lecture15\\151-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cd63f54a-dc53-4c02-a7e3-2756fb443d57",
+    "Title": "Паранаука и лженаука",
+    "Duration": "00:16:41.6570000",
+    "OriginalLocation": "LHPS\\Lecture15\\152-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4084b5c9-7da9-4e1a-8914-150695dba737",
+    "Title": "Признаки лженауки",
+    "Duration": "00:15:18.2050000",
+    "OriginalLocation": "LHPS\\Lecture15\\153-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "42930549-ce4c-44bf-a81f-88f5f6af7152",
+    "Title": "Борьба со лженаукой",
+    "Duration": "00:03:55.0190000",
+    "OriginalLocation": "LHPS\\Lecture15\\153-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "43485f8d-60c0-432c-b485-b612bfb64662",
+    "Title": "Как рациональность изменила мир",
+    "Duration": "00:04:33.6190000",
+    "OriginalLocation": "LHPS\\Lecture21\\1-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4adffe21-7af7-42c9-8948-c965838fa80e",
+    "Title": "Средневековье",
+    "Duration": "00:09:10.9460000",
+    "OriginalLocation": "LHPS\\Lecture21\\1-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6d8a1710-eed0-4466-83d8-c6cb60860531",
+    "Title": "Великие географические открытия",
+    "Duration": "00:09:47.6670000",
+    "OriginalLocation": "LHPS\\Lecture21\\2-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "59946278-ff32-443f-9bd0-b42cd063706b",
+    "Title": "Классическая картина мира",
+    "Duration": "00:06:47.3790000",
+    "OriginalLocation": "LHPS\\Lecture21\\3-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e5fb083a-ac00-4cd9-8a99-8b75b90a50a2",
+    "Title": "Идея свободы",
+    "Duration": "00:08:53.1320000",
+    "OriginalLocation": "LHPS\\Lecture21\\3-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "46633696-fe13-4de9-ba9d-089479479e1b",
+    "Title": "Просвещение",
+    "Duration": "00:13:05.4970000",
+    "OriginalLocation": "LHPS\\Lecture21\\4-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "280f61b6-7d15-4727-95c5-128718ae488b",
+    "Title": "Промышленная революция",
+    "Duration": "00:12:38.3390000",
+    "OriginalLocation": "LHPS\\Lecture21\\5-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4e84d364-f806-47fb-a590-132c4e5d3fca",
+    "Title": "Мир модерна",
+    "Duration": "00:06:50.5550000",
+    "OriginalLocation": "LHPS\\Lecture21\\5-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8eee6112-60cd-442d-89af-25f720942fd8",
+    "Title": "Мироощущение модерна",
+    "Duration": "00:07:35.3160000",
+    "OriginalLocation": "LHPS\\Lecture21\\5-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a19cca05-1b91-4df0-b02f-a494d060b7e7",
+    "Title": "Жан-Жак Руссо",
+    "Duration": "00:11:35.0260000",
+    "OriginalLocation": "LHPS\\Lecture22\\1-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "09fd1e14-3654-4097-b60e-5f1fcf12dda8",
+    "Title": "Иррациональная философия",
+    "Duration": "00:18:07.5010000",
+    "OriginalLocation": "LHPS\\Lecture22\\1-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366",
+    "Title": "Зигмунд Фрейд",
+    "Duration": "00:12:36.2770000",
+    "OriginalLocation": "LHPS\\Lecture22\\2-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9b87543a-132b-4983-9b69-4c8fa5416b8d",
+    "Title": "Первая мировая война",
+    "Duration": "00:08:16.2500000",
+    "OriginalLocation": "LHPS\\Lecture22\\2-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bc26cfdc-8be1-4b51-823f-934ca9265cbe",
+    "Title": "Вторая мировая война",
+    "Duration": "00:19:45.0910000",
+    "OriginalLocation": "LHPS\\Lecture22\\3-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8816681e-a877-4438-92fa-de0900d80537",
+    "Title": "Послевоенное время",
+    "Duration": "00:10:20.8330000",
+    "OriginalLocation": "LHPS\\Lecture22\\4-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2bc58982-19aa-49ef-bae2-8aaa5d13b967",
+    "Title": "Темы курса",
+    "Duration": "00:02:30.7220000",
+    "OriginalLocation": "Input\\Lecture03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "26bd758d-c6f4-4102-839e-a5b68e14b3c2",
+    "Title": "Почему важна компьютерная безопасность",
+    "Duration": "00:13:32.1340000",
+    "OriginalLocation": "Input\\Lecture03-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "55531877-74a0-4624-869f-96f8cd9a2e25",
+    "Title": "Классический CTF",
+    "Duration": "00:09:47.8880000",
+    "OriginalLocation": "Input\\Lecture03-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "27f42d11-1fec-4139-8c72-d3e4fb15bf4a",
+    "Title": "CTF-jeopardy",
+    "Duration": "00:04:53.2800000",
+    "OriginalLocation": "Input\\Lecture03-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "952ab6b0-cfe3-40fa-ba7e-0509326049ce",
+    "Title": "История криптографии",
+    "Duration": "00:13:42.3620000",
+    "OriginalLocation": "Input\\Lecture01\\01-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "403f3218-abec-47e2-bcfb-4f302b38128a",
+    "Title": "Алгоритм Диффи-Хеллмана",
+    "Duration": "00:11:02.6630000",
+    "OriginalLocation": "Input\\Lecture01\\01-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e2658eea-0078-4ca4-9e67-66f979b59f17",
+    "Title": "Алгоритм RSA",
+    "Duration": "00:07:53.3240000",
+    "OriginalLocation": "Input\\Lecture01\\02-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1f6d91df-7d89-4b30-9e60-47bef586d6dc",
+    "Title": "Корректность алгоритма RSA",
+    "Duration": "00:06:57.5160000",
+    "OriginalLocation": "Input\\Lecture01\\02-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a7294d8e-4796-4991-b20b-781e855953c8",
+    "Title": "Электронно-цифровая подпись",
+    "Duration": "00:12:26.7760000",
+    "OriginalLocation": "Input\\Lecture01\\02-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "85fc6105-12a0-4023-be20-5918da742c76",
+    "Title": "Заключительные положения",
+    "Duration": "00:03:44.7070000",
+    "OriginalLocation": "Input\\Lecture01\\02-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "248cee8f-1f7f-410a-a09a-93f8935b82ad",
+    "Title": "Хеш-функции",
+    "Duration": "00:06:23.7180000",
+    "OriginalLocation": "Input\\Lecture04\\41-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dae458e2-78bf-438f-8e69-258491c006f9",
+    "Title": "Применение хеш-функций",
+    "Duration": "00:07:39.1340000",
+    "OriginalLocation": "Input\\Lecture04\\41-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7a6d1653-7865-490d-8209-8165fe65591b",
+    "Title": "Криптографическая хеш-функция",
+    "Duration": "00:06:13.5370000",
+    "OriginalLocation": "Input\\Lecture04\\41-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "36456d24-9129-4c38-a8ff-25dc62b66069",
+    "Title": "Применение криптографических хеш-функций, часть 1",
+    "Duration": "00:07:09.7890000",
+    "OriginalLocation": "Input\\Lecture04\\41-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e0e26cd9-0910-4e19-be6c-cea609cc5c88",
+    "Title": "Применение криптостойких хеш-функций, часть 2",
+    "Duration": "00:06:31.4340000",
+    "OriginalLocation": "Input\\Lecture04\\42-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ca0b5c85-1ccb-4e93-825c-901253802771",
+    "Title": "Архитектура Bitcoin",
+    "Duration": "00:16:11.1660000",
+    "OriginalLocation": "Input\\Lecture04\\43-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cc2f600c-9af5-486b-91ec-fd9308005f5c",
+    "Title": "Экономика Bitcoin",
+    "Duration": "00:11:15.0210000",
+    "OriginalLocation": "Input\\Lecture04\\43-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7b4fb17f-9bed-443e-84c6-684ba6e3e416",
+    "Title": "История стеганографии",
+    "Duration": "00:07:46.2090000",
+    "OriginalLocation": "Input\\Lecture05\\51-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5ccea945-1707-4204-8980-95fad52d7c1e",
+    "Title": "Компьютерная стеганография",
+    "Duration": "00:02:41.4210000",
+    "OriginalLocation": "Input\\Lecture05\\51-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6697f13b-21f2-462e-9eba-17169fe015cd",
+    "Title": "Текстовая стеганография",
+    "Duration": "00:04:08.1710000",
+    "OriginalLocation": "Input\\Lecture05\\51-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c1e81612-2e0b-4f79-95cf-21dda0105641",
+    "Title": "Стеганография в изображениях",
+    "Duration": "00:06:11.4330000",
+    "OriginalLocation": "Input\\Lecture05\\51-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0ac74cc4-9429-4087-bc2f-388f567d62bd",
+    "Title": "А если картинка в JPEG",
+    "Duration": "00:01:22.9290000",
+    "OriginalLocation": "Input\\Lecture05\\52-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e44c0c68-f260-467b-a262-ad5f59addc7e",
+    "Title": "Стеганография в звуке и видео",
+    "Duration": "00:05:33.3860000",
+    "OriginalLocation": "Input\\Lecture05\\52-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cb73846d-d46e-4303-89d7-1d08bfffe5ff",
+    "Title": "Стегоанализ",
+    "Duration": "00:04:29.0670000",
+    "OriginalLocation": "Input\\Lecture05\\53-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5fc8f334-08fc-4d86-a974-26749f7a497f",
+    "Title": "Цифровые водяные знаки",
+    "Duration": "00:04:31.9580000",
+    "OriginalLocation": "Input\\Lecture05\\53-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c0e30051-4c3a-41f0-961a-65cf7c6dbaf9",
+    "Title": "Практика",
+    "Duration": "00:11:22.4250000",
+    "OriginalLocation": "Input\\Lecture05\\54-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "eda63641-e069-421c-ba43-3ce811ee655a",
+    "Title": "Заключение",
+    "Duration": "00:01:16.3120000",
+    "OriginalLocation": "Input\\Lecture05\\55-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ed50edd9-688d-4b94-bdc1-9f899880e4eb",
+    "Title": "Стек OSI",
+    "Duration": "00:13:11.5410000",
+    "OriginalLocation": "Input\\Lecture06\\01-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78",
+    "Title": "Стек TCP IP",
+    "Duration": "00:05:22.2990000",
+    "OriginalLocation": "Input\\Lecture06\\01-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "00848dda-cbdf-489d-869c-67845796569e",
+    "Title": "Физический уровень",
+    "Duration": "00:03:28.9790000",
+    "OriginalLocation": "Input\\Lecture06\\02-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cac04028-159e-4c26-897e-dc6748b114ff",
+    "Title": "Канальный уровень",
+    "Duration": "00:08:23.2530000",
+    "OriginalLocation": "Input\\Lecture06\\02-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "37b9f0b8-cdf2-43fd-9ac5-a943a0a47e71",
+    "Title": "Сетевой уровень. IP-адреса",
+    "Duration": "00:10:36.6790000",
+    "OriginalLocation": "Input\\Lecture06\\02-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1cb2c4d2-1f05-4223-a7de-8549e2f0cab3",
+    "Title": "Протокол DHCP",
+    "Duration": "00:05:27.1480000",
+    "OriginalLocation": "Input\\Lecture06\\03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "62b09b31-3ed0-4e24-9169-1240b336dccf",
+    "Title": "Протокол ARP",
+    "Duration": "00:03:03.5970000",
+    "OriginalLocation": "Input\\Lecture06\\03-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dcc16070-0bf8-4e94-96ee-4287940e167a",
+    "Title": "Маршрутизация",
+    "Duration": "00:03:23.0790000",
+    "OriginalLocation": "Input\\Lecture06\\03-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "753844e2-97f4-496d-8aec-26ced5386357",
+    "Title": "Протокол TCP",
+    "Duration": "00:05:52.3100000",
+    "OriginalLocation": "Input\\Lecture06\\04-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e0c9669f-4a74-46fa-81d6-2a49023512bb",
+    "Title": "Порты",
+    "Duration": "00:04:25.7830000",
+    "OriginalLocation": "Input\\Lecture06\\05-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3ac1853a-6dec-408e-a9c9-1c1b0688e36e",
+    "Title": "Протокол NAT",
+    "Duration": "00:03:17.7250000",
+    "OriginalLocation": "Input\\Lecture06\\05-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9010dd2b-157f-4384-8d12-26ba98433211",
+    "Title": "Практика, часть 1",
+    "Duration": "00:00:43.0260000",
+    "OriginalLocation": "Input\\Lecture06\\05-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "23de7b8f-8a5d-493c-82dc-16b72fd4b15d",
+    "Title": "Практика, часть 2",
+    "Duration": "00:11:06.9320000",
+    "OriginalLocation": "Input\\Lecture06\\06-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c916589a-8df8-4173-ac1f-c973370a3dfa",
+    "Title": "Протоколы прикладного уровня",
+    "Duration": "00:05:08.3280000",
+    "OriginalLocation": "Input\\Lecture08\\81-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9df2f428-cf35-4a91-9350-b3bf6a635abd",
+    "Title": "Протокол DNS",
+    "Duration": "00:08:45.7780000",
+    "OriginalLocation": "Input\\Lecture08\\82-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b07a0f80-a40a-4c16-91c2-7ba49bd97449",
+    "Title": "Иерархия NS-серверов",
+    "Duration": "00:09:05.3520000",
+    "OriginalLocation": "Input\\Lecture08\\82-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "634ff379-c533-4722-9b9e-b9d8ca4aa82d",
+    "Title": "Отравления кеша в DNS",
+    "Duration": "00:09:13.0330000",
+    "OriginalLocation": "Input\\Lecture08\\82-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ecb00bac-3f60-4a74-b9ef-25ce54c4cb67",
+    "Title": "Дополнительные подробности о DNS",
+    "Duration": "00:13:26.8710000",
+    "OriginalLocation": "Input\\Lecture08\\83-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "96416927-9ffa-494f-a649-2c0f7f64950d",
+    "Title": "Протокол FTP",
+    "Duration": "00:09:16.7410000",
+    "OriginalLocation": "Input\\Lecture08\\84-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bf2f44ce-6b9c-4e3d-aada-12edd5414156",
+    "Title": "Дополнительные подробности о FTP",
+    "Duration": "00:06:45.8350000",
+    "OriginalLocation": "Input\\Lecture08\\84-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8406ef3b-4e76-4199-8144-51df8927eabb",
+    "Title": "Протокол SMTP",
+    "Duration": "00:10:38.6920000",
+    "OriginalLocation": "Input\\Lecture08\\85-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4403acb5-cce5-48c1-90fd-9fd5772bfc33",
+    "Title": "Туннелирование и VPN",
+    "Duration": "00:14:17.7890000",
+    "OriginalLocation": "Input\\Lecture08\\86-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5ad7c7fc-d551-416b-b6c7-f844de0b89c3",
+    "Title": "История HTTP",
+    "Duration": "00:06:35.1430000",
+    "OriginalLocation": "Input\\Lecture10\\101-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6ee91c90-1e81-44d2-92fd-b679382c0e39",
+    "Title": "Структура HTTP",
+    "Duration": "00:08:16.7270000",
+    "OriginalLocation": "Input\\Lecture10\\101-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f38982c8-91de-42f6-9e40-86ed752d327d",
+    "Title": "URL",
+    "Duration": "00:04:02.7960000",
+    "OriginalLocation": "Input\\Lecture10\\101-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "062b52e2-c3ef-405e-b116-6172f6d6b387",
+    "Title": "Методы HTTP",
+    "Duration": "00:08:14.4320000",
+    "OriginalLocation": "Input\\Lecture10\\101-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b1f4cccd-cee7-4482-976d-ceb60d326272",
+    "Title": "Заголовки, часть 1",
+    "Duration": "00:18:26.5720000",
+    "OriginalLocation": "Input\\Lecture10\\102-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3",
+    "Title": "Заголовки, часть 2",
+    "Duration": "00:10:05.4260000",
+    "OriginalLocation": "Input\\Lecture10\\102-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e",
+    "Title": "Авторизация и аутентификация",
+    "Duration": "00:06:07.8390000",
+    "OriginalLocation": "Input\\Lecture10\\103-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b8744320-0270-4d1c-aee3-33375e48e9bd",
+    "Title": "Протокол HTTPS",
+    "Duration": "00:03:32.7860000",
+    "OriginalLocation": "Input\\Lecture10\\103-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "67dc4001-31bb-4192-b7cc-b245bf62bf14",
+    "Title": "Протокол CGI",
+    "Duration": "00:05:26.1720000",
+    "OriginalLocation": "Input\\Lecture10\\103-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "55ee9893-66a4-4803-befe-116a7996d16a",
+    "Title": "HTML и формы",
+    "Duration": "00:12:20.3680000",
+    "OriginalLocation": "Input\\Lecture10\\104-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "03c0202b-0aeb-4789-be91-04e7a0a2a9b3",
+    "Title": "Атаки на HTML",
+    "Duration": "00:10:04.8590000",
+    "OriginalLocation": "Input\\Lecture10\\104-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "283ec4e7-203e-42b5-8227-a887e307b51a",
+    "Title": "Инъекции",
+    "Duration": "00:04:28.4270000",
+    "OriginalLocation": "Input\\Lecture11\\111-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "61825d93-82e6-4db5-ae21-6fc9aae4e315",
+    "Title": "SQL-инъекции",
+    "Duration": "00:09:04.8770000",
+    "OriginalLocation": "Input\\Lecture11\\111-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e9de4b61-ae31-4aee-a860-c6db495e8e2f",
+    "Title": "SQL-инъекции с UNION",
+    "Duration": "00:03:44.4900000",
+    "OriginalLocation": "Input\\Lecture11\\111-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e4c11062-7ed1-42b9-815d-e39a455ccc02",
+    "Title": "Группировка, сортировка и работа с файлами",
+    "Duration": "00:05:38.8630000",
+    "OriginalLocation": "Input\\Lecture11\\112-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2a37b4c1-4666-4808-b4e3-6cc03be72a2d",
+    "Title": "Экранирование символов",
+    "Duration": "00:02:43.2170000",
+    "OriginalLocation": "Input\\Lecture11\\112-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8adcc22b-abbe-4a36-8bd6-88c4f953a54a",
+    "Title": "Множественные запросы",
+    "Duration": "00:02:25.0830000",
+    "OriginalLocation": "Input\\Lecture11\\112-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bbbc041f-10fe-4663-99df-48e568783624",
+    "Title": "Слепые инъекции",
+    "Duration": "00:06:08.5010000",
+    "OriginalLocation": "Input\\Lecture11\\112-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "091326fc-02a8-425c-8b80-09a9bed6ce19",
+    "Title": "NoSQL ",
+    "Duration": "00:05:59.8640000",
+    "OriginalLocation": "Input\\Lecture11\\113-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c8c18fd5-96e2-495d-bff1-97a4d0ab1787",
+    "Title": "CSS",
+    "Duration": "00:05:26.5360000",
+    "OriginalLocation": "Input\\Lecture11\\113-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "43693efe-2d83-4c78-9f42-71a7780a72c2",
+    "Title": "LDAP",
+    "Duration": "00:06:49.9440000",
+    "OriginalLocation": "Input\\Lecture11\\113-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a8ebb60c-0fce-4d80-b46a-6872c82bfaf0",
+    "Title": "XPath",
+    "Duration": "00:05:23.5760000",
+    "OriginalLocation": "Input\\Lecture11\\113-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e34d0b18-fb8c-4039-85a2-5ca392bc66f0",
+    "Title": "Инъекции в командах ОС",
+    "Duration": "00:02:56.0150000",
+    "OriginalLocation": "Input\\Lecture11\\114-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1a9b7825-704d-4d1e-bc78-a697386da3dd",
+    "Title": "Инъекции в HTTP-заголовки",
+    "Duration": "00:04:39.5400000",
+    "OriginalLocation": "Input\\Lecture11\\114-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "89ab29cb-4715-4a9c-84cd-2131399d394a",
+    "Title": "Заключение",
+    "Duration": "00:02:54.8960000",
+    "OriginalLocation": "Input\\Lecture11\\114-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
+    "Title": "Операционные системы",
+    "Duration": "00:18:06.4630000",
+    "OriginalLocation": "Input\\09\\09-1-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
+    "Title": "GNU, FSF",
+    "Duration": "00:04:37.6440000",
+    "OriginalLocation": "Input\\09\\09-2-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
+    "Title": "Стандарт POSIX, Minix",
+    "Duration": "00:06:43.8370000",
+    "OriginalLocation": "Input\\09\\09-3-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "745cd0a2-dee1-4596-ba6e-345edf3dda39",
+    "Title": "История Linux, дистрибутивы",
+    "Duration": "00:17:47.0410000",
+    "OriginalLocation": "Input\\09\\09-4-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dd4267c3-d178-4644-a07d-c30bed4b2d21",
+    "Title": "Unix Way",
+    "Duration": "00:09:51.7660000",
+    "OriginalLocation": "Input\\09\\09-5-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a0357ffa-f00f-4030-be9c-159633c3568a",
+    "Title": "Загрузка системы",
+    "Duration": "00:16:20.0570000",
+    "OriginalLocation": "Input\\09\\09-6-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3545dbbb-e990-4401-9892-3bf001bedd6c",
+    "Title": "Пользователи",
+    "Duration": "00:12:09.5690000",
+    "OriginalLocation": "Input\\09\\09-7-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "199bdd47-8111-427d-8677-00e434745302",
+    "Title": "Команды Linux",
+    "Duration": "00:16:42.6660000",
+    "OriginalLocation": "Input\\09\\09-8-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
+    "Title": "Виртуальные машины",
+    "Duration": "00:05:16.5960000",
+    "OriginalLocation": "Input\\09\\09-9-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e1ab44a2-c4c4-45f5-807b-cbea25dd743d",
+    "Title": "Архитектура компьютера",
+    "Duration": "00:17:33.2210000",
+    "OriginalLocation": "Hackerdom\\10\\10-01-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7f2512c2-5df5-44c0-b787-6c439d7a5154",
+    "Title": "Принцип Фон Неймана",
+    "Duration": "00:04:26.3680000",
+    "OriginalLocation": "Hackerdom\\10\\10-02-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "552b9070-0243-4655-989f-5f856c189084",
+    "Title": "Регистры процессоров",
+    "Duration": "00:10:00.1270000",
+    "OriginalLocation": "Hackerdom\\10\\10-03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "21f4cf4e-bb28-4778-8e82-9cc57141ac41",
+    "Title": "Ассемблер",
+    "Duration": "00:06:23.2590000",
+    "OriginalLocation": "Hackerdom\\10\\10-04-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f27ceaf2-3926-42e3-a862-e04c6771b0cf",
+    "Title": "Команда MOV",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-05-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0",
+    "Title": "Стек",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-06-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "93f658c4-84bd-4312-b8ec-8b0d5945962f",
+    "Title": "Арифметические и логические операции",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-07-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "49856ebe-f862-4272-b041-ad4d688cba99",
+    "Title": "Знаковые числа",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-08-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "45cbad06-e7b0-4c02-b74d-7802b4d09d0e",
+    "Title": "Безусловный переход",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-09-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0a3ba148-7495-4014-9065-8f59dc43aac1",
+    "Title": "Управление выполнением программы",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-10-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e2cfed6d-3ca8-4eac-8c70-766b66fac55e",
+    "Title": "Функции",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-11-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e171284d-0962-4e63-b370-8036a3bce1eb",
+    "Title": "Структура исполняемого файла",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\10\\10-12-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "88892f91-997b-4739-a305-ada5ffff7439",
+    "Title": "Введение в Reverse Engineering",
+    "Duration": "00:17:00.7130000",
+    "OriginalLocation": "Hackerdom\\11\\11-01-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d93e0e1b-95ec-4ee1-8e18-696079347b6c",
+    "Title": "Форматы исполняемых файлов",
+    "Duration": "00:08:52.8990000",
+    "OriginalLocation": "Hackerdom\\11\\11-01-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6a0773c7-1aa2-44b3-af3e-3f53691a55a7",
+    "Title": "Как устроен РЕ-файл",
+    "Duration": "00:17:02.1790000",
+    "OriginalLocation": "Hackerdom\\11\\11-02-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a985c48c-020b-4e09-a3f3-5658205ab1a7",
+    "Title": "Паттерны исполняемого кода",
+    "Duration": "00:20:44.3350000",
+    "OriginalLocation": "Hackerdom\\11\\11-03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "26f3391a-2792-430d-8398-8e7312dfd0fc",
+    "Title": "Объектно-ориентированное программирование",
+    "Duration": "00:12:18.3870000",
+    "OriginalLocation": "Hackerdom\\11\\11-04-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "344de5f8-8657-420c-a5a2-e2e648739ab6",
+    "Title": "Пакеры",
+    "Duration": "00:14:40.6420000",
+    "OriginalLocation": "Hackerdom\\11\\11-04-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ab9abdef-959a-4d31-b7af-40255df35d50",
+    "Title": "Антиотладка",
+    "Duration": "00:14:20.3360000",
+    "OriginalLocation": "Hackerdom\\11\\11-05-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4895ff12-8a51-45d1-a32e-956347066598",
+    "Title": "Введение в бинарные уязвимости",
+    "Duration": "00:03:01.7870000",
+    "OriginalLocation": "Hackerdom\\12\\12-01-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5",
+    "Title": "Отладчик GDB",
+    "Duration": "00:00:00",
+    "OriginalLocation": "Hackerdom\\12\\12-01-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b",
+    "Title": "Переполнение стека",
+    "Duration": "00:15:00.2930000",
+    "OriginalLocation": "Hackerdom-12-12-02-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8feb1864-c3c8-462b-b226-e1b40f17b3c8",
+    "Title": "Исполнение кода, шеллкод",
+    "Duration": "00:11:53.1160000",
+    "OriginalLocation": "Hackerdom\\12\\12-03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b21f7904-eeee-4a9e-b1db-def706019959",
+    "Title": "OpenSSL Heartbleed",
+    "Duration": "00:07:39.4970000",
+    "OriginalLocation": "Hackerdom\\12\\12-04-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4905e6d3-0b7a-426c-8555-0b45f4b5207a",
+    "Title": "Уязвимость форматной строки",
+    "Duration": "00:20:19.5060000",
+    "OriginalLocation": "Hackerdom\\12\\12-05-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1196f4d3-49ad-4314-bc08-e469e1cc640c",
+    "Title": "Запись произвольной памяти",
+    "Duration": "00:13:17.1870000",
+    "OriginalLocation": "Hackerdom\\12\\12-06-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7df81bac-f52c-4219-8663-4d215bafbc7a",
+    "Title": "Введение",
+    "Duration": "00:02:27.6580000",
+    "OriginalLocation": "CS2-LectureXX-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f85a480f-18be-4564-b21f-57281100e3ef",
+    "Title": "C# и Java",
+    "Duration": "00:04:56.2160000",
+    "OriginalLocation": "CS2-LectureXX-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4858db34-9490-4877-83a3-cdd70509406e",
+    "Title": "C# и C",
+    "Duration": "00:05:17.4460000",
+    "OriginalLocation": "CS2-LectureXX-01.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "60871770-3d77-4d4c-b68f-ba9e3494d134",
+    "Title": "C# и Python, PHP",
+    "Duration": "00:03:15.0150000",
+    "OriginalLocation": "CS2-LectureXX-01.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "697057ce-1340-41cc-b718-dc6411c38279",
+    "Title": "C# и другие языки",
+    "Duration": "00:01:23.2390000",
+    "OriginalLocation": "CS2-LectureXX-01.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "43a2e58b-f96c-4f70-8ada-cc77b8173f55",
+    "Title": "Hello, world",
+    "Duration": "00:04:13.0110000",
+    "OriginalLocation": "CS2-LectureXX-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c01e6951-6d51-4617-b4cf-59205b636d91",
+    "Title": "Типы данных",
+    "Duration": "00:09:35.2020000",
+    "OriginalLocation": "CS2-LectureXX-02.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d0d272ef-b4e9-4844-83c7-53c5e699904b",
+    "Title": "Основные программные конструкции",
+    "Duration": "00:07:10.9430000",
+    "OriginalLocation": "CS2-LectureXX-03.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d037853c-5ce7-4cde-a8ec-91d1bf025c5d",
+    "Title": "Массивы, коллекции, foreach",
+    "Duration": "00:06:06.1770000",
+    "OriginalLocation": "CS2-LectureXX-03.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c37ea992-4ffd-4ea7-a5c9-f6b4da68fd68",
+    "Title": "Ссылочные типы и типы-значения",
+    "Duration": "00:07:39.2940000",
+    "OriginalLocation": "CS2-LectureXX-04.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "672a6d5f-4cd7-4662-b415-4c85352dcfd8",
+    "Title": "public, private, static",
+    "Duration": "00:02:11.3880000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5dc7075a-23dd-464a-b867-c525b181ba93",
+    "Title": "Модификатор internal",
+    "Duration": "00:05:11.4020000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "00d26cfa-3fba-44f9-b06d-8f0486d5f47a",
+    "Title": "Конструкторы",
+    "Duration": "00:02:15.3900000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a530d860-f05b-485d-b20b-7733573faea8",
+    "Title": "Порядок инициализации",
+    "Duration": "00:02:53.3940000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bc9440c2-0cfa-4c84-b9a7-6a1709858b85",
+    "Title": "Перегруженные методы и параметры по умолчанию",
+    "Duration": "00:03:00.4990000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fbe9bfa4-e8ad-4612-8297-63e90a799b49",
+    "Title": "Операторы",
+    "Duration": "00:03:53.6650000",
+    "OriginalLocation": "CS2-Lecture03-1-31.mm-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "76ec7986-01b1-43ef-9022-8228ce25a9ed",
+    "Title": "Свойства",
+    "Duration": "00:08:05.2840000",
+    "OriginalLocation": "CS2-Lecture03-1-32.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ed912b8f-edca-4513-9813-68d07463eaf9",
+    "Title": "Индексаторы",
+    "Duration": "00:01:09.0410000",
+    "OriginalLocation": "CS2-Lecture03-1-33-c.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9a54a05b-bb6f-4600-b27f-1b518824b96f",
+    "Title": "Структуры",
+    "Duration": "00:09:06.2870000",
+    "OriginalLocation": "CS2-Lecture03-1-33-c.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0d599304-cd2a-4bbd-8610-e6f2f3d204e6",
+    "Title": "Выделение класса - задача",
+    "Duration": "00:08:26.7170000",
+    "OriginalLocation": "CS2-Lecture05-1.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2f6c9fc2-5ac4-4025-9d35-c9ece5b7f381",
+    "Title": "Выделение класса - решение",
+    "Duration": "00:05:28.0430000",
+    "OriginalLocation": "CS2-Lecture05-1.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c9d642e4-ca66-418f-a9eb-ec1ff902f015",
+    "Title": "Свойства - задача",
+    "Duration": "00:02:37.5230000",
+    "OriginalLocation": "CS2-Lecture05-1.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "96aa88e4-c17a-40c8-aa9c-a876d6f23cc6",
+    "Title": "Свойства - решение",
+    "Duration": "00:02:58.1560000",
+    "OriginalLocation": "CS2-Lecture05-1.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cbaf4ab3-f892-416a-b8d4-18846aa4ed8f",
+    "Title": "Маскировка ошибок vs решение проблем",
+    "Duration": "00:04:20.3990000",
+    "OriginalLocation": "CS2-Lecture05-1.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dbe74b6c-9ce5-4815-a64f-b6d17d7b0272",
+    "Title": "Конструкторы - задача",
+    "Duration": "00:01:03.1000000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d9c9eb7f-165d-47ba-92cb-66f2b7da262d",
+    "Title": "Конструкторы - решение",
+    "Duration": "00:04:28.9660000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "120f2a91-2c41-429e-8325-dcb6e9dff16a",
+    "Title": "Индексаторы - задача",
+    "Duration": "00:00:33.3570000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a5011945-da28-4dd7-9e07-5146ce89e2d9",
+    "Title": "Индексаторы - решение",
+    "Duration": "00:02:26.4240000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8f302ff9-8e35-4864-9051-6c8e717b787d",
+    "Title": "Структуры - задача",
+    "Duration": "00:01:22.3320000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "de09778b-36f9-4126-9587-dac89d941d5b",
+    "Title": "Структуры - решение",
+    "Duration": "00:07:04.1420000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "da610f9e-0b39-42e9-896c-feec632f1542",
+    "Title": "Операторы - задача",
+    "Duration": "00:01:05.9230000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-6",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2a500d60-6281-43c8-bb70-fd650907de9a",
+    "Title": "Операторы - решение",
+    "Duration": "00:02:19.9270000",
+    "OriginalLocation": "CS2-Lecture05-2.mm-7",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "14b5c0cc-8d6e-464c-91b4-45e91839a2ef",
+    "Title": "Наследование",
+    "Duration": "00:08:41.3900000",
+    "OriginalLocation": "CS2-Lecture04-1.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8e4e1a71-728b-4daa-9081-f3088d477c7a",
+    "Title": "Интерфейсы",
+    "Duration": "00:06:10.3290000",
+    "OriginalLocation": "CS2-Lecture04-1.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "55c33085-1691-4f52-abe5-8971f203ad09",
+    "Title": "Дополнение к явной реализации",
+    "Duration": "00:01:32.8140000",
+    "OriginalLocation": "CS2-Lecture04-2.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3dea5dd7-6b3d-4aa7-a115-48ff02ee0f23",
+    "Title": "Полиморфизм и абстрактные базовые классы",
+    "Duration": "00:11:12.5860000",
+    "OriginalLocation": "CS2-Lecture04-2.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "75965a9f-2bc4-4a82-b7c3-de5085d48cd1",
+    "Title": "Ключевые слова new и sealed",
+    "Duration": "00:04:23.9030000",
+    "OriginalLocation": "CS2-Lecture04-2.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0b9e9452-55c9-4612-9ed7-ea7c5c1f93e1",
+    "Title": "Реализация интерфейса - задача",
+    "Duration": "00:01:50.4040000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e68b0a07-5586-4b39-9c45-15ddc697b6be",
+    "Title": "Реализация интерфейса - решение",
+    "Duration": "00:02:10.7500000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cb9fb619-e6ef-42a6-9ca7-a71e81cadd28",
+    "Title": "Выделение метода - задача",
+    "Duration": "00:01:32.2090000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "09f140a8-fda0-4134-bb29-e473923bf678",
+    "Title": "Выделение метода - решение",
+    "Duration": "00:02:23.7600000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c16ecf93-7972-48df-9cd8-fd4c10108f27",
+    "Title": "Чистые и грязные методы",
+    "Duration": "00:05:42.7700000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f44db8b4-54b7-4ccc-a9ff-2b7244b50880",
+    "Title": "Наследование - задача",
+    "Duration": "00:01:26.3480000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fabc5944-8832-406a-9969-48400ca42a80",
+    "Title": "Наследование - решение",
+    "Duration": "00:03:29.2270000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-6",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cf5f50f1-e4ac-415e-8d54-b9c17eb7654d",
+    "Title": "Роль архитектуры в приложении",
+    "Duration": "00:04:15.1060000",
+    "OriginalLocation": "CS2-Lecture05-3.mm-7",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "01460132-df59-486b-adf1-bd5c8288e40b",
+    "Title": "Большой рефакторинг - задача",
+    "Duration": "00:02:56.3770000",
+    "OriginalLocation": "CS2-Lecture05-4.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "01502e03-43ac-498c-9f81-a24140267a21",
+    "Title": "Большой рефакторинг - решение",
+    "Duration": "00:09:41.3770000",
+    "OriginalLocation": "CS2-Lecture05-4.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2ba0d223-183d-49f2-9d3d-7ce8c6deeaaf",
+    "Title": "Single Responsibility Principle",
+    "Duration": "00:03:43.7660000",
+    "OriginalLocation": "CS2-Lecture05-4.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b9e8727a-09c5-4f92-9b58-a167a5e2b531",
+    "Title": "Generic-классы",
+    "Duration": "00:06:37.7630000",
+    "OriginalLocation": "CS2\\Lecture04\\3-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b473b8b2-e988-4b87-b263-85c801426306",
+    "Title": "Generic-методы",
+    "Duration": "00:04:40.8560000",
+    "OriginalLocation": "CS2\\Lecture04\\3-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5070f6a8-4f67-473d-aa74-5fc611de5ff5",
+    "Title": "Ковариация и контравариация",
+    "Duration": "00:06:11.4750000",
+    "OriginalLocation": "CS2\\Lecture04\\3-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "37abdc4f-47f6-4d30-b336-2e5e7edb0430",
+    "Title": "Дженерики - задача",
+    "Duration": "00:02:55.9020000",
+    "OriginalLocation": "CS2\\Lecture05\\4-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "79fa0ccc-4bff-444b-b38c-6fb175ae1cb4",
+    "Title": "Дженерики - решение",
+    "Duration": "00:05:31.7340000",
+    "OriginalLocation": "CS2-Lecture07-1.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f8cb42f7-9353-4263-9625-5184d1d732a0",
+    "Title": "Простое делегирование, задача",
+    "Duration": "00:01:45.0350000",
+    "OriginalLocation": "CS2-Lecture06-1.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f0211376-0739-4fe6-bc77-3957d80c93fb",
+    "Title": "Простое делегирование, решение",
+    "Duration": "00:06:22.8280000",
+    "OriginalLocation": "CS2-Lecture06-1.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0da86f55-fd69-45f9-81b5-0e9db0f9131b",
+    "Title": "Более сложное делегирование, задача",
+    "Duration": "00:01:22.4340000",
+    "OriginalLocation": "CS2-Lecture06-1.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "404fd639-aefe-4a5f-9da7-2f23b96c6313",
+    "Title": "Более сложное делегирование, решение",
+    "Duration": "00:06:13.4550000",
+    "OriginalLocation": "CS2-Lecture06-1.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2ecc1e80-69b4-401a-8f33-ca8c80cbeb48",
+    "Title": "Сложное делегирование - задание",
+    "Duration": "00:01:49.3620000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "400dd085-8ac0-4f38-b5e4-e6d0c697a637",
+    "Title": "Сложное делегирование - решение",
+    "Duration": "00:07:09.3080000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c09c91b1-2b81-475f-9062-971a2d5187cf",
+    "Title": "Делегирование без делегатов - задание",
+    "Duration": "00:02:06.1200000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "170048ef-2a9e-474b-856f-1acbb2867f34",
+    "Title": "Делегирование без делегатов - решение",
+    "Duration": "00:06:22.2020000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b8e5b75d-0863-44b7-adb8-bc0600db2e16",
+    "Title": "Делегирование без делегатов - обсуждение",
+    "Duration": "00:03:07.3310000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0649a48b-8a78-439e-a9fe-dce1e6f08bf8",
+    "Title": "Обратное совместимость - задача",
+    "Duration": "00:00:52.0380000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c1cd4f11-8bc1-4b28-9737-15dadfa0f766",
+    "Title": "Обратная совместимость - решение",
+    "Duration": "00:04:24.5940000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-6",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7e8208f2-37b3-4511-bd96-7f3512b4bda5",
+    "Title": "Декораторы",
+    "Duration": "00:01:25.1070000",
+    "OriginalLocation": "CS2-Lecture06-2.mm-7",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "16f8af66-41f6-4582-92e3-cb873b3b06df",
+    "Title": "Рефлексия типов - задача",
+    "Duration": "00:02:24.3490000",
+    "OriginalLocation": "CS2-Lecture06-3.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7e35622e-81da-4c1a-bd5b-ee5a578355a1",
+    "Title": "Рефлексия типов - решение",
+    "Duration": "00:06:35.5560000",
+    "OriginalLocation": "CS2-Lecture06-3.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3a03a896-cca6-4c3f-8318-8efe584d4cc1",
+    "Title": "Профайлинг рефлексии - задача",
+    "Duration": "00:01:43",
+    "OriginalLocation": "CS2-Lecture06-3.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "263f495c-0104-432a-977f-21170b560e78",
+    "Title": "Профайлинг рефлексии - решение",
+    "Duration": "00:04:01.1720000",
+    "OriginalLocation": "CS2-Lecture06-3.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cb5e1b36-2c1e-4e55-8793-2b80e0416205",
+    "Title": "Рефакторинг рефлексии - задача",
+    "Duration": "00:01:41.5960000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a651577a-7bf9-400c-811b-e1d7e44aae34",
+    "Title": "Рефакторинг рефлексии - решение",
+    "Duration": "00:05:08.5640000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f95758e9-5b46-4f2a-ad9b-bb077e73d57e",
+    "Title": "Оптимизация рефлекции - задача",
+    "Duration": "00:00:48.7730000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "502350ad-0950-4ddc-8388-e734c8adc117",
+    "Title": "Оптимизация рефлексии - решение",
+    "Duration": "00:03:38.5820000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8bee9bd4-1acc-483b-aa01-973c35c25517",
+    "Title": "Expressions - задача",
+    "Duration": "00:00:49.2050000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "eb664e9f-5d20-45f4-aa39-fcab13cb4b79",
+    "Title": "Expressions - решение",
+    "Duration": "00:09:19.9480000",
+    "OriginalLocation": "CS2-Lecture06-4.mm-5",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2bc5d86b-867c-48e8-af54-4e08f4b2b69c",
+    "Title": "Потоки",
+    "Duration": "00:06:28.6150000",
+    "OriginalLocation": "CS2-Lecture07-2.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "08e330f6-9d55-4553-9823-0f5a8d7920b7",
+    "Title": "Исключения",
+    "Duration": "00:10:41.3160000",
+    "OriginalLocation": "CS2-Lecture07-2.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "75c0963b-827e-4185-aff9-9089d9c0e6c7",
+    "Title": "Управляемая память",
+    "Duration": "00:02:08.3880000",
+    "OriginalLocation": "CS2-Lecture07-3.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2cc1bbed-3ed2-4b1f-abd9-0d0c1bf1fde2",
+    "Title": "Финализаторы",
+    "Duration": "00:02:38.1290000",
+    "OriginalLocation": "CS2-Lecture07-3.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a966a0b6-ca95-4383-8dc1-0fc257dbe9cd",
+    "Title": "Паттерн Disposable",
+    "Duration": "00:06:40.9890000",
+    "OriginalLocation": "CS2-Lecture07-3.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3eb686f4-2662-4394-ac3d-c0c91f5510c5",
+    "Title": "Оператор using",
+    "Duration": "00:04:30.0190000",
+    "OriginalLocation": "CS2-Lecture07-3.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4659a514-a9c3-4e45-b390-2d790622895f",
+    "Title": "Нетипичное использование using",
+    "Duration": "00:03:49.8260000",
+    "OriginalLocation": "CS2-Lecture07-4.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0f165860-5d89-4d77-8334-c136b93469dc",
+    "Title": "Текстовые и бинарные потоки",
+    "Duration": "00:06:06.2420000",
+    "OriginalLocation": "CS2-Lecture08-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "07f8918d-c1e4-4893-b064-b555e97ad867",
+    "Title": "Метод ReadLines",
+    "Duration": "00:04:57.4740000",
+    "OriginalLocation": "CS2-Lecture08-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "796bf37b-dacc-44d3-b3d9-655c0e655151",
+    "Title": "Архитектура потоков",
+    "Duration": "00:03:31.8910000",
+    "OriginalLocation": "CS2-Lecture08-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6b50ff7f-f0ed-48d3-9320-5d9bbadec2c8",
+    "Title": "MemoryStream и NetworkStream",
+    "Duration": "00:02:35.1110000",
+    "OriginalLocation": "CS2-Lecture08-02.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7fa4402c-734f-4f76-b954-aa512691d53d",
+    "Title": "GZipStream",
+    "Duration": "00:02:57.2510000",
+    "OriginalLocation": "CS2-Lecture08-02.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9dfd9f58-aac3-4ecf-957a-0df75d0b7913",
+    "Title": "Написание собственного Stream",
+    "Duration": "00:02:49.6720000",
+    "OriginalLocation": "CS2-Lecture08-02.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "89d2f895-fe58-4730-a563-eebb8c03ad9c",
+    "Title": "Exception и его поля",
+    "Duration": "00:05:03.6600000",
+    "OriginalLocation": "CS2\\Lecture09\\1-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4c74f161-1abc-41f1-a8e6-33902670e015",
+    "Title": "InnerException",
+    "Duration": "00:02:32.2670000",
+    "OriginalLocation": "CS2\\Lecture09\\1-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "728b9178-b843-49d8-b2d9-4bd6c9e9233c",
+    "Title": "Перевыброс исключения",
+    "Duration": "00:07:18.0050000",
+    "OriginalLocation": "CS2\\Lecture09\\1-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "275acefb-ab87-46f5-8720-05cd717b9bda",
+    "Title": "Первый паттерн - глобальная обработка",
+    "Duration": "00:03:16.1830000",
+    "OriginalLocation": "CS2\\Lecture09\\2-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "426d00ee-8b80-42b2-9279-5e4f620bda31",
+    "Title": "Второй паттерн - однострочный try",
+    "Duration": "00:02:05.0530000",
+    "OriginalLocation": "CS2\\Lecture09\\2-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "148b769b-797c-4f2f-8934-c9236e6492b4",
+    "Title": "Третий паттерн - перевыброс исключения",
+    "Duration": "00:00:58.7690000",
+    "OriginalLocation": "CS2\\Lecture09\\2-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ca661b51-1c5e-4f85-9da3-d93177c225b3",
+    "Title": "Антипаттерны",
+    "Duration": "00:06:16.6530000",
+    "OriginalLocation": "CS2\\Lecture09\\2-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f317d52a-3a74-4138-98bf-565a5d593465",
+    "Title": "Fluent API",
+    "Duration": "00:08:12.5200000",
+    "OriginalLocation": "CS2-E-Lecture01-1.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "36be4d57-5fc7-4f15-a8c5-a145bb583c43",
+    "Title": "Примеры Fluet-Интерфейсов",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture01-1.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6faa9804-7a0f-43da-a4c5-3229ce5585c0",
+    "Title": "Реализация Fluent-Интерфейса",
+    "Duration": "00:05:29.2100000",
+    "OriginalLocation": "CS2-E-Lecture01-2.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "df079b25-8952-4d6f-976b-f92b17c93005",
+    "Title": "Более сложный случай",
+    "Duration": "00:03:00.7870000",
+    "OriginalLocation": "CS2-E-Lecture01-2.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "31f68310-4412-405d-9fe1-6543b577825a",
+    "Title": "Реализация UntilKeyPressed",
+    "Duration": "00:03:44.2480000",
+    "OriginalLocation": "CS2-E-Lecture01-2.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "30c4a153-5510-4015-ab90-98e259b8da7f",
+    "Title": "Расширяемость Fluent-Интерфейсов",
+    "Duration": "00:04:47.1690000",
+    "OriginalLocation": "CS2-E-Lecture01-2.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "91b4a7a7-d670-4c9c-bedd-d10f8f669615",
+    "Title": "Связь Fluent-Интерфейсов с неизменяемыми типами данных",
+    "Duration": "00:05:45.7780000",
+    "OriginalLocation": "CS2-E-Lecture01-3.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ff29528a-89c2-43d7-b827-563b688dc66d",
+    "Title": "Итог",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture01-3.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "41922668-4105-4ea0-a1c1-ef138e5441bb",
+    "Title": "Что такое DDD",
+    "Duration": "00:03:58.6100000",
+    "OriginalLocation": "CS2-E-Lecture02-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "da07fc37-4e08-4dde-8b7b-ee830b5165e0",
+    "Title": "Общий словарь терминов",
+    "Duration": "00:07:26.0510000",
+    "OriginalLocation": "CS2-E-Lecture02-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "840abaed-39e3-4ce1-bb84-6fd5c49caa0f",
+    "Title": "Слоистая архитектура",
+    "Duration": "00:05:41.7530000",
+    "OriginalLocation": "CS2-E-Lecture02-01.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "15b2918f-705a-45d7-a284-556e0e13b230",
+    "Title": "Моделирование предметной области",
+    "Duration": "00:18:54.8920000",
+    "OriginalLocation": "CS2-E-Lecture02-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "40c97cae-2d03-4ce4-a99b-5d886592d373",
+    "Title": "Пример применения DDD",
+    "Duration": "00:15:40.2810000",
+    "OriginalLocation": "CS2-E-Lecture02-03.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5acbcf5d-ffa3-44ea-b473-213fdff9b162",
+    "Title": "Реализация",
+    "Duration": "00:19:58.3330000",
+    "OriginalLocation": "CS2-E-Lecture02-04.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c3e22e7e-4300-449d-98ad-a3590ad7b818",
+    "Title": "Инструменты для изучения кода",
+    "Duration": "00:05:54.2040000",
+    "OriginalLocation": "CS2-E-Lecture02-04.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "64027993-a316-4bcd-b12a-7fe038811c00",
+    "Title": "Заключение",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture02-04.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cb1d4c4d-47cd-4d51-bfb6-a05fc95e511e",
+    "Title": "Критерии чистого кода",
+    "Duration": "00:08:50.6030000",
+    "OriginalLocation": "CS2-E-Lecture03-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5545b91a-c5c4-425b-a1e3-68663af63464",
+    "Title": "SRP",
+    "Duration": "00:13:43.1580000",
+    "OriginalLocation": "CS2-E-Lecture03-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1f04d8a9-37cb-4bee-9c7d-77bb565ca346",
+    "Title": "Модульность",
+    "Duration": "00:10:29.3560000",
+    "OriginalLocation": "CS2-E-Lecture03-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "af23a59a-b1fe-4d88-8d9a-7ecc5e1fdfc4",
+    "Title": "SRP и командная работа",
+    "Duration": "00:02:45.9320000",
+    "OriginalLocation": "CS2-E-Lecture03-02.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d9dc2e3a-cd4a-44a4-9ea2-41d612d8a169",
+    "Title": "Задача Дартс",
+    "Duration": "00:11:15.7560000",
+    "OriginalLocation": "CS2-E-Lecture03-02.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a0d7e3a5-f653-4ad8-bc30-323f22e87700",
+    "Title": "SRP и DDD",
+    "Duration": "00:05:50.2280000",
+    "OriginalLocation": "CS2-E-Lecture03-02.mm-3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9085d0b8-1b3b-49d0-8a5f-853ffeba5cb7",
+    "Title": "Undo Redo",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture03-02.mm-4",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6c39c149-2d52-4d42-9927-01068314de6e",
+    "Title": "Заключение",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture03-03.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "93d19beb-1465-430f-ac12-03f40ebd3e17",
+    "Title": "Введение",
+    "Duration": "00:07:39.5100000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "06e5d019-f291-4bf3-a384-3f06d1a6d51c",
+    "Title": "Процедурный подход",
+    "Duration": "00:11:29.0240000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "65eac506-ea6d-43d0-93eb-d9b6d0dfb459",
+    "Title": "Принципы OCP и DIP",
+    "Duration": "00:09:03.0310000",
+    "OriginalLocation": "CS2-E-Lecture04-01.mm-2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a9d39216-20f5-4eaf-8aa0-617a94843b95",
+    "Title": "DIP и расширяемость",
+    "Duration": "00:10:06.2860000",
+    "OriginalLocation": "CS2-E-Lecture04-02.mm-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
+    "Title": "DIP и тестируемость",
+    "Duration": "00:16:07.1160000",
+    "OriginalLocation": "CS2-E\\Lecture04\\03-0",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4",
+    "Title": "Mock Framework",
+    "Duration": "00:13:17.6140000",
+    "OriginalLocation": "CS2-E\\Lecture04\\03-1",
+    "EpisodeNumber": 0
+  }
+]

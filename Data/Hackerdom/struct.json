@@ -1,0 +1,226 @@
+{
+  "Level": 0,
+  "Order": 0,
+  "Guid": "a7b2f40e-1e7d-4cde-b2e6-d082f4823c47",
+  "Name": "Введение в компьютерную безопасность",
+  "Videos": [],
+  "Sections": [
+    {
+      "Level": 1,
+      "Order": 0,
+      "Guid": "1840a7ac-4293-4b8b-a4ea-9359608a9634",
+      "Name": "Вводная лекция",
+      "Videos": [
+        "2bc58982-19aa-49ef-bae2-8aaa5d13b967",
+        "26bd758d-c6f4-4102-839e-a5b68e14b3c2",
+        "55531877-74a0-4624-869f-96f8cd9a2e25",
+        "27f42d11-1fec-4139-8c72-d3e4fb15bf4a"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 1,
+      "Guid": "ceef6990-465c-480a-8464-92d37d76709f",
+      "Name": "Криптография",
+      "Videos": [
+        "952ab6b0-cfe3-40fa-ba7e-0509326049ce",
+        "403f3218-abec-47e2-bcfb-4f302b38128a",
+        "e2658eea-0078-4ca4-9e67-66f979b59f17",
+        "1f6d91df-7d89-4b30-9e60-47bef586d6dc",
+        "a7294d8e-4796-4991-b20b-781e855953c8",
+        "85fc6105-12a0-4023-be20-5918da742c76"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 2,
+      "Guid": "fbdaa70f-0935-4f29-8eea-8370e13c068b",
+      "Name": "Хеши и биткоины",
+      "Videos": [
+        "248cee8f-1f7f-410a-a09a-93f8935b82ad",
+        "dae458e2-78bf-438f-8e69-258491c006f9",
+        "7a6d1653-7865-490d-8209-8165fe65591b",
+        "36456d24-9129-4c38-a8ff-25dc62b66069",
+        "e0e26cd9-0910-4e19-be6c-cea609cc5c88",
+        "ca0b5c85-1ccb-4e93-825c-901253802771",
+        "cc2f600c-9af5-486b-91ec-fd9308005f5c"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 3,
+      "Guid": "dbff1086-b2c7-428e-8c12-df1e99b87b52",
+      "Name": "Стеганография",
+      "Videos": [
+        "7b4fb17f-9bed-443e-84c6-684ba6e3e416",
+        "5ccea945-1707-4204-8980-95fad52d7c1e",
+        "6697f13b-21f2-462e-9eba-17169fe015cd",
+        "c1e81612-2e0b-4f79-95cf-21dda0105641",
+        "0ac74cc4-9429-4087-bc2f-388f567d62bd",
+        "e44c0c68-f260-467b-a262-ad5f59addc7e",
+        "cb73846d-d46e-4303-89d7-1d08bfffe5ff",
+        "5fc8f334-08fc-4d86-a974-26749f7a497f",
+        "c0e30051-4c3a-41f0-961a-65cf7c6dbaf9",
+        "eda63641-e069-421c-ba43-3ce811ee655a"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 4,
+      "Guid": "e83cdb90-72cc-4686-b007-04e11e3e41cb",
+      "Name": "Сети, часть 1",
+      "Videos": [
+        "ed50edd9-688d-4b94-bdc1-9f899880e4eb",
+        "9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78",
+        "00848dda-cbdf-489d-869c-67845796569e",
+        "cac04028-159e-4c26-897e-dc6748b114ff",
+        "37b9f0b8-cdf2-43fd-9ac5-a943a0a47e71",
+        "1cb2c4d2-1f05-4223-a7de-8549e2f0cab3",
+        "62b09b31-3ed0-4e24-9169-1240b336dccf",
+        "dcc16070-0bf8-4e94-96ee-4287940e167a",
+        "753844e2-97f4-496d-8aec-26ced5386357",
+        "e0c9669f-4a74-46fa-81d6-2a49023512bb",
+        "3ac1853a-6dec-408e-a9c9-1c1b0688e36e",
+        "9010dd2b-157f-4384-8d12-26ba98433211",
+        "23de7b8f-8a5d-493c-82dc-16b72fd4b15d"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 5,
+      "Guid": "2484fd1d-d93e-490c-b809-31355a40d21a",
+      "Name": "Сети, часть 2",
+      "Videos": [
+        "c916589a-8df8-4173-ac1f-c973370a3dfa",
+        "9df2f428-cf35-4a91-9350-b3bf6a635abd",
+        "b07a0f80-a40a-4c16-91c2-7ba49bd97449",
+        "634ff379-c533-4722-9b9e-b9d8ca4aa82d",
+        "ecb00bac-3f60-4a74-b9ef-25ce54c4cb67",
+        "96416927-9ffa-494f-a649-2c0f7f64950d",
+        "bf2f44ce-6b9c-4e3d-aada-12edd5414156",
+        "8406ef3b-4e76-4199-8144-51df8927eabb",
+        "4403acb5-cce5-48c1-90fd-9fd5772bfc33"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 6,
+      "Guid": "b44a0b98-cb58-49fc-ab0b-dbe3939e1448",
+      "Name": "Протокол HTTP",
+      "Videos": [
+        "5ad7c7fc-d551-416b-b6c7-f844de0b89c3",
+        "6ee91c90-1e81-44d2-92fd-b679382c0e39",
+        "f38982c8-91de-42f6-9e40-86ed752d327d",
+        "062b52e2-c3ef-405e-b116-6172f6d6b387",
+        "b1f4cccd-cee7-4482-976d-ceb60d326272",
+        "aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3",
+        "b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e",
+        "b8744320-0270-4d1c-aee3-33375e48e9bd",
+        "67dc4001-31bb-4192-b7cc-b245bf62bf14",
+        "55ee9893-66a4-4803-befe-116a7996d16a",
+        "03c0202b-0aeb-4789-be91-04e7a0a2a9b3"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 7,
+      "Guid": "349d1600-2f20-4190-8a42-b82d75aa0a7c",
+      "Name": "Инъекции",
+      "Videos": [
+        "283ec4e7-203e-42b5-8227-a887e307b51a",
+        "61825d93-82e6-4db5-ae21-6fc9aae4e315",
+        "e9de4b61-ae31-4aee-a860-c6db495e8e2f",
+        "e4c11062-7ed1-42b9-815d-e39a455ccc02",
+        "2a37b4c1-4666-4808-b4e3-6cc03be72a2d",
+        "8adcc22b-abbe-4a36-8bd6-88c4f953a54a",
+        "bbbc041f-10fe-4663-99df-48e568783624",
+        "091326fc-02a8-425c-8b80-09a9bed6ce19",
+        "c8c18fd5-96e2-495d-bff1-97a4d0ab1787",
+        "43693efe-2d83-4c78-9f42-71a7780a72c2",
+        "a8ebb60c-0fce-4d80-b46a-6872c82bfaf0",
+        "e34d0b18-fb8c-4039-85a2-5ca392bc66f0",
+        "1a9b7825-704d-4d1e-bc78-a697386da3dd",
+        "89ab29cb-4715-4a9c-84cd-2131399d394a"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 8,
+      "Guid": "849fbc71-e696-4cf1-884e-4ff7e6a01e43",
+      "Name": "Linux",
+      "Videos": [
+        "ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
+        "942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
+        "da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
+        "745cd0a2-dee1-4596-ba6e-345edf3dda39",
+        "dd4267c3-d178-4644-a07d-c30bed4b2d21",
+        "a0357ffa-f00f-4030-be9c-159633c3568a",
+        "3545dbbb-e990-4401-9892-3bf001bedd6c",
+        "199bdd47-8111-427d-8677-00e434745302",
+        "fbd2a4df-0e0a-4961-ba81-852fb97b4be5"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 9,
+      "Guid": "04d21704-1083-411c-b180-0bac0ffda41c",
+      "Name": "Низкоуровневое программирование",
+      "Videos": [
+        "e1ab44a2-c4c4-45f5-807b-cbea25dd743d",
+        "7f2512c2-5df5-44c0-b787-6c439d7a5154",
+        "552b9070-0243-4655-989f-5f856c189084",
+        "21f4cf4e-bb28-4778-8e82-9cc57141ac41",
+        "f27ceaf2-3926-42e3-a862-e04c6771b0cf",
+        "6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0",
+        "93f658c4-84bd-4312-b8ec-8b0d5945962f",
+        "49856ebe-f862-4272-b041-ad4d688cba99",
+        "45cbad06-e7b0-4c02-b74d-7802b4d09d0e",
+        "0a3ba148-7495-4014-9065-8f59dc43aac1",
+        "e2cfed6d-3ca8-4eac-8c70-766b66fac55e",
+        "e171284d-0962-4e63-b370-8036a3bce1eb"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 10,
+      "Guid": "174c9b6a-0b31-49d2-8e27-78f0e9826939",
+      "Name": "Reverse Engineering",
+      "Videos": [
+        "88892f91-997b-4739-a305-ada5ffff7439",
+        "d93e0e1b-95ec-4ee1-8e18-696079347b6c",
+        "6a0773c7-1aa2-44b3-af3e-3f53691a55a7",
+        "a985c48c-020b-4e09-a3f3-5658205ab1a7",
+        "26f3391a-2792-430d-8398-8e7312dfd0fc",
+        "344de5f8-8657-420c-a5a2-e2e648739ab6",
+        "ab9abdef-959a-4d31-b7af-40255df35d50"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 11,
+      "Guid": "231e07fa-7b76-4c5d-a29c-adaaa0f7699b",
+      "Name": "Бинарные уязвимости",
+      "Videos": [
+        "4895ff12-8a51-45d1-a32e-956347066598",
+        "612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5",
+        "3bda1c2c-c2a1-4fb0-9146-fccc47daf93b",
+        "8feb1864-c3c8-462b-b226-e1b40f17b3c8",
+        "b21f7904-eeee-4a9e-b1db-def706019959",
+        "4905e6d3-0b7a-426c-8555-0b45f4b5207a",
+        "1196f4d3-49ad-4314-bc08-e469e1cc640c"
+      ],
+      "Sections": []
+    }
+  ]
+}
