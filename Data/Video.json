@@ -2840,5 +2840,75 @@
     "Duration": "00:08:50.6140000",
     "OriginalLocation": "Webinar-1-02.mm",
     "EpisodeNumber": 1
+  },
+  {
+    "Guid": "7e671739-3b5b-41fa-945b-f0b4b0603d23",
+    "Title": "Дисклеймер",
+    "Duration": "00:03:02.6780000",
+    "OriginalLocation": "LHPS\\Lecture24\\1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "80637b7f-8bf2-48a9-81c3-388f1507cd33",
+    "Title": "Тотальная деконструкция",
+    "Duration": "00:16:34.6690000",
+    "OriginalLocation": "LHPS\\Lecture24\\1",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "7b4229f8-5d04-4b73-97c5-3166d0a02e90",
+    "Title": "От нарративов к эволюции",
+    "Duration": "00:07:42.8530000",
+    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7b7a9932-bc9c-4c61-9e33-ac20a3fd5869",
+    "Title": "Коллажное мышление",
+    "Duration": "00:07:31.7870000",
+    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "ef05e1df-ed0d-42ec-abfb-817cc4daabfd",
+    "Title": "Симулякры и спектакли",
+    "Duration": "00:08:57.2480000",
+    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "8a478f7d-f064-4f4e-a191-be2350e9d3e2",
+    "Title": "Пост-модерн как тенденция. Пост-модерн в России",
+    "Duration": "00:04:47.1470000",
+    "OriginalLocation": "LHPS\\Lecture25\\1",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9cbc5352-e9fa-47d8-b2d1-e2667f89f794",
+    "Title": "Пост-модерн и наука",
+    "Duration": "00:14:57.7130000",
+    "OriginalLocation": "LHPS\\Lecture25\\1",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "0ad9dd17-e15e-4089-a852-fa729402db7f",
+    "Title": "Мемообслуживание",
+    "Duration": "00:11:20.3780000",
+    "OriginalLocation": "LHPS\\Lecture25\\2",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "17739ab2-3d15-491f-98d4-4dd57b0bd85e",
+    "Title": "Пост-модерн и кризис",
+    "Duration": "00:12:18.5310000",
+    "OriginalLocation": "LHPS\\Lecture25\\3",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7fb27189-bbc2-43bc-8463-4e890fa1d683",
+    "Title": "Преодоление пост-модерна",
+    "Duration": "00:07:19.8460000",
+    "OriginalLocation": "LHPS\\Lecture25\\3",
+    "EpisodeNumber": 1
   }
 ]

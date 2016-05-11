@@ -2235,5 +2235,89 @@
         "VideoId": "9WVk6u7An_I"
       }
     ]
+  },
+  {
+    "Id": "PLU-TUGRFxOHiFEKnphUbBID77zVV1RP7t",
+    "Title": "LHPS-3-3 Деконструкция модерна",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "Tc0ciCYcCp8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "937abHvuJgo"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "XLohSH_lrtw"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "BW7F-xf46lg"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "p8CDypC7sv8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "-UxNq-dNx_E"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "jp4ABEOTVa0"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaUZFS25waFViQklENzd6VlYxUlA3dC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "ZiF7H9NF9iY"
+      }
+    ]
+  },
+  {
+    "Id": "PLU-TUGRFxOHhQwOhFoqoDxgWbAi7-QJxg",
+    "Title": "LHPS-3-4 Пост-модерн",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "yTRrRTgtBnQ"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "OQXrELASogU"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "l3GBzZvv7pM"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "Y7VonBFu85o"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "yFdPyZ02eWk"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "im3kmnTHDnA"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "StluDC6nqvs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "HD2neg3_0PU"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "SlXnrngbYzI"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFF3T2hGb3FvRHhnV2JBaTctUUp4Zy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "OW-nVj4Bn30"
+      }
+    ]
   }
 ]

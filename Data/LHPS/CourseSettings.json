@@ -1,7 +1,11 @@
 {
   "Youtube": {
     "PlayListLevels": [
-      3
+      2
     ]
+  },
+  "Ulearn": {
+    "Path": "",
+    "FoldersLevel": 2
   }
 }
