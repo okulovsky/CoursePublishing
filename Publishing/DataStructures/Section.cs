@@ -25,6 +25,28 @@ namespace CoursePublishing
         }
     }
 
+    public class SectionIndexation
+    {
+        public readonly Section Section;
+        public readonly int Index;
+        public SectionIndexation(Section section, int index)
+        {
+            Section = section;
+            Index = index;
+        }
+    }
+
+    public class ItemWithPath
+    {
+        public readonly SectionOrVideoGuid Item;
+        public readonly List<SectionIndexation> Path = new List<SectionIndexation>();
+        public ItemWithPath(SectionOrVideoGuid item)
+        {
+            Item = item;
+        }
+    }
+
+
 
 
     public class Section
@@ -56,21 +78,25 @@ namespace CoursePublishing
             }
         }
         [JsonIgnore]
-        public IEnumerable<Tuple<List<Tuple<Section, int>>, SectionOrVideoGuid>> ItemsWithPathes
+        public IEnumerable<ItemWithPath> ItemsWithPathes
         {
             get
             {
-                yield return Tuple.Create(new List<Tuple<Section, int>>(), new SectionOrVideoGuid { Section = this });
+                yield return new ItemWithPath(new SectionOrVideoGuid { Section = this });
 
                 for (int i = 0; i < Sections.Count; i++)
                     foreach (var h in Sections[i].ItemsWithPathes)
                     {
-                        h.Item1.Insert(0, Tuple.Create(this, i));
+                        h.Path.Insert(0, new SectionIndexation(this, i));
                         yield return h;
                     }
 
                 for (int i = 0; i < Videos.Count; i++)
-                    yield return Tuple.Create(new List<Tuple<Section, int>> { Tuple.Create(this, i) }, new SectionOrVideoGuid { VideoGuid = Videos[i] });
+                {
+                    var e = new ItemWithPath(new SectionOrVideoGuid { VideoGuid = Videos[i] });
+                    e.Path.Add(new SectionIndexation(this, i));
+                    yield return e;
+                }
             }
         }
     }

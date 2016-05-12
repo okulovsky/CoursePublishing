@@ -104,23 +104,23 @@ namespace YoutubeCourseSync
         {
             Margins = Structure
                 .ItemsWithPathes
-                .Select(z=>z.Item1)
-                .SelectMany(z=>Enumerable.Range(0,z.Count).Select(x=>new { Level=x, Index=z[x].Item2 }))
+                .Select(z=>z.Path)
+                .SelectMany(z=>Enumerable.Range(0,z.Count).Select(x=>new { Level=x, Index=z[x].Index }))
                 .GroupBy(z => z.Level)
                 .OrderBy(z => z.Key)
                 .Select(x => x.Max(z => z.Index).ToString().Length)
                 .ToArray();
         }
 
-        static string CreatePrefix(List<Tuple<Section,int>> list)
+        static string CreatePrefix(List<SectionIndexation> list)
         {
             return Enumerable
                .Range(0, list.Count)
-               .Select(z => string.Format("{0:D" + Margins[z] + "}", list[z].Item2+1))
+               .Select(z => string.Format("{0:D" + Margins[z] + "}", list[z].Index+1))
                .Aggregate((a, b) => a + "-" + b);
         }
 
-        static string CreateTitle(List<Tuple<Section, int>> list,string title)
+        static string CreateTitle(List<SectionIndexation> list,string title)
         {
             return $"{CourseName}-{CreatePrefix(list)} {title}".Trim();
         }
@@ -129,10 +129,10 @@ namespace YoutubeCourseSync
         #region Updating videos
         static void UpdateVideos()
         {
-            foreach (var data in Structure.ItemsWithPathes.Where(z => z.Item2.VideoGuid != null))
+            foreach (var data in Structure.ItemsWithPathes.Where(z => z.Item.VideoGuid != null))
             {
-                var video = Videos[data.Item2.VideoGuid.Value];
-                var title = CreateTitle(data.Item1, video.Title);
+                var video = Videos[data.Item.VideoGuid.Value];
+                var title = CreateTitle(data.Path, video.Title);
                 var description = "";
 
 
@@ -180,18 +180,14 @@ namespace YoutubeCourseSync
                 .ToList();
 
             var inList=test
-                .Where(z => z.Item2.Section != null)
-                .Where(z => z.Item2.Section.Level == level)
+                .Where(z => z.Item.Section != null)
+                .Where(z => z.Item.Section.Level == level)
                 .ToList();
             foreach(var data in inList)
             {
-                var title = CreateTitle(data.Item1,data.Item2.Section.Name);
+                var title = CreateTitle(data.Path,data.Item.Section.Name);
 
-                if(title.Contains("Просвещ"))
-                {
-                    Console.Write("");
-                }
-                var topic = data.Item2.Section;
+                var topic = data.Item.Section;
 
                 if (!Playlists.ContainsKey(topic.Guid))
                 {
