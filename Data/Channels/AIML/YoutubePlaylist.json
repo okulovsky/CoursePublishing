@@ -1,0 +1,416 @@
+[
+  {
+    "Id": "PLDCR37g8W9nE-r-FdHd-VZk5N8gueRWQV",
+    "Title": "AIML-5-2 Применение генетических алгоритмов",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRS1yLUZkSGQtVlprNU44Z3VlUldRVi41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "H5OQRf4t_RQ"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRS1yLUZkSGQtVlprNU44Z3VlUldRVi4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "Shvi-K2WhyI"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRS1yLUZkSGQtVlprNU44Z3VlUldRVi4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "sbMuRui5enA"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRS1yLUZkSGQtVlprNU44Z3VlUldRVi41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "qTnKi67AAlg"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nEZnfxbimY3rokesFGt3dq-",
+    "Title": "AIML-5-1 Генетические алгоритмы",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "bsfXTiOH-Gc"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "fuoddkl7hk4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "UeU0nJoKHvA"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "rGFyyM1f-H0"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "d6CHHDEexr0"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVpuZnhiaW1ZM3Jva2VzRkd0M2RxLS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "dwnL7imZ2Pw"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nHNedUGpdl4Vsv8lBo12pJ4",
+    "Title": "AIML-4-5 Разное о нейронных сетях",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "cbbn2fH5b6A"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "0LVIEnfqf8g"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "uhLPMFAhhqo"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "xMUxhgdZckI"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "4lZx9WUPIjY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE5lZFVHcGRsNFZzdjhsQm8xMnBKNC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "LvfKJj8k4Co"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nFO5bPnL91WF28V5L9F-lJL",
+    "Title": "AIML-4-4 Классификация и распознавание образов",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "FF2JNqSb6vY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "nA8BPmpedCw"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "KUdWTnyeBxo"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "VGIHcZpiCag"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "5FiH88Rs8Hc"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRk81YlBuTDkxV0YyOFY1TDlGLWxKTC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "Oh9jZblj-7c"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nELdB839RJv-EIjHhXg5WEs",
+    "Title": "AIML-4-3 Задача регрессии",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "Qak6zCBplR4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "GLAlC6YHbYI"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "QmNb6ifwDSc"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "VM9YVqaLZyE"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "H6a6twFQsdQ"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRUxkQjgzOVJKdi1FSWpIaFhnNVdFcy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "JXmcHmiSw5M"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nHOztYtKj9WNnKMr5nou7z6",
+    "Title": "AIML-4-2 Метод обратного распространения ошибки",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "Z3WQjCexq8c"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "pp2FkTqdg9Q"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "hDwo12h_AjQ"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "mG8A-k9cDiU"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "87gux0d36bw"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "W2LshGngCNw"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "yK_inrZMSF8"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "Bpf6Fnhzzj8"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSE96dFl0S2o5V05uS01yNW5vdTd6Ni45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "U9kHT2yi7ME"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nE8g0BanbfnUzJtY-3iivqL",
+    "Title": "AIML-4-1 Персептроны",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRThnMEJhbmJmblV6SnRZLTNpaXZxTC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "hpmH6yYHDaY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRThnMEJhbmJmblV6SnRZLTNpaXZxTC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "_YSrXLVY6M0"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRThnMEJhbmJmblV6SnRZLTNpaXZxTC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "2SCtgGhkZtw"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRThnMEJhbmJmblV6SnRZLTNpaXZxTC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "BONF7vvmxsk"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRThnMEJhbmJmblV6SnRZLTNpaXZxTC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "IEVYDZkEBpY"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nGGBV0d_ibbSoubgs6umujB",
+    "Title": "AIML-3-3 Нечеткое управление",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "CcGTKuwV8a4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "bMx7atjYEtU"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "f6SVuAedZWQ"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "QvCTC1JpQXU"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "1hZ7hYSMBok"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR0dCVjBkX2liYlNvdWJnczZ1bXVqQi4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "7G4Mmg4tHHQ"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nET9LEHB5sUyILVSIFiBe_p",
+    "Title": "AIML-3-2 Нечеткие вывод и арифметика",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRVQ5TEVIQjVzVXlJTFZTSUZpQmVfcC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "c3xGGS1yjD4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVQ5TEVIQjVzVXlJTFZTSUZpQmVfcC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "oBK0qj4LDI4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVQ5TEVIQjVzVXlJTFZTSUZpQmVfcC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "jF5VGbYqT_4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVQ5TEVIQjVzVXlJTFZTSUZpQmVfcC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "HhSjKw4uK14"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRVQ5TEVIQjVzVXlJTFZTSUZpQmVfcC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "x1UlI5UIB6Y"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nF6_zYv-8Nm5IvFbMRXqmfw",
+    "Title": "AIML-3-1 Нечеткие множества",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "6dzvMKcGLyw"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "sUrdCzjTSas"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "M3W8I25ilwo"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "5gFO_j-KB_w"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "z06p6mhHmgI"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluRjZfell2LThObTVJdkZiTVJYcW1mdy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "Hc8TTGtfjgE"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nGO4f8CkbDGdcTeClFRtXzC",
+    "Title": "AIML-2-2 Логика предикатов",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "qKIXdtTPkSI"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "n0ViBuKcbKk"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "iWu77IMMHeY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "m7dFHXBw7ow"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "fdMVOFF5GyM"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "25KSb4VhVBk"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "1zQQ_-NPEr0"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluR080ZjhDa2JER2RjVGVDbEZSdFh6Qy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "SPs_VCw69lQ"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nHQ3TaWV4OtH_75t5HCZSfY",
+    "Title": "AIML-2-1 Логика высказываний",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "XTiI5VabfSs"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "hn_05XXz31w"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "3xpkr5Dyi0c"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "vwvMhIuUSk0"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "sBfCurmNtf8"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "-MlPPNv9R7A"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "o_bN8sYkOng"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "3e8WEnpB7GU"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "JRQ2YXayzcY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSFEzVGFXVjRPdEhfNzV0NUhDWlNmWS5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "27qyL75Qx_I"
+      }
+    ]
+  },
+  {
+    "Id": "PLDCR37g8W9nHI3LDgZ6xRexrCHgUzBnvz",
+    "Title": "AIML-1-1 История искусственного интеллекта",
+    "Entries": [
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "UlVoZVakmYs"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "hrogFpRIFnY"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "3VDj0UsqYkQ"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "tkfnQyw4fdg"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "ODhFYdTRTpU"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "OdHrtZGOew4"
+      },
+      {
+        "Id": "UExEQ1IzN2c4VzluSEkzTERnWjZ4UmV4ckNIZ1V6Qm52ei41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "ZpXNuWSdaIw"
+      }
+    ]
+  }
+]

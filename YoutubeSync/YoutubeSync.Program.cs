@@ -117,9 +117,13 @@ namespace YoutubeSync
         [STAThread]
         public static void Main()
         {
-            service = Publishing.InitializeYoutube();
-            Publishing.Common.SaveList(GetAllPlaylists());
-            Publishing.Common.SaveList(GetAllClips());
+            var settings = Publishing.Common.LoadInitOrEdit<YoutubeSettings>(-1);
+            foreach (var channel in settings.ChannelNames)
+            {
+                service = Publishing.InitializeYoutube(channel);
+                Publishing.Channel[channel].SaveList(GetAllPlaylists());
+                Publishing.Channel[channel].SaveList(GetAllClips());
+            }
         }
     }
 }

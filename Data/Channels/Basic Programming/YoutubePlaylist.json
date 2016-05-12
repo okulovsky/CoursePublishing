@@ -1,0 +1,1327 @@
+[
+  {
+    "Id": "PLegt6LmAcc415ncsa47a_PkJOI0EgE4Vp",
+    "Title": "BP2-5-1 Рефлексия типов",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "DBq5TMGJY_I"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "fRLWlD1MSGw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "ghfTN0xDB1U"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "LZzO2MC3ExU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "GhAnVyvOIbo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "F5XANszKFso"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "GQ5NFDweU3o"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTVuY3NhNDdhX1BrSk9JMEVnRTRWcC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "snaRhjX4IdM"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc417Zp8VdjLIf8mBYmM_h7iN",
+    "Title": "BP2-4-3 Асинхронное программирование",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "QyQVTkFz6Pk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "eV4VZRuIX0I"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "eLDlUU0csls"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "C-PQGYsyn2s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "z11XzOstDNw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "VSQs30olnbE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "fuYBp152j4g"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "iMqM21_Ne6g"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MTdacDhWZGpMSWY4bUJZbU1faDdpTi45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "HFJ4xD18PjI"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42IWvMP_sid5m1yCAW6gns0",
+    "Title": "BP2-4-1 События",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "AeCO303AKdc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "tF0eeUjWOvw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "YnS8KFgnEK4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "AwkIgGBPa1c"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "zYq7zSIGDyk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "CHtf1rJ6sXo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "zBzM7Oi_KRw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "tNK29bPxyhg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "rQJ1herEkYg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "cCmBRwPG2lo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MklXdk1QX3NpZDVtMXlDQVc2Z25zMC40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "o-353Evd7PY"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40vNST01DHujSgv5AuM6dM7",
+    "Title": "BP2-4-2 Оконные приложения",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "uBFbSZPp3sY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "iM-yCJqFOBU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "pqdvKWrgUDU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "zZXOx4yns-c"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "AqKyHv9qrkY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "fFFStMLvgAI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "58csSLcVR8I"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "dosZCzWzzw4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "VaDZ4aoEy1s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "yJKhxnqDSE0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHZOU1QwMURIdWpTZ3Y1QXVNNmRNNy40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "7G9Oz6bm8f4"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc41LiDwcHENN9GsvyvHdlP0e",
+    "Title": "BP2-3-4 Структуры данных",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "NTjpjmIrd9c"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "zeS-dDV7RsI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "9vW-6zFZgDc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "EjY51A4NtvY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "6vIpdHh2XI0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "pMT5b_N11zQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "8krJn8Wpz0k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "-1ZRn-Tog1k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MUxpRHdjSEVOTjlHc3Z5dkhkbFAwZS45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "4XGNpVXqp8Q"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40DEFmO1tVZrV1odcQl4od_",
+    "Title": "BP2-3-2 Жадные алгоритмы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "GwfKtqktIi8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "-0YauQbriZY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "GbmY_Z3hero"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "9fp7_soazqA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "7mY_gr7rMd4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "yjYD5jkicYk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "YG-LX4dm_Xs"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "nbWG_TslVIU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "od0vkpX9eVw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "CwGdV2tecLg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "qnogKGC-f5Y"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MERFRm1PMXRWWnJWMW9kY1FsNG9kXy5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "r1Nni6IEXBo"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40Rk-dTtYiZflbwUcLND5bP",
+    "Title": "BP2-3-1 Графы и обходы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "L8qm4CrjVXE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "v6AFE6U4EYU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "rPbhUi3MSQI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "BuneTnN2pUM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "Q_7MMhVqWx0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "erT5Ho6zoEw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "SyJCt4oFpwQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "YuNGgFEbdKg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "1wzf4z2sP0g"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "s893-3aanl0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "BqSy-Q9N0S0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "uj3ycYFview"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC45ODRDNTg0QjA4NkFBNkQy",
+        "VideoId": "gVoYXe2HeMo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC4zMDg5MkQ5MEVDMEM1NTg2",
+        "VideoId": "lDU3PSAZOaU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC41Mzk2QTAxMTkzNDk4MDhF",
+        "VideoId": "UjlnkiyF51E"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC5EQUE1NTFDRjcwMDg0NEMz",
+        "VideoId": "mBzqakK8na8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MFJrLWRUdFlpWmZsYndVY0xORDViUC41QTY1Q0UxMTVCODczNThE",
+        "VideoId": "xWmSVQU6EIs"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40yJZ16O6GXl_FPjvO4OpXC",
+    "Title": "BP2-3-3 Динамическое программирование",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "zir28sT5yTA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "YCmdkYe9ABI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "5yv8EuY8Uhw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "aFh_-M23MFQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "KYrPvbA5L5Y"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "gMmMf0p9j20"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "Driw9NWgcvU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "950mtbENLVU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "aije-q8hJCM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MHlKWjE2TzZHWGxfRlBqdk80T3BYQy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "bXX1Az66Vto"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc43_OUhT6lxA_ozxmmALQPft",
+    "Title": "BP2-2-2 Элементы функционального программирования",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "S0tizHq0OK0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "95FYmTkfHoc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "RoYeCpv19wg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "axT1RrKfwzE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "JLghL3Tj6Z8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "8FrA-BnLUYY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "gvywqLXHutA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "6IFRtXawLSw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "VAE5wpqbQcc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M19PVWhUNmx4QV9venhtbUFMUVBmdC5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "0R41HoXERgo"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc418rPgd2_flT4GtDEHiySUr",
+    "Title": "BP2-2-1 Делегаты",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "kusYwWP_8XI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "1ZNKrpg4uBg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "6yQEfvaJIxc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "PNWb6ntSeko"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "yk7YiwHm9wk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "bJhTyn3adgk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "u-RU9Lm9fF8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "URPxhORp0GE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "vBIzxMSXPkE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "wR4WyEVWYwA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "cWFFCfoFD6I"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThyUGdkMl9mbFQ0R3RERUhpeVNVci5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "HG7b58AIS-Y"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc418Dwm9cWsxPpll5hh0jY3d",
+    "Title": "BP2-1-3 List  и Dictionary",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "LXA_FovAS-A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "f0IL6pSSu84"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "45Sg5nn4lXg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "zrpWi_Jm9-s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "-xbx_tLSX_Y"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "33sP2v48-0U"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "Hwnf4lnuVkY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "Pgz9oLVJprI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "MXmfNnRbPHY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "pirxQ-U0HNw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MThEd205Y1dzeFBwbGw1aGgwalkzZC40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "6gafXSC9Rbc"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc409ylKw6fbjGnZ9uII1SRCX",
+    "Title": "BP2-1-2 yield return",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDl5bEt3NmZiakduWjl1SUkxU1JDWC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "h4e_nM0TfLI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDl5bEt3NmZiakduWjl1SUkxU1JDWC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "h5FY52IUIkA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDl5bEt3NmZiakduWjl1SUkxU1JDWC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "MGQJNNuzDhY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDl5bEt3NmZiakduWjl1SUkxU1JDWC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "LoM2uix5Wng"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDl5bEt3NmZiakduWjl1SUkxU1JDWC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "y36j2bplKxs"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42pLEs6jmsVS43ih4kfCE5g",
+    "Title": "BP2-1-1 Стэки, очереди и дженерики",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "lc9gk5AA7Hc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "_CpHhXkWFDA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "GKNk5Li702E"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "I0ZSWNGuSmE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "IkpaIKNbtpk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "T_HO3PDheNE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "_WAkqidLWYk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "VHlEkuuUb4M"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "z_eFycGQDfI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "tVIO43KW7Lk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "Xk1Ks98JbhM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnBMRXM2am1zVlM0M2loNGtmQ0U1Zy5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "nc__prtwK8Y"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc41nC1eP0SoFpWM9mE4Xaegv",
+    "Title": "BP2-3-2 Жадные алгоритмы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "8FWm-v0e-Ro"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "9sfInk1wSBE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "kjBo12P8h7s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "fy4fSRDjPTs"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "pA_UksPvIr8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "XwRgNLkkAuI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "0QXtOe9jPu4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "3bRVv7MFImw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "3_a2Az8ffaI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "z01f-GAemHY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "CwGdV2tecLg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "qnogKGC-f5Y"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MW5DMWVQMFNvRnBXTTltRTRYYWVndi45ODRDNTg0QjA4NkFBNkQy",
+        "VideoId": "r1Nni6IEXBo"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42rrWKgAdi-OhZxNkQpBf4F",
+    "Title": "BP2-3-1 Графы и обходы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "L8qm4CrjVXE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "v6AFE6U4EYU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "rPbhUi3MSQI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "BuneTnN2pUM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "Q_7MMhVqWx0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "erT5Ho6zoEw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "SyJCt4oFpwQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "YuNGgFEbdKg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "1wzf4z2sP0g"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "s893-3aanl0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "BqSy-Q9N0S0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "uj3ycYFview"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri4zMDg5MkQ5MEVDMEM1NTg2",
+        "VideoId": "vz3YSTi2XQY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri41Mzk2QTAxMTkzNDk4MDhF",
+        "VideoId": "UjlnkiyF51E"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri5EQUE1NTFDRjcwMDg0NEMz",
+        "VideoId": "mBzqakK8na8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MnJyV0tnQWRpLU9oWnhOa1FwQmY0Ri41QTY1Q0UxMTVCODczNThE",
+        "VideoId": "xWmSVQU6EIs"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40esjS1GxAukzM9OEbaBdJP",
+    "Title": "BP2-2-1 Делегаты",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "kusYwWP_8XI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "1ZNKrpg4uBg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "6yQEfvaJIxc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "cWFFCfoFD6I"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "yk7YiwHm9wk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "bJhTyn3adgk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "u-RU9Lm9fF8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "URPxhORp0GE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "vBIzxMSXPkE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "wR4WyEVWYwA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "PNWb6ntSeko"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGVzalMxR3hBdWt6TTlPRWJhQmRKUC5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "HG7b58AIS-Y"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc41rT15iKMMF6oBrEO1vpdKU",
+    "Title": "BP2-1-3 List  и Dictionary",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "LXA_FovAS-A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "f0IL6pSSu84"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "45Sg5nn4lXg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "zrpWi_Jm9-s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "-xbx_tLSX_Y"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "33sP2v48-0U"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "Hwnf4lnuVkY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "Pgz9oLVJprI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "MXmfNnRbPHY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "pirxQ-U0HNw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXJUMTVpS01NRjZvQnJFTzF2cGRLVS40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "6gafXSC9Rbc"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc426jGRiAThS6aLb5TsEqJAq",
+    "Title": "BP2-1-2 yield return",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjZqR1JpQVRoUzZhTGI1VHNFcUpBcS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "h4e_nM0TfLI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjZqR1JpQVRoUzZhTGI1VHNFcUpBcS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "h5FY52IUIkA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjZqR1JpQVRoUzZhTGI1VHNFcUpBcS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "MGQJNNuzDhY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjZqR1JpQVRoUzZhTGI1VHNFcUpBcS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "LoM2uix5Wng"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjZqR1JpQVRoUzZhTGI1VHNFcUpBcS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "y36j2bplKxs"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc43eg5Zl_kQbvSjakte116og",
+    "Title": "BP2-1-1 Стэки, очереди и дженерики",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "lc9gk5AA7Hc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "_CpHhXkWFDA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "GKNk5Li702E"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "I0ZSWNGuSmE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "IkpaIKNbtpk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "T_HO3PDheNE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "_WAkqidLWYk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "VHlEkuuUb4M"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "z_eFycGQDfI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "tVIO43KW7Lk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "Xk1Ks98JbhM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M2VnNVpsX2tRYnZTamFrdGUxMTZvZy5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "nc__prtwK8Y"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42KDts1I5Qag6CyU3YwZMpD",
+    "Title": "CS2",
+    "Entries": []
+  },
+  {
+    "Id": "PLegt6LmAcc40nQ1LYml8wcK1sVlBAgbBG",
+    "Title": "Поиск и сортировка",
+    "Entries": []
+  },
+  {
+    "Id": "PLegt6LmAcc43TO487NTlsVmrNVDUyDvad",
+    "Title": "08 Рекурсия и переборные алгоритмы",
+    "Entries": []
+  },
+  {
+    "Id": "PLegt6LmAcc407sZniJJv1dQ0buQpn3TOo",
+    "Title": "07 Алгоритмы и их сложность",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "aQWTrGM6HEg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "vz3YSTi2XQY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "fy4fSRDjPTs"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "qwx_pCfSyN0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "HOoYSOdTroU"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "bfvDe2M5LVE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MDdzWm5pSkp2MWRRMGJ1UXBuM1RPby5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "TmU1e5OuRr4"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc43qTW_f5Xaw5vxKpfDdjXrQ",
+    "Title": "06 Автоматическое тестирование",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "3Av5u4IKSBg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "3_a2Az8ffaI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "7dZ-OlhVpQc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "1njU3twK97w"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "sVEPrOpYufE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "bWh_1RZnL7E"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "ymfu0ODDjn0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "7G-qfbesO34"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0M3FUV19mNVhhdzV2eEtwZkRkalhyUS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "WyvMdOX9Vco"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc4220Q3vLwhAUptoMSPkggJg",
+    "Title": "05 Коллекции, строки и файлы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "KwFrLY_aRyo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "1WaWDgBxyYc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "hqoVg1bFwcY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "5CzbNN73B3k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "8iMakRG35i4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "EXenLjobvwc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "GknsLKazNIw"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MjIwUTN2THdoQVVwdG9NU1BrZ2dKZy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "YxFheXv6Vv8"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc41l1c69vdUHQ83W7eZNIMbz",
+    "Title": "04 Массивы и ссылочные типы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "ukrsujsZtc0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "1HAWcDvZZFA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "OMxsc6Csj4k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "UW8A9_r3XCQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "tlE1-K0JE5w"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MWwxYzY5dmRVSFE4M1c3ZVpOSU1iei41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "8L-ljESNqmo"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42FKV1JvNsQv3IbldDGtg-b",
+    "Title": "03 Ветвления и циклы",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "6jo2hk4ntV8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "QbpOxn3ARmI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "_zAA-s8DSdQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "AX-_VG22Y2s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "T7DUEXKyHKg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "ACgYan8WWOM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MkZLVjFKdk5zUXYzSWJsZERHdGctYi41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "f0KjSjAJ6bA"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc41y8nOPqvDZBxwp3QOvPHvC",
+    "Title": "02 Ошибки",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "28v3_TnCR0A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "Nn_Dba8MqB0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "bxwvWZRG8Mk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "zovN6wClw5c"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "jFcZaDkvzYI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "va3WnTrOHr8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "qypMA0C1_NE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MXk4bk9QcXZEWkJ4d3AzUU92UEh2Qy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "8FWm-v0e-Ro"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc42aj8tSbScvRLsaxBbM1Vq1",
+    "Title": "01 Hello, world!",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "dYEutOH_dXA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "ooh2lcIxAmk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "Q62zWcdBCog"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "XXaBGa65F5A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "C_T7UeSzuA0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MmFqOHRTYlNjdlJMc2F4QmJNMVZxMS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "1iw5osYSRH0"
+      }
+    ]
+  },
+  {
+    "Id": "PLegt6LmAcc40jKKzSCQ5ieQt2fw7FSFE0",
+    "Title": "Лекции",
+    "Entries": [
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "XXaBGa65F5A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "C_T7UeSzuA0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "1iw5osYSRH0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "28v3_TnCR0A"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "Nn_Dba8MqB0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "bxwvWZRG8Mk"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC40NzZCMERDMjVEN0RFRThB",
+        "VideoId": "jFcZaDkvzYI"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5EMEEwRUY5M0RDRTU3NDJC",
+        "VideoId": "va3WnTrOHr8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC45ODRDNTg0QjA4NkFBNkQy",
+        "VideoId": "qypMA0C1_NE"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4zMDg5MkQ5MEVDMEM1NTg2",
+        "VideoId": "8FWm-v0e-Ro"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC41Mzk2QTAxMTkzNDk4MDhF",
+        "VideoId": "6jo2hk4ntV8"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC41QTY1Q0UxMTVCODczNThE",
+        "VideoId": "_zAA-s8DSdQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4yMUQyQTQzMjRDNzMyQTMy",
+        "VideoId": "AX-_VG22Y2s"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC45RTgxNDRBMzUwRjQ0MDhC",
+        "VideoId": "T7DUEXKyHKg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5ENDU4Q0M4RDExNzM1Mjcy",
+        "VideoId": "ACgYan8WWOM"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4yMDhBMkNBNjRDMjQxQTg1",
+        "VideoId": "f0KjSjAJ6bA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5GM0Q3M0MzMzY5NTJFNTdE",
+        "VideoId": "ukrsujsZtc0"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4zRjM0MkVCRTg0MkYyQTM0",
+        "VideoId": "1HAWcDvZZFA"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC45NzUwQkI1M0UxNThBMkU0",
+        "VideoId": "OMxsc6Csj4k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5DNzE1RjZEMUZCMjA0RDBB",
+        "VideoId": "UW8A9_r3XCQ"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC43MTI1NDIwOTMwQjIxMzNG",
+        "VideoId": "tlE1-K0JE5w"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4yQUE2Q0JEMTk4NTM3RTZC",
+        "VideoId": "KwFrLY_aRyo"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5DMkU4NTY1QUFGQTYwMDE3",
+        "VideoId": "1WaWDgBxyYc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC44Mjc5REFBRUE2MTdFRDU0",
+        "VideoId": "hqoVg1bFwcY"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC43NDhFRTgwOTRERTU4Rjg3",
+        "VideoId": "5CzbNN73B3k"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC41QUZGQTY5OTE4QTREQUU4",
+        "VideoId": "8iMakRG35i4"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC4zRDBDOEZDOUM0MDY5NEEz",
+        "VideoId": "EXenLjobvwc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC42MTI4Njc2QjM1RjU1MjlG",
+        "VideoId": "3Av5u4IKSBg"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC40QTA3NTU2RkM1QzlCMzYx",
+        "VideoId": "7dZ-OlhVpQc"
+      },
+      {
+        "Id": "UExlZ3Q2TG1BY2M0MGpLS3pTQ1E1aWVRdDJmdzdGU0ZFMC5BRjJDODk5REM0NjkzMUIy",
+        "VideoId": "1njU3twK97w"
+      }
+    ]
+  }
+]

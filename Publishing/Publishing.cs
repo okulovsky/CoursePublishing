@@ -28,11 +28,12 @@ namespace CoursePublishing
 
         public static IOManager Common=new IOManager();
         public static Repository Courses = new Repository("Courses");
+        public static Repository Channel = new Repository("Channels");
 
-
-        public static YouTubeService InitializeYoutube()
+        public static YouTubeService InitializeYoutube(string channelName)
         {
-            var credentialsLocation = Publishing.MakePath(Env.CredentialsFolder, "Youtube");
+            Console.WriteLine($"Please authorize the program for channel {channelName}");
+            var credentialsLocation = Publishing.MakePath(Env.CredentialsFolder, "Youtube",channelName);
             var credential = GoogleWebAuthorizationBroker.AuthorizeAsync(
                 new ClientSecrets { ClientId = Credentials.Current.YoutubeClientId, ClientSecret = Credentials.Current.YoutubeClientSecret },
                 new[] { YouTubeService.Scope.Youtube },
