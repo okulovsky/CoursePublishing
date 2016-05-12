@@ -54,17 +54,18 @@ namespace ULearnCourseSync
                 Preview = args[1] == "Preview";
             }
 
-            Settings = Publishing.LoadInitOrEdit<CourseSettings>(-1,CourseName).Ulearn;
-            Structure = Publishing.LoadCourseStructure(CourseName);
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
+            Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
 
             Clips =
-                (from rel in Publishing.LoadList<VideoToYoutubeClip>()
-                 join clip in Publishing.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
+                (from rel in Publishing.Common.LoadList<VideoToYoutubeClip>()
+                 join clip in Publishing.Common.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
                  select new { rel, clip }
                 ).ToDictionary(z => z.rel.Guid, z => z.clip);
 
             ClipToGuid = Publishing
+                .Common
                 .LoadList<VideoToYoutubeClip>()
                 .ToDictionary(z => z.YoutubeId, z => z.Guid);
 
@@ -182,7 +183,7 @@ namespace ULearnCourseSync
                 .ItemsWithPathes
                 .Where(z => z.Item.VideoGuid.HasValue)
                 .ToDictionary(z => z.Item.VideoGuid.Value, z => z);
-            var Videos = Publishing.LoadList<Video>().ToDictionary(z => z.Guid, z => z);
+            var Videos = Publishing.Common.LoadList<Video>().ToDictionary(z => z.Guid, z => z);
             foreach(var e in guids)
             {
                 if (!data.ContainsKey(e)) throw new Exception("This should be impossible");

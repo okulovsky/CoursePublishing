@@ -14,9 +14,9 @@ namespace YoutubeSync
         {
 
 
-            var clips = Publishing.LoadList<YoutubeClip>();
-            var relation = Publishing.LoadList<VideoToYoutubeClip>();
-            var videos = Publishing.LoadList<Video>();
+            var clips = Publishing.Common.LoadList<YoutubeClip>();
+            var relation = Publishing.Common.LoadList<VideoToYoutubeClip>();
+            var videos = Publishing.Common.LoadList<Video>();
 
             var model = new MatchModel();
 
@@ -47,7 +47,7 @@ namespace YoutubeSync
             if (model.SaveRequest)
             {
                 relation = model.Matches.Select(z => new VideoToYoutubeClip(z.Item1.Guid, z.Item2.Clip.Id)).ToList();
-                Publishing.UpdateList(relation,z=>z.Guid.ToString());
+                Publishing.Common.UpdateList(relation,z=>z.Guid.ToString());
             }
         }
     }

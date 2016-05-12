@@ -36,29 +36,29 @@ namespace YoutubeCourseSync
                 Preview = args[1] == "Preview";
             }
 
-            Settings = Publishing.LoadInitOrEdit<CourseSettings>(5,CourseName).Youtube;
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(5).Youtube;
 
 
             Service = Publishing.InitializeYoutube();
-           
-            Structure = Publishing.LoadCourseStructure(CourseName);
+
+            Structure = Publishing.Courses[CourseName].Load<Structure>(); ;
 
 
             Clips =
-                (from rel in Publishing.LoadList<VideoToYoutubeClip>()
-                 join clip in Publishing.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
+                (from rel in Publishing.Common.LoadList<VideoToYoutubeClip>()
+                 join clip in Publishing.Common.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
                  select new { rel, clip }
                 ).ToDictionary(z => z.rel.Guid, z => z.clip);
 
             Playlists =
-                (from rel in Publishing.LoadList<TopicToYoutubePlaylist>()
-                 join list in Publishing.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
+                (from rel in Publishing.Common.LoadList<TopicToYoutubePlaylist>()
+                 join list in Publishing.Common.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
                  select new { rel, list }
                  ).ToDictionary(z => z.rel.Guid, z => z.list);
 
 
 
-            Videos = Publishing.LoadList<CoursePublishing.Video>().ToDictionary(z => z.Guid, z => z);
+            Videos = Publishing.Common.LoadList<CoursePublishing.Video>().ToDictionary(z => z.Guid, z => z);
 
 
             if (!CheckMissingVideos()) return;
@@ -70,9 +70,9 @@ namespace YoutubeCourseSync
 
             if (!Preview)
             {
-                Publishing.UpdateList(Clips.Values.ToList(), z => z.Id);
-                Publishing.UpdateList(Playlists.Values.ToList(), z => z.Id);
-                Publishing.UpdateList(
+                Publishing.Common.UpdateList(Clips.Values.ToList(), z => z.Id);
+                Publishing.Common.UpdateList(Playlists.Values.ToList(), z => z.Id);
+                Publishing.Common.UpdateList(
                     Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
                     z => z.Guid.ToString());
             }

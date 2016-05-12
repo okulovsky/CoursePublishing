@@ -7,6 +7,9 @@ using System.Threading.Tasks;
 
 namespace CoursePublishing
 {
+    public class Structure : Section
+    { }
+
     public class SectionOrVideoGuid
     {
         public Section Section { get; set; }

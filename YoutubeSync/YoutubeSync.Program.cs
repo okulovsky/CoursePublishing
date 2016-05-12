@@ -118,8 +118,8 @@ namespace YoutubeSync
         public static void Main()
         {
             service = Publishing.InitializeYoutube();
-            Publishing.SaveList(GetAllPlaylists());
-            Publishing.SaveList(GetAllClips());
+            Publishing.Common.SaveList(GetAllPlaylists());
+            Publishing.Common.SaveList(GetAllClips());
         }
     }
 }

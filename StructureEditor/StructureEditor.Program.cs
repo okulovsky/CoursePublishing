@@ -29,8 +29,8 @@ namespace StructureEditor
         static string PrepareText()
         {
             StringBuilder text = new StringBuilder();
-            var root = Publishing.LoadCourseStructure(CourseName);
-            var videos = Publishing.LoadList<Video>();
+            var root = Publishing.Courses[CourseName].Load<Structure>();
+            var videos = Publishing.Common.LoadList<Video>();
             foreach (var e in root.Items)
             {
                 if (e.Section!=null)
@@ -65,7 +65,12 @@ namespace StructureEditor
             text.AppendLine("Videos below this line are not yet included in any course");
             text.AppendLine();
 
-            var bindedVideos = Publishing.LoadList<VideoToCourse>().SelectMany(z=>z.VideoGuids).Distinct().ToDictionary(z=>z,z=>true);
+            var bindedVideos = Publishing
+                .Common
+                .LoadList<VideoToCourse>()
+                .SelectMany(z=>z.VideoGuids)
+                .Distinct()
+                .ToDictionary(z=>z,z=>true);
             var freeVideos = videos.Where(z => !bindedVideos.ContainsKey(z.Guid));
             foreach (var v in freeVideos.OrderBy(z=>z.OriginalLocation).ThenBy(z=>z.EpisodeNumber))
             {
@@ -106,7 +111,7 @@ namespace StructureEditor
 
         static Section Parse(string text)
         {
-            var videos = Publishing.LoadList<Video>();
+            var videos = Publishing.Common.LoadList<Video>();
            
             List<Section> roots = new List<Section>();
             bool hasRootSection = false;
@@ -132,7 +137,7 @@ namespace StructureEditor
                         throw new Ex(i, "Only one root record is allowed, it is the name of the course");
                     if (!record.Item3.HasValue)
                         throw new Ex(i, "Don't correct GUID of the course");
-                    var topic = new Section { Name = record.Item2, Level = record.Item1, Guid=record.Item3.Value };
+                    var topic = new Structure { Name = record.Item2.Trim(), Level = record.Item1, Guid=record.Item3.Value };
                     roots.Add(topic);
                     continue;
                    
@@ -145,7 +150,7 @@ namespace StructureEditor
                         throw new Ex(i, "Unexpected section of depth " + record.Item1);
                     while (roots.Count > record.Item1)
                         roots.RemoveAt(roots.Count - 1);
-                    var topic = new Section { Name = record.Item2, Level = record.Item1 };
+                    var topic = new Section { Name = record.Item2.Trim(), Level = record.Item1 };
                     if (record.Item3.HasValue) topic.Guid = record.Item3.Value;
                     else topic.Guid = Guid.NewGuid();
 
@@ -170,6 +175,23 @@ namespace StructureEditor
                 roots[roots.Count - 1].Videos.Add(v.Guid);
             }
             return roots[0];
+        }
+
+        static void SaveCourseStructure(Structure root)
+        {
+            Publishing.Courses[CourseName].Save(root);
+
+            var r = Publishing.Common.LoadList<VideoToCourse>();
+            var section = r.Where(z => z.CourseGuid == root.Guid).FirstOrDefault();
+            if (section == null)
+                section = new VideoToCourse { CourseGuid = root.Guid };
+            else
+                r.Remove(section);
+            section.VideoGuids.Clear();
+            section.VideoGuids.AddRange(root.Items.VideoGuids());
+            r.Add(section);
+
+            Publishing.Common.SaveList(r);
         }
 
         static void Main(string[] args)
@@ -203,7 +225,7 @@ namespace StructureEditor
                     if (key.Key == ConsoleKey.Escape) return;
                     continue;
                 }
-                Publishing.SaveCourseStructure(CourseName, root);
+                SaveCourseStructure(root as Structure);
                 return;
 
                 //text = PrepareText();File.WriteAllText("temp.txt", text); //for debugging
