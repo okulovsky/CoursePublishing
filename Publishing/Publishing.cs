@@ -49,5 +49,14 @@ namespace CoursePublishing
             return service;
         }
 
+        public static string GetCourseNameFromArgs(string[] args)
+        {
+            if (args.Length==0)
+            {
+                Console.WriteLine("The program accepts one argument: the course to process");
+                Environment.Exit(0);
+            }
+            return args[0];
+        }
     }
 }

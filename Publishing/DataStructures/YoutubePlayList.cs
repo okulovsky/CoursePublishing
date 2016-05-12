@@ -10,6 +10,7 @@ namespace CoursePublishing
     {
         public string Id { get; set; }
 
+
         public string VideoId { get; set; }
 
     }
@@ -17,6 +18,8 @@ namespace CoursePublishing
 
     public class YoutubePlaylist
     {
+
+        public string Channel { get; set; }
         public string Id { get; set; }
         public string Title { get; set; }
         public List<YoutubePlaylistEntry> Entries { get; }

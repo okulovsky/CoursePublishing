@@ -96,6 +96,7 @@
     <Compile Include="DataStructures\YoutubeClip.cs" />
     <Compile Include="IO\IOManager.cs" />
     <Compile Include="IO\Repository.cs" />
+    <Compile Include="PreviewableService.cs" />
     <Compile Include="Stepic\Auxiliary.cs" />
     <Compile Include="Stepic\StepicApi.cs" />
     <Compile Include="Credentials.cs" />

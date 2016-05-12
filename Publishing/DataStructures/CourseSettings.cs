@@ -18,6 +18,7 @@ namespace CoursePublishing
     public class YoutubeSyncSettings
     {
         public int[] PlayListLevels { get; set; } = new [] { 0 };
+        public string Channel { get; set; }
 
         public YoutubeSyncSettings()
         {

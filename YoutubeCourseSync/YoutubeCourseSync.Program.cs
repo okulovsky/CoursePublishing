@@ -9,66 +9,34 @@ using System.Threading.Tasks;
 
 namespace YoutubeCourseSync
 {
-    class Program
+    class YoutubeCourseSyncService : PreviewableService
     {
-        static string CourseName;
-        static Section Structure;
-        static Dictionary<Guid, YoutubeClip> Clips;
-        static Dictionary<Guid, CoursePublishing.Video> Videos;
-        static Dictionary<Guid, YoutubePlaylist> Playlists;
-        static int[] Margins;
-        static YoutubeSyncSettings Settings;
-        static YouTubeService Service;
-        static bool Preview;
+        string CourseName;
+        Section Structure;
+        Dictionary<Guid, YoutubeClip> Clips;
+        Dictionary<Guid, CoursePublishing.Video> Videos;
+        Dictionary<Guid, YoutubePlaylist> Playlists;
+        int[] Margins;
+        YoutubeSyncSettings Settings;
+        YouTubeService Service;
+
 
         static void Main(string[] args)
         {
-            if (args.Length < 1)
-            {
-                Console.WriteLine("Pass the name of the course as the first argument");
-                return;
-            }
+            new YoutubeCourseSyncService().Run(args);
+        }
 
-            CourseName = args[0];
-
-            if (args.Length > 1)
-            {
-                Preview = args[1] == "Preview";
-            }
-
-            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(5).Youtube;
-
-
-            Service = Publishing.InitializeYoutube();
-
-            Structure = Publishing.Courses[CourseName].Load<Structure>(); ;
-
-
-            Clips =
-                (from rel in Publishing.Common.LoadList<VideoToYoutubeClip>()
-                 join clip in Publishing.Common.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
-                 select new { rel, clip }
-                ).ToDictionary(z => z.rel.Guid, z => z.clip);
-
-            Playlists =
-                (from rel in Publishing.Common.LoadList<TopicToYoutubePlaylist>()
-                 join list in Publishing.Common.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
-                 select new { rel, list }
-                 ).ToDictionary(z => z.rel.Guid, z => z.list);
-
-
-
-            Videos = Publishing.Common.LoadList<CoursePublishing.Video>().ToDictionary(z => z.Guid, z => z);
-
-
+        void Run(string[] args)
+        {
+            CourseName = Publishing.GetCourseNameFromArgs(args);
+            Initialize();
             if (!CheckMissingVideos()) return;
-
             MakeMargins();
             UpdateVideos();
             foreach (var e in Settings.PlayListLevels)
                 UpdatePlaylistsForLevel(e);
 
-            if (!Preview)
+            if (AskAndExecute())
             {
                 Publishing.Common.UpdateList(Clips.Values.ToList(), z => z.Id);
                 Publishing.Common.UpdateList(Playlists.Values.ToList(), z => z.Id);
@@ -78,8 +46,39 @@ namespace YoutubeCourseSync
             }
         }
 
+        void Initialize()
+        {
+            
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(5).Youtube;
+            Service = Publishing.InitializeYoutube(Settings.Channel);
+            Structure = Publishing.Courses[CourseName].Load<Structure>(); ;
 
-        static bool CheckMissingVideos()
+
+            Clips =
+                (from guid in Structure.Items.VideoGuids()
+                 join rel in Publishing.Common.LoadList<VideoToYoutubeClip>() on guid equals rel.Guid
+                 join clip in Publishing.Common.LoadList<YoutubeClip>() on rel.YoutubeId equals clip.Id
+                 select new { guid, clip }
+                ).ToDictionary(z => z.guid, z => z.clip);
+
+            Playlists =
+                (from section in Structure.Items.Sections()
+                 join rel in Publishing.Common.LoadList<TopicToYoutubePlaylist>() on section.Guid equals rel.Guid
+                 join list in Publishing.Common.LoadList<YoutubePlaylist>() on rel.YoutubeId equals list.Id
+                 select new { section, list }
+                 ).ToDictionary(z => z.section.Guid, z => z.list);
+
+
+            Videos =
+                (from guid in Structure.Items.VideoGuids()
+                 join video in Publishing.Common.LoadList<CoursePublishing.Video>() on guid equals video.Guid
+                 select new { guid, video }
+                 ).ToDictionary(z => z.guid, z => z.video);
+
+
+        }
+
+        bool CheckMissingVideos()
         {
             var videoGuids = Structure.Items.VideoGuids().ToList();
             var missingVideos = videoGuids.Where(z => !Clips.ContainsKey(z)).ToList();
@@ -100,7 +99,7 @@ namespace YoutubeCourseSync
         }
 
         #region Margins and Prefixes
-        static void MakeMargins()
+        void MakeMargins()
         {
             Margins = Structure
                 .ItemsWithPathes
@@ -112,7 +111,7 @@ namespace YoutubeCourseSync
                 .ToArray();
         }
 
-        static string CreatePrefix(List<SectionIndexation> list)
+        string CreatePrefix(List<SectionIndexation> list)
         {
             return Enumerable
                .Range(0, list.Count)
@@ -120,14 +119,14 @@ namespace YoutubeCourseSync
                .Aggregate((a, b) => a + "-" + b);
         }
 
-        static string CreateTitle(List<SectionIndexation> list,string title)
+        string CreateTitle(List<SectionIndexation> list,string title)
         {
             return $"{CourseName}-{CreatePrefix(list)} {title}".Trim();
         }
         #endregion
 
         #region Updating videos
-        static void UpdateVideos()
+        void UpdateVideos()
         {
             foreach (var data in Structure.ItemsWithPathes.Where(z => z.Item.VideoGuid != null))
             {
@@ -145,34 +144,25 @@ namespace YoutubeCourseSync
                 clip.Name = title;
                 clip.Description = description;
 
-                Console.Write($"Updating video {title}...");
-                if (Preview)
-                {
-                    Console.WriteLine("Previewed");
-                    continue;
-                }
-
-
-                var listRq = Service.Videos.List("snippet");
-                listRq.Id = clip.Id;
-                var remoteClips = listRq.Execute();
-                if (remoteClips.Items.Count == 0)
-                {
-                    Console.WriteLine("Not found at youtube");
-                    continue;
-                }
-                var remoteClip=remoteClips.Items[0];
-                remoteClip.Snippet.Title = title;
-                remoteClip.Snippet.Description = description;
-                remoteClip.Snippet.Tags = null;
-                Service.Videos.Update(remoteClip, "snippet").Execute();
-
-                Console.WriteLine("Done");
+                AddAction($"Updating video {title}",
+                    () =>
+                    {
+                        var listRq = Service.Videos.List("snippet");
+                        listRq.Id = clip.Id;
+                        var remoteClips = listRq.Execute();
+                        if (remoteClips.Items.Count == 0)
+                            throw new Exception("Not found at Youtube");
+                        var remoteClip = remoteClips.Items[0];
+                        remoteClip.Snippet.Title = title;
+                        remoteClip.Snippet.Description = description;
+                        remoteClip.Snippet.Tags = null;
+                        Service.Videos.Update(remoteClip, "snippet").Execute();
+                    });
             }
         }
         #endregion
 
-        static void UpdatePlaylistsForLevel(int level)
+        void UpdatePlaylistsForLevel(int level)
         {
 
             var test = Structure
@@ -186,21 +176,22 @@ namespace YoutubeCourseSync
             foreach(var data in inList)
             {
                 var title = CreateTitle(data.Path,data.Item.Section.Name);
-
                 var topic = data.Item.Section;
+                var videos = topic.Items.VideoGuids().Where(z => Clips.ContainsKey(z)).Select(z => Clips[z].Id).ToList();
 
                 if (!Playlists.ContainsKey(topic.Guid))
                 {
-                    Playlists[topic.Guid] = CreatePlaylist(title);
+                    AddAction($"Creating playlist {title}", () =>
+                     {
+                         var pl = Playlists[topic.Guid] = CreatePlaylist(title);
+                         UpdateEntries(pl, videos);
+                     });
+                    continue;
                 }
                 var list = Playlists[topic.Guid];
-
-                var videos = topic.Items.VideoGuids().Where(z => Clips.ContainsKey(z)).Select(z => Clips[z].Id).ToList();
-
-
                 if (list.Title != title)
                 {
-                    UpdateListTitle(list, title);
+                    AddAction($"Updating playlit {title}", ()=> UpdateListTitle(list, title));
                 }
 
                 bool wrongEntires =
@@ -208,23 +199,14 @@ namespace YoutubeCourseSync
                     list.Entries.Select(z => z.VideoId).Zip(videos, (s1, s2) => s1 == s2).Any(z => !z);
                 if (wrongEntires)
                 {
-                    UpdateEntries(list,videos);
+                    AddAction($"Updating playlist enties for {title}", () => UpdateEntries(list, videos));
                 }
             }
 
         }
 
-        private static void UpdateEntries(YoutubePlaylist list,List<string> newEntries)
+        private void UpdateEntries(YoutubePlaylist list,List<string> newEntries)
         {
-            Console.Write($"Updating playlist {list.Title}...");
-
-            if (Preview)
-            {
-                Console.WriteLine("Previewed");
-                return;
-            }
-
-
             foreach (var e in list.Entries)
                 Service.PlaylistItems.Delete(e.Id).Execute();
             list.Entries.Clear();
@@ -246,47 +228,28 @@ namespace YoutubeCourseSync
                 var result=Service.PlaylistItems.Insert(item, "snippet").Execute();
                 list.Entries.Add(new YoutubePlaylistEntry { Id = result.Id, VideoId = e });
             }
-            Console.WriteLine("Done");
         }
 
-        private static void UpdateListTitle(YoutubePlaylist list,string title)
+        private void UpdateListTitle(YoutubePlaylist list,string title)
         {
             list.Title = title;
-            Console.Write($"Update playlist {list.Title}... ");
-            if (Preview)
-            {
-                Console.WriteLine("Previewed");
-                return;
-            }
-
             var listRq = Service.Playlists.List("snippet");
             listRq.Id = list.Id;
             var lists = listRq.Execute();
             if (lists.Items.Count==0)
             {
-                Console.WriteLine("Failed");
-                return;
+                throw new Exception("List not found at youtube");
             }
             var pl=lists.Items[0];
             pl.Snippet.Title = list.Title;
             Service.Playlists.Update(pl, "snippet");
-            Console.WriteLine("Done");
         }
 
-        private static YoutubePlaylist CreatePlaylist(string title)
+        private YoutubePlaylist CreatePlaylist(string title)
         {
-            Console.Write($"Creating playlist {title}... ");
             var playlist = new YoutubePlaylist();
             playlist.Id = "";
             playlist.Title = title;
-
-            if (Preview)
-            {
-                Console.WriteLine("Previewed");
-                return playlist;
-            }
-
-
             var list = new Playlist();
             list.Snippet = new PlaylistSnippet();
             list.Snippet.Title = title;
@@ -294,10 +257,7 @@ namespace YoutubeCourseSync
             list.Status.PrivacyStatus = "public";
             list = Service.Playlists.Insert(list, "snippet,status").Execute();
             playlist.Id = list.Id;
-            Console.WriteLine("Done");
             return playlist;
         }
-
-
     }
 }

@@ -22,17 +22,17 @@ namespace ULearnCourseSync
     }
 
 
-    class Program
+    class UlearnCourseSyncService : PreviewableService
     {
-        static UlearnSyncSettings Settings;
-        static string CourseName;
-        static bool Preview;
-        static Section Structure;
-        static List<Section> TopicsForFolders;
-        static Dictionary<Guid, YoutubeClip> Clips;
-        static Dictionary<string, Guid> ClipToGuid;
-        static DirectoryInfo StartFolder;
-        static List<DirectoryInfo> ExistingDirectories;
+        UlearnSyncSettings Settings;
+        string CourseName;
+        bool Preview;
+        Section Structure;
+        List<Section> TopicsForFolders;
+        Dictionary<Guid, YoutubeClip> Clips;
+        Dictionary<string, Guid> ClipToGuid;
+        DirectoryInfo StartFolder;
+        List<DirectoryInfo> ExistingDirectories;
 
 
         static Regex GuidRegex = new Regex(@"\[Slide\(.+, ?""([0-9a-fA-F-]+)""\)\]");
@@ -41,19 +41,18 @@ namespace ULearnCourseSync
 
         static void Main(string[] args)
         {
-            if (args.Length < 1)
-            {
-                Console.WriteLine("Pass the name of the course as the first argument");
-                return;
-            }
+            new UlearnCourseSyncService().Run(args);
+        }
 
-            CourseName = args[0];
+        public void Run(string[] args)
+        {
+            CourseName = Publishing.GetCourseNameFromArgs(args);
 
-            if (args.Length > 1)
-            {
-                Preview = args[1] == "Preview";
-            }
+            Initialize();
+        }
 
+        void Initialize()
+        { 
             Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
             Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
@@ -79,7 +78,7 @@ namespace ULearnCourseSync
         }
 
      
-        static string FolderNameFor(Section section)
+        string FolderNameFor(Section section)
         {
             var index = TopicsForFolders.IndexOf(section);
             if (index == -1)
@@ -89,7 +88,7 @@ namespace ULearnCourseSync
                     section.Name.Trim());
         }
 
-        static void ShowFoldersStructure()
+        void ShowFoldersStructure()
         {
             ExistingDirectories = StartFolder.GetDirectories("L*").ToList();
             var dueFolders = Structure
@@ -115,7 +114,7 @@ namespace ULearnCourseSync
             Console.WriteLine();
         }
 
-        static IEnumerable<SlideData> GetVideoSlides()
+        IEnumerable<SlideData> GetVideoSlides()
         {
             var files = StartFolder.GetFiles("S*", SearchOption.AllDirectories);
             foreach (var f in files)
@@ -139,7 +138,7 @@ namespace ULearnCourseSync
             }
         }
 
-        static void ProcessSlides()
+         void ProcessSlides()
         {
             var VideoGuids = Structure.Items.VideoGuids().ToDictionary(z => z, z => new List<string>());
             var slides = GetVideoSlides().ToList();
@@ -160,7 +159,9 @@ namespace ULearnCourseSync
                     }
                     if (Clips[e.GuidMatch].Id != e.IdMatch)
                     {
-                        ChangeYoutubeClip(e, Clips[e.GuidMatch].Id);
+                        AddAction(
+                            $"Changing Youtube reference in {e.RelativePath}",
+                            ()=>ChangeYoutubeClip(e, Clips[e.GuidMatch].Id));
                         continue;
                     }
                     continue;
@@ -169,14 +170,16 @@ namespace ULearnCourseSync
 
                 if (ClipToGuid.ContainsKey(e.IdMatch))
                 {
-                    ChangeGuid(e, ClipToGuid[e.IdMatch]);
+                    AddAction(
+                        $"Changing GUID in {e.RelativePath}",
+                        ()=>ChangeGuid(e, ClipToGuid[e.IdMatch]));
                 }
             }
 
             GenerateSlides(VideoGuids.Where(z => z.Value.Count == 0).Select(z => z.Key));
         }
 
-        private static void GenerateSlides(IEnumerable<Guid> guids)
+        private void GenerateSlides(IEnumerable<Guid> guids)
         {
             var data =
                  Structure
@@ -195,18 +198,11 @@ namespace ULearnCourseSync
                     (slideNum + 1) * 10,
                     Videos[e].Title.Trim());
                 var relativePath = Path.Combine(folderName, slideName);
-                Console.Write($"Creating slide {relativePath}... ");
-                if (Preview)
-                {
-                    Console.WriteLine("Previewed");
-                    continue;
-                }
-                CreateSlide(relativePath, e, Clips[e]);
-                Console.WriteLine("Done");
+                AddAction($"Creating slide {relativePath}", () => CreateSlide(relativePath, e, Clips[e]));
             }
         }
 
-        private static void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip)
+        private void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip)
         {
             var fullPath = Path.Combine(Settings.Path, relativePath);
             var template = @"
@@ -246,34 +242,16 @@ namespace {0}
 
         private static void ChangeGuid(SlideData slide, Guid guid)
         {
-            Console.Write($"Changing GUID in {slide.RelativePath}... ");
-            if (Preview)
-            {
-                Console.WriteLine("Previewed");
-                return;
-            }
-
             var text = File.ReadAllText(slide.Files.FullName);
             text = ChangeWithRegexp(text, GuidRegex, 1, guid.ToString());
             File.WriteAllText(slide.Files.FullName, text);
-            Console.WriteLine("Done");
-
         }
 
         private static void ChangeYoutubeClip(SlideData slide, string id)
         {
-            Console.Write($"Changing Youtube reference in {slide.RelativePath}... ");
-            if (Preview)
-            {
-                Console.WriteLine("Previewed");
-                return;
-            }
-
-            var text = File.ReadAllText(slide.Files.FullName);
+           var text = File.ReadAllText(slide.Files.FullName);
             text = ChangeWithRegexp(text, YoutubeRegex, 1, id);
             File.WriteAllText(slide.Files.FullName, text);
-            Console.WriteLine("Done");
-
         }
     }
 }

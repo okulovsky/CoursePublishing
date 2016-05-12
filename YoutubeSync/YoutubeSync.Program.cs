@@ -19,7 +19,7 @@ namespace YoutubeSync
 
 
 
-        static List<YoutubeClip> GetAllClips()
+        static List<YoutubeClip> GetAllClips(string __channel)
         {
             Console.Write("Retrieving video data");
 
@@ -55,7 +55,12 @@ namespace YoutubeSync
                     {
                         var snippet = playlistItem.Snippet;
                         ids.Add(snippet.ResourceId.VideoId);
-                        videos.Add(new YoutubeClip { Id = snippet.ResourceId.VideoId, Name = snippet.Title, Description = snippet.Description });
+                        videos.Add(new YoutubeClip
+                        {
+                            Channel = __channel,
+                            Id = snippet.ResourceId.VideoId,
+                            Name = snippet.Title,
+                            Description = snippet.Description });
                     }
                     Console.Write(".");
                     nextPageToken = playlistItemsListResponse.NextPageToken;
@@ -83,7 +88,7 @@ namespace YoutubeSync
             }
         }
 
-        public static List<YoutubePlaylist> GetAllPlaylists()
+        public static List<YoutubePlaylist> GetAllPlaylists(string channel)
         {
             Console.Write("Retrieving playlists data");
             var result = new List<YoutubePlaylist>();
@@ -95,7 +100,12 @@ namespace YoutubeSync
                 listRequest.Mine = true;
                 listRequest.PageToken = nextPageToken;
                 var lists = listRequest.Execute();
-                result.AddRange(lists.Items.Select(z => new YoutubePlaylist { Id = z.Id, Title = z.Snippet.Title }));
+                result.AddRange(lists.Items.Select(z => new YoutubePlaylist
+                {
+                    Id = z.Id,
+                    Title = z.Snippet.Title,
+                    Channel=channel
+                }));
                 nextPageToken = lists.NextPageToken;
                 Console.Write(".");
             }
@@ -118,12 +128,16 @@ namespace YoutubeSync
         public static void Main()
         {
             var settings = Publishing.Common.LoadInitOrEdit<YoutubeSettings>(-1);
+            var resultClip = new List<YoutubeClip>();
+            var resultPlaylist = new List<YoutubePlaylist>();
             foreach (var channel in settings.ChannelNames)
             {
                 service = Publishing.InitializeYoutube(channel);
-                Publishing.Channel[channel].SaveList(GetAllPlaylists());
-                Publishing.Channel[channel].SaveList(GetAllClips());
+                resultPlaylist.AddRange(GetAllPlaylists(channel));
+                resultClip.AddRange(GetAllClips(channel));
             }
+            Publishing.Common.SaveList(resultClip);
+            Publishing.Common.SaveList(resultPlaylist);
         }
     }
 }
