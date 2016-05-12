@@ -35,7 +35,7 @@ namespace ULearnCourseSync
         static List<DirectoryInfo> ExistingDirectories;
 
 
-        static Regex GuidRegex = new Regex(@"\[Slide\([^\n]+,""([\""]+)""\)\]");
+        static Regex GuidRegex = new Regex(@"\[Slide\(.+, ?""([0-9a-fA-F-]+)""\)\]");
         static Regex YoutubeRegex = new Regex(@"//#video ([^ \t\n\r]+)");
 
 
@@ -123,13 +123,6 @@ namespace ULearnCourseSync
                 var text = File.ReadAllText(f.FullName);
 
                 var guidMatch = GuidRegex.Match(text);
-
-                if (f.Name.StartsWith("S060"))
-                {
-                    Console.Write(guidMatch.Success);
-                    Console.Write("");
-                }
-
 
                 if (!guidMatch.Success) continue;
                 var youtubeMatch = YoutubeRegex.Match(text);
