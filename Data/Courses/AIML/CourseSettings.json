@@ -4,8 +4,7 @@
       2
     ],
     "Channel": "AIML",
-    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте интеллектуальные системы и машинное обучение на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/{GUID}"
- 
+    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте интеллектуальные системы и машинное обучение на нашем сайте! https://ulearn.azurewebsites.net/Slide/{GUID}"
   },
   "Ulearn": {
     "Path": "",
