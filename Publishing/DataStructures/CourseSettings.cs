@@ -20,6 +20,8 @@ namespace CoursePublishing
         public int[] PlayListLevels { get; set; } = new [] { 0 };
         public string Channel { get; set; }
 
+        public string DescriptionPattern { get; set; } = "";
+
         public YoutubeSyncSettings()
         {
         }

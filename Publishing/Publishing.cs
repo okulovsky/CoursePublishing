@@ -30,6 +30,18 @@ namespace CoursePublishing
         public static Repository Courses = new Repository("Courses");
         public static Repository Channel = new Repository("Channels");
 
+        public static void SaveCourseStructure(Structure root, string CourseName)
+        {
+            Publishing.Courses[CourseName].Save(root);
+
+            var rel = root.Items.VideoGuids()
+                .Select(z => new VideoToCourse { VideoGuid = z, CourseGuid = root.Guid })
+                .ToList();
+
+            Publishing.Common.UpdateList(rel, z => z.VideoGuid.ToString());
+        }
+
+
         public static YouTubeService InitializeYoutube(string channelName)
         {
             Console.WriteLine($"Please authorize the program for channel {channelName}");

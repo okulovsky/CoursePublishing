@@ -49,7 +49,7 @@ namespace YoutubeCourseSync
         void Initialize()
         {
             
-            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(5).Youtube;
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(3).Youtube;
             Service = Publishing.InitializeYoutube(Settings.Channel);
             Structure = Publishing.Courses[CourseName].Load<Structure>(); ;
 
@@ -132,7 +132,8 @@ namespace YoutubeCourseSync
             {
                 var video = Videos[data.Item.VideoGuid.Value];
                 var title = CreateTitle(data.Path, video.Title);
-                var description = "";
+                var description = Settings.DescriptionPattern;
+                description = description.Replace("{GUID}", video.Guid.ToString());
 
 
                 if (!Clips.ContainsKey(video.Guid)) continue;
@@ -202,7 +203,6 @@ namespace YoutubeCourseSync
                     AddAction($"Updating playlist enties for {title}", () => UpdateEntries(list, videos));
                 }
             }
-
         }
 
         private void UpdateEntries(YoutubePlaylist list,List<string> newEntries)

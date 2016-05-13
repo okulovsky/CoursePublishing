@@ -8,11 +8,7 @@ namespace CoursePublishing
 {
     public class VideoToCourse
     {
+        public Guid VideoGuid { get; set; }
         public Guid CourseGuid { get; set; }
-        public List<Guid> VideoGuids { get; private set; }
-        public VideoToCourse()
-        {
-            VideoGuids = new List<Guid>();
-        }
     }
 }

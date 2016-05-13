@@ -68,9 +68,7 @@ namespace StructureEditor
             var bindedVideos = Publishing
                 .Common
                 .LoadList<VideoToCourse>()
-                .SelectMany(z=>z.VideoGuids)
-                .Distinct()
-                .ToDictionary(z=>z,z=>true);
+                .ToDictionary(z=>z.VideoGuid,z=>true);
             var freeVideos = videos.Where(z => !bindedVideos.ContainsKey(z.Guid));
             foreach (var v in freeVideos.OrderBy(z=>z.OriginalLocation).ThenBy(z=>z.EpisodeNumber))
             {
@@ -177,22 +175,6 @@ namespace StructureEditor
             return roots[0];
         }
 
-        static void SaveCourseStructure(Structure root)
-        {
-            Publishing.Courses[CourseName].Save(root);
-
-            var r = Publishing.Common.LoadList<VideoToCourse>();
-            var section = r.Where(z => z.CourseGuid == root.Guid).FirstOrDefault();
-            if (section == null)
-                section = new VideoToCourse { CourseGuid = root.Guid };
-            else
-                r.Remove(section);
-            section.VideoGuids.Clear();
-            section.VideoGuids.AddRange(root.Items.VideoGuids());
-            r.Add(section);
-
-            Publishing.Common.SaveList(r);
-        }
 
         static void Main(string[] args)
         {
@@ -225,7 +207,7 @@ namespace StructureEditor
                     if (key.Key == ConsoleKey.Escape) return;
                     continue;
                 }
-                SaveCourseStructure(root as Structure);
+                Publishing.SaveCourseStructure(root as Structure,CourseName);
                 return;
 
                 //text = PrepareText();File.WriteAllText("temp.txt", text); //for debugging

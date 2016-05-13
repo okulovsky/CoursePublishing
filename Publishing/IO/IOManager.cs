@@ -97,6 +97,8 @@ namespace CoursePublishing.IO
             {
                 if (Console.KeyAvailable)
                 {
+                    var key = Console.ReadKey(true);
+                    if (key.Key == ConsoleKey.Escape) break;
                     try
                     {
                         Save(Load<T>());
