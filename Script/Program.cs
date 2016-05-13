@@ -11,7 +11,7 @@ namespace Script
     {
         static void Main(string[] args)
         {
-            foreach(var e in new[] { "OOP", "LHPS", "Hackerdom" })
+            foreach(var e in new[] { "OOP", "LHPS", "Hackerdom", "AIML" })
             {
                 var s = Publishing.Courses[e].Load<Structure>();
                 Publishing.SaveCourseStructure(s, e);

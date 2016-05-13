@@ -35,7 +35,7 @@ namespace CoursePublishing
             Publishing.Courses[CourseName].Save(root);
 
             var rel = root.Items.VideoGuids()
-                .Select(z => new VideoToCourse { VideoGuid = z, CourseGuid = root.Guid })
+                .Select(z => new VideoToCourse { VideoGuid = z, CourseName = CourseName })
                 .ToList();
 
             Publishing.Common.UpdateList(rel, z => z.VideoGuid.ToString());
