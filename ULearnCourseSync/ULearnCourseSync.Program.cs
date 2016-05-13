@@ -26,9 +26,9 @@ namespace ULearnCourseSync
     {
         UlearnSyncSettings Settings;
         string CourseName;
-        bool Preview;
         Section Structure;
         List<Section> TopicsForFolders;
+        Dictionary<Guid, Video> Videos;
         Dictionary<Guid, YoutubeClip> Clips;
         Dictionary<string, Guid> ClipToGuid;
         DirectoryInfo StartFolder;
@@ -68,6 +68,11 @@ namespace ULearnCourseSync
                 .LoadList<VideoToYoutubeClip>()
                 .ToDictionary(z => z.YoutubeId, z => z.Guid);
 
+            Videos =
+                (from guid in Structure.Items.VideoGuids()
+                 join video in Publishing.Common.LoadList<Video>() on guid equals video.Guid
+                 select video
+                 ).ToDictionary(z => z.Guid, z => z);
           
             StartFolder = new DirectoryInfo(Path.Combine(Settings.Path, "Slides"));
 
@@ -104,6 +109,12 @@ namespace ULearnCourseSync
                 var folderName = FolderNameFor(dueFolders[i]);
 
                 var info = StartFolder.CreateSubdirectory(folderName);
+
+                File.WriteAllText(
+                    Path.Combine(info.FullName, "Title.txt"),
+                    dueFolders[i].Name);
+
+
                 ExistingDirectories.Add(info);
             }
 
@@ -188,7 +199,6 @@ namespace ULearnCourseSync
                 .ItemsWithPathes
                 .Where(z => z.Item.VideoGuid.HasValue)
                 .ToDictionary(z => z.Item.VideoGuid.Value, z => z);
-            var Videos = Publishing.Common.LoadList<Video>().ToDictionary(z => z.Guid, z => z);
             foreach(var e in guids)
             {
                 if (!data.ContainsKey(e)) throw new Exception("This should be impossible");
@@ -200,11 +210,11 @@ namespace ULearnCourseSync
                     (slideNum + 1) * 10,
                     Videos[e].Title.Trim());
                 var relativePath = Path.Combine(folderName, slideName);
-                AddAction($"Creating slide {relativePath}", () => CreateSlide(relativePath, e, Clips[e]));
+                AddAction($"Creating slide {relativePath}", () => CreateSlide(relativePath, e, Clips[e], Videos[e]));
             }
         }
 
-        private void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip)
+        private void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip, Video video)
         {
             var fullPath = Path.Combine(StartFolder.FullName, relativePath);
             var template = @"
@@ -221,10 +231,10 @@ namespace {0}
         //#video {4}
     }}
 }}";
-            var csName = youtubeClip.Name.Replace(" ", "_").Replace(".", "_").Replace(",", "_");
+            var csName = video.Title.Replace(" ", "_").Replace(".", "_").Replace(",", "_");
             var text = string.Format(template,
                 CourseName,
-                youtubeClip.Name,
+                video.Title,
                 e,
                 csName,
                 youtubeClip.Id);
