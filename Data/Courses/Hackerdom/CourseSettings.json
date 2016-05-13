@@ -1,0 +1,13 @@
+{
+  "Youtube": {
+   "PlayListLevels": [
+      2
+    ],
+    "Channel": "Kontur.Academy",
+    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/{GUID}"
+  },
+  "Ulearn": {
+    "Path": "",
+    "FoldersLevel": 2
+  }
+}

@@ -3133,86 +3133,86 @@
   },
   {
     "Id": "RhMjPXHytZQ",
-    "Name": "Hackerdom-12-7 Запись произвольной памяти",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 1196f4d3-49ad-4314-bc08-e469e1cc640c]",
+    "Name": "Hackerdom-12-07 Запись произвольной памяти",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/1196f4d3-49ad-4314-bc08-e469e1cc640c",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "CcBPDa8IXtg",
-    "Name": "Hackerdom-12-5 OpenSSL Heartbleed",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: b21f7904-eeee-4a9e-b1db-def706019959]",
+    "Name": "Hackerdom-12-05 OpenSSL Heartbleed",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/b21f7904-eeee-4a9e-b1db-def706019959",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Q5rUgkXrzyQ",
-    "Name": "Hackerdom-12-6 Уязвимость форматной строки",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 4905e6d3-0b7a-426c-8555-0b45f4b5207a]",
+    "Name": "Hackerdom-12-06 Уязвимость форматной строки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/4905e6d3-0b7a-426c-8555-0b45f4b5207a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "zkAEi9zbB_0",
-    "Name": "Hackerdom-12-4 Исполнение кода, шеллкод",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 8feb1864-c3c8-462b-b226-e1b40f17b3c8]",
+    "Name": "Hackerdom-12-04 Исполнение кода, шеллкод",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/8feb1864-c3c8-462b-b226-e1b40f17b3c8",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "7votHlnZ3PE",
-    "Name": "Hackerdom-12-3 Переполнение стека",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 3bda1c2c-c2a1-4fb0-9146-fccc47daf93b]",
+    "Name": "Hackerdom-12-03 Переполнение стека",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/3bda1c2c-c2a1-4fb0-9146-fccc47daf93b",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "RCD_x--emVE",
-    "Name": "Hackerdom-12-2 Отладчик GDB",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5]",
+    "Name": "Hackerdom-12-02 Отладчик GDB",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/612bbc3f-cbb4-4d0b-a2c4-6f571c1416d5",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "kZBt15ineJ8",
-    "Name": "Hackerdom-12-1 Введение в бинарные уязвимости",
-    "Description": "Лекция 12. Бинарные уязвимости\r\n\n\n[GUID: 4895ff12-8a51-45d1-a32e-956347066598]",
+    "Name": "Hackerdom-12-01 Введение в бинарные уязвимости",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/4895ff12-8a51-45d1-a32e-956347066598",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "GPO_1pTqxhc",
-    "Name": "Hackerdom-11-7 Антиотладка",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: ab9abdef-959a-4d31-b7af-40255df35d50]",
+    "Name": "Hackerdom-11-07 Антиотладка",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/ab9abdef-959a-4d31-b7af-40255df35d50",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "X4JjFF3bSr0",
-    "Name": "Hackerdom-11-1 Введение в Reverse Engineering",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 88892f91-997b-4739-a305-ada5ffff7439]",
+    "Name": "Hackerdom-11-01 Введение в Reverse Engineering",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/88892f91-997b-4739-a305-ada5ffff7439",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "5r0-Yadh944",
-    "Name": "Hackerdom-11-6 Пакеры",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 344de5f8-8657-420c-a5a2-e2e648739ab6]",
+    "Name": "Hackerdom-11-06 Пакеры",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/344de5f8-8657-420c-a5a2-e2e648739ab6",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "RcrSby2hA78",
-    "Name": "Hackerdom-11-5 Объектно-ориентированное программирование",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 26f3391a-2792-430d-8398-8e7312dfd0fc]",
+    "Name": "Hackerdom-11-05 Объектно-ориентированное программирование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/26f3391a-2792-430d-8398-8e7312dfd0fc",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "gD9U0wAdWFs",
-    "Name": "Hackerdom-11-4 Паттерны исполняемого кода",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: a985c48c-020b-4e09-a3f3-5658205ab1a7]",
+    "Name": "Hackerdom-11-04 Паттерны исполняемого кода",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/a985c48c-020b-4e09-a3f3-5658205ab1a7",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "-votu30GtkM",
-    "Name": "Hackerdom-11-3 Как устроен РЕ-файл",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: 6a0773c7-1aa2-44b3-af3e-3f53691a55a7]",
+    "Name": "Hackerdom-11-03 Как устроен РЕ-файл",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/6a0773c7-1aa2-44b3-af3e-3f53691a55a7",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "i4wptvkEwHw",
-    "Name": "Hackerdom-11-2 Форматы исполняемых файлов",
-    "Description": "Лекция 11. Reverse Engineering\r\n\n\n[GUID: d93e0e1b-95ec-4ee1-8e18-696079347b6c]",
+    "Name": "Hackerdom-11-02 Форматы исполняемых файлов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/d93e0e1b-95ec-4ee1-8e18-696079347b6c",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3307,128 +3307,128 @@
   },
   {
     "Id": "QBA_tMfTop0",
-    "Name": "Hackerdom-10-3 Регистры процессоров",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 552b9070-0243-4655-989f-5f856c189084]",
+    "Name": "Hackerdom-10-03 Регистры процессоров",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/552b9070-0243-4655-989f-5f856c189084",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "-gEyUcBo7YQ",
     "Name": "Hackerdom-10-12 Структура исполняемого файла",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e171284d-0962-4e63-b370-8036a3bce1eb]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e171284d-0962-4e63-b370-8036a3bce1eb",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "X6Ah1ZCZj-A",
     "Name": "Hackerdom-10-11 Функции",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e2cfed6d-3ca8-4eac-8c70-766b66fac55e]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e2cfed6d-3ca8-4eac-8c70-766b66fac55e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "u7yY6X-ZDko",
     "Name": "Hackerdom-10-10 Управление выполнением программы",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 0a3ba148-7495-4014-9065-8f59dc43aac1]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/0a3ba148-7495-4014-9065-8f59dc43aac1",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "H-a9bGdmN1k",
-    "Name": "Hackerdom-10-9 Безусловный переход",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 45cbad06-e7b0-4c02-b74d-7802b4d09d0e]",
+    "Name": "Hackerdom-10-09 Безусловный переход",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/45cbad06-e7b0-4c02-b74d-7802b4d09d0e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "0_x7ys_Ckd8",
-    "Name": "Hackerdom-10-8 Знаковые числа",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 49856ebe-f862-4272-b041-ad4d688cba99]",
+    "Name": "Hackerdom-10-08 Знаковые числа",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/49856ebe-f862-4272-b041-ad4d688cba99",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "fulaXZPLDw0",
-    "Name": "Hackerdom-10-7 Арифметические и логические операции",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 93f658c4-84bd-4312-b8ec-8b0d5945962f]",
+    "Name": "Hackerdom-10-07 Арифметические и логические операции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/93f658c4-84bd-4312-b8ec-8b0d5945962f",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "LaeDaCqUOuQ",
-    "Name": "Hackerdom-10-6 Стек",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0]",
+    "Name": "Hackerdom-10-06 Стек",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/6db2fb3a-60c2-40d6-a7cc-ddfba2d016b0",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "yXQ4Q6pS-XM",
-    "Name": "Hackerdom-10-5 Команда MOV",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: f27ceaf2-3926-42e3-a862-e04c6771b0cf]",
+    "Name": "Hackerdom-10-05 Команда MOV",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/f27ceaf2-3926-42e3-a862-e04c6771b0cf",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "a5P7ZOZftRU",
-    "Name": "Hackerdom-10-4 Ассемблер",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 21f4cf4e-bb28-4778-8e82-9cc57141ac41]",
+    "Name": "Hackerdom-10-04 Ассемблер",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/21f4cf4e-bb28-4778-8e82-9cc57141ac41",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "4B30SevpHvY",
-    "Name": "Hackerdom-10-2 Принцип Фон Неймана",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: 7f2512c2-5df5-44c0-b787-6c439d7a5154]",
+    "Name": "Hackerdom-10-02 Принцип Фон Неймана",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/7f2512c2-5df5-44c0-b787-6c439d7a5154",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "0mcNIH6z9vQ",
-    "Name": "Hackerdom-10-1 Архитектура компьютера",
-    "Description": "Лекция 10. Низкоуровневое программирование\r\n\n\n[GUID: e1ab44a2-c4c4-45f5-807b-cbea25dd743d]",
+    "Name": "Hackerdom-10-01 Архитектура компьютера",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e1ab44a2-c4c4-45f5-807b-cbea25dd743d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Zn7CrWDnqBM",
-    "Name": "Hackerdom-09-9 Виртуальные машины",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: fbd2a4df-0e0a-4961-ba81-852fb97b4be5]",
+    "Name": "Hackerdom-09-09 Виртуальные машины",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/fbd2a4df-0e0a-4961-ba81-852fb97b4be5",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "2OV4d9-aXao",
-    "Name": "Hackerdom-09-8 Команды Linux",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: 199bdd47-8111-427d-8677-00e434745302]",
+    "Name": "Hackerdom-09-08 Команды Linux",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/199bdd47-8111-427d-8677-00e434745302",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "q7_RNzKL9YM",
-    "Name": "Hackerdom-09-7 Пользователи",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: 3545dbbb-e990-4401-9892-3bf001bedd6c]",
+    "Name": "Hackerdom-09-07 Пользователи",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/3545dbbb-e990-4401-9892-3bf001bedd6c",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "jCOHJfgHMx4",
-    "Name": "Hackerdom-09-6 Загрузка системы",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: a0357ffa-f00f-4030-be9c-159633c3568a]",
+    "Name": "Hackerdom-09-06 Загрузка системы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/a0357ffa-f00f-4030-be9c-159633c3568a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Zm0xjc14obQ",
-    "Name": "Hackerdom-09-5 Unix Way",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: dd4267c3-d178-4644-a07d-c30bed4b2d21]",
+    "Name": "Hackerdom-09-05 Unix Way",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/dd4267c3-d178-4644-a07d-c30bed4b2d21",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "6Yez_CHvN3w",
-    "Name": "Hackerdom-09-4 История Linux, дистрибутивы",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: 745cd0a2-dee1-4596-ba6e-345edf3dda39]",
+    "Name": "Hackerdom-09-04 История Linux, дистрибутивы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/745cd0a2-dee1-4596-ba6e-345edf3dda39",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "-ZT8Z7yp8nw",
-    "Name": "Hackerdom-09-3 Стандарт POSIX, Minix",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: da17f8a5-e4bb-42bd-a601-478d62bb4a5d]",
+    "Name": "Hackerdom-09-03 Стандарт POSIX, Minix",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/da17f8a5-e4bb-42bd-a601-478d62bb4a5d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "UFSUPRiSO0I",
-    "Name": "Hackerdom-09-2 GNU, FSF",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: 942e5bdf-e8ac-4b71-bd41-6b6907047a9f]",
+    "Name": "Hackerdom-09-02 GNU, FSF",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/942e5bdf-e8ac-4b71-bd41-6b6907047a9f",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "GYYqIdgHD6c",
-    "Name": "Hackerdom-09-1 Операционные системы",
-    "Description": "Лекция 9. Linux\r\n\n\n[GUID: ed14c5f4-1061-4c62-9497-67a8ddcb4a9d]",
+    "Name": "Hackerdom-09-01 Операционные системы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/ed14c5f4-1061-4c62-9497-67a8ddcb4a9d",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3487,86 +3487,86 @@
   },
   {
     "Id": "dJkgxtmwpdw",
-    "Name": "Hackerdom-08-1 Инъекции",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 283ec4e7-203e-42b5-8227-a887e307b51a]",
+    "Name": "Hackerdom-08-01 Инъекции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/283ec4e7-203e-42b5-8227-a887e307b51a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "aYeUgoEn00Y",
     "Name": "Hackerdom-08-14 Заключение",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 89ab29cb-4715-4a9c-84cd-2131399d394a]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/89ab29cb-4715-4a9c-84cd-2131399d394a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "qUEcRocH9z4",
     "Name": "Hackerdom-08-13 Инъекции в HTTP-заголовки",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 1a9b7825-704d-4d1e-bc78-a697386da3dd]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/1a9b7825-704d-4d1e-bc78-a697386da3dd",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "h3glLxdeddA",
     "Name": "Hackerdom-08-12 Инъекции в командах ОС",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: e34d0b18-fb8c-4039-85a2-5ca392bc66f0]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e34d0b18-fb8c-4039-85a2-5ca392bc66f0",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Q2hu49y-pI4",
     "Name": "Hackerdom-08-11 XPath",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: a8ebb60c-0fce-4d80-b46a-6872c82bfaf0]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/a8ebb60c-0fce-4d80-b46a-6872c82bfaf0",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "7QIXpiNeHv0",
     "Name": "Hackerdom-08-10 LDAP",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 43693efe-2d83-4c78-9f42-71a7780a72c2]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/43693efe-2d83-4c78-9f42-71a7780a72c2",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "X2CSXGgxqeU",
-    "Name": "Hackerdom-08-9 CSS",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: c8c18fd5-96e2-495d-bff1-97a4d0ab1787]",
+    "Name": "Hackerdom-08-09 CSS",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/c8c18fd5-96e2-495d-bff1-97a4d0ab1787",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "PHaMtKdXFvo",
-    "Name": "Hackerdom-08-8 NoSQL",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 091326fc-02a8-425c-8b80-09a9bed6ce19]",
+    "Name": "Hackerdom-08-08 NoSQL",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/091326fc-02a8-425c-8b80-09a9bed6ce19",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "bchpaHVbXjc",
-    "Name": "Hackerdom-08-7 Слепые инъекции",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: bbbc041f-10fe-4663-99df-48e568783624]",
+    "Name": "Hackerdom-08-07 Слепые инъекции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/bbbc041f-10fe-4663-99df-48e568783624",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "NxiYHiXUp6g",
-    "Name": "Hackerdom-08-6 Множественные запросы",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 8adcc22b-abbe-4a36-8bd6-88c4f953a54a]",
+    "Name": "Hackerdom-08-06 Множественные запросы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/8adcc22b-abbe-4a36-8bd6-88c4f953a54a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "VBpnLO-x6kM",
-    "Name": "Hackerdom-08-5 Экранирование символов",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 2a37b4c1-4666-4808-b4e3-6cc03be72a2d]",
+    "Name": "Hackerdom-08-05 Экранирование символов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/2a37b4c1-4666-4808-b4e3-6cc03be72a2d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "ppUkgKIodTI",
-    "Name": "Hackerdom-08-4 Группировка, сортировка и работа с файлами",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: e4c11062-7ed1-42b9-815d-e39a455ccc02]",
+    "Name": "Hackerdom-08-04 Группировка, сортировка и работа с файлами",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e4c11062-7ed1-42b9-815d-e39a455ccc02",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "oG2CUQb1wPs",
-    "Name": "Hackerdom-08-3 SQL-инъекции с UNION",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: e9de4b61-ae31-4aee-a860-c6db495e8e2f]",
+    "Name": "Hackerdom-08-03 SQL-инъекции с UNION",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e9de4b61-ae31-4aee-a860-c6db495e8e2f",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Zqj_Z5eR_TY",
-    "Name": "Hackerdom-08-2 SQL-инъекции",
-    "Description": "Лекция 8. Инъекции\r\n\n\n[GUID: 61825d93-82e6-4db5-ae21-6fc9aae4e315]",
+    "Name": "Hackerdom-08-02 SQL-инъекции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/61825d93-82e6-4db5-ae21-6fc9aae4e315",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3637,68 +3637,68 @@
   },
   {
     "Id": "OQCJxmDQtGQ",
-    "Name": "Hackerdom-07-6 Заголовки, часть 2",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3]",
+    "Name": "Hackerdom-07-06 Заголовки, часть 2",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/aa039f98-fcdf-4c2b-9beb-90aa5c74c8a3",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "pyG_hkaVfDc",
-    "Name": "Hackerdom-07-7 Авторизация и аутентификация",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e]",
+    "Name": "Hackerdom-07-07 Авторизация и аутентификация",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/b1504c3e-fb8d-4bf1-85cb-fb85336c7c9e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "2K_CsrFIMII",
-    "Name": "Hackerdom-07-8 Протокол HTTPS",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: b8744320-0270-4d1c-aee3-33375e48e9bd]",
+    "Name": "Hackerdom-07-08 Протокол HTTPS",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/b8744320-0270-4d1c-aee3-33375e48e9bd",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "pN5Tfizb6oA",
-    "Name": "Hackerdom-07-9 Протокол CGI",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 67dc4001-31bb-4192-b7cc-b245bf62bf14]",
+    "Name": "Hackerdom-07-09 Протокол CGI",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/67dc4001-31bb-4192-b7cc-b245bf62bf14",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "owz6EGtAYEI",
     "Name": "Hackerdom-07-10 HTML и формы",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 55ee9893-66a4-4803-befe-116a7996d16a]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/55ee9893-66a4-4803-befe-116a7996d16a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "F-RRLHtNPa4",
     "Name": "Hackerdom-07-11 Атаки на HTML",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 03c0202b-0aeb-4789-be91-04e7a0a2a9b3]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/03c0202b-0aeb-4789-be91-04e7a0a2a9b3",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "eOn10ip13EA",
-    "Name": "Hackerdom-07-1 История HTTP",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 5ad7c7fc-d551-416b-b6c7-f844de0b89c3]",
+    "Name": "Hackerdom-07-01 История HTTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/5ad7c7fc-d551-416b-b6c7-f844de0b89c3",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "0G6cnLFoaNA",
-    "Name": "Hackerdom-07-2 Структура HTTP",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 6ee91c90-1e81-44d2-92fd-b679382c0e39]",
+    "Name": "Hackerdom-07-02 Структура HTTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/6ee91c90-1e81-44d2-92fd-b679382c0e39",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "h577KZFwk0c",
-    "Name": "Hackerdom-07-3 URL",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: f38982c8-91de-42f6-9e40-86ed752d327d]",
+    "Name": "Hackerdom-07-03 URL",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/f38982c8-91de-42f6-9e40-86ed752d327d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "EcbD6ZQIuyg",
-    "Name": "Hackerdom-07-4 Методы HTTP",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: 062b52e2-c3ef-405e-b116-6172f6d6b387]",
+    "Name": "Hackerdom-07-04 Методы HTTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/062b52e2-c3ef-405e-b116-6172f6d6b387",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "KF8VSy1qH7o",
-    "Name": "Hackerdom-07-5 Заголовки, часть 1",
-    "Description": "Лекция 7. Протокол HTTP\r\n\n\n[GUID: b1f4cccd-cee7-4482-976d-ceb60d326272]",
+    "Name": "Hackerdom-07-05 Заголовки, часть 1",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/b1f4cccd-cee7-4482-976d-ceb60d326272",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3745,194 +3745,194 @@
   },
   {
     "Id": "MxgNrCjshR0",
-    "Name": "Hackerdom-06-9 Туннелирование и VPN",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: 4403acb5-cce5-48c1-90fd-9fd5772bfc33]",
+    "Name": "Hackerdom-06-09 Туннелирование и VPN",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/4403acb5-cce5-48c1-90fd-9fd5772bfc33",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "XnWb0YV7dk4",
-    "Name": "Hackerdom-06-7 Дополнительные подробности о FTP",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: bf2f44ce-6b9c-4e3d-aada-12edd5414156]",
+    "Name": "Hackerdom-06-07 Дополнительные подробности о FTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/bf2f44ce-6b9c-4e3d-aada-12edd5414156",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "J5N94PD77HY",
-    "Name": "Hackerdom-06-6 Протокол FTP",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: 96416927-9ffa-494f-a649-2c0f7f64950d]",
+    "Name": "Hackerdom-06-06 Протокол FTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/96416927-9ffa-494f-a649-2c0f7f64950d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "y1WmetnJm70",
-    "Name": "Hackerdom-06-5 Дополнительные подробности о DNS",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: ecb00bac-3f60-4a74-b9ef-25ce54c4cb67]",
+    "Name": "Hackerdom-06-05 Дополнительные подробности о DNS",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/ecb00bac-3f60-4a74-b9ef-25ce54c4cb67",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "YAHVW7nRJ4U",
-    "Name": "Hackerdom-06-4 Отравления кеша в DNS",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: 634ff379-c533-4722-9b9e-b9d8ca4aa82d]",
+    "Name": "Hackerdom-06-04 Отравления кеша в DNS",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/634ff379-c533-4722-9b9e-b9d8ca4aa82d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "EXuRhfztWdo",
-    "Name": "Hackerdom-06-3 Иерархия NS-серверов",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: b07a0f80-a40a-4c16-91c2-7ba49bd97449]",
+    "Name": "Hackerdom-06-03 Иерархия NS-серверов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/b07a0f80-a40a-4c16-91c2-7ba49bd97449",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "VXTf9i-Gqsw",
-    "Name": "Hackerdom-06-2 Протокол DNS",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: 9df2f428-cf35-4a91-9350-b3bf6a635abd]",
+    "Name": "Hackerdom-06-02 Протокол DNS",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/9df2f428-cf35-4a91-9350-b3bf6a635abd",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "9H_8gUKNCZ8",
-    "Name": "Hackerdom-06-1 Протоколы прикладного уровня",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: c916589a-8df8-4173-ac1f-c973370a3dfa]",
+    "Name": "Hackerdom-06-01 Протоколы прикладного уровня",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/c916589a-8df8-4173-ac1f-c973370a3dfa",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "U8zwwOShhJo",
-    "Name": "Hackerdom-06-8 Протокол SMTP",
-    "Description": "Лекция 6. Сети, часть 2\r\n\n\n[GUID: 8406ef3b-4e76-4199-8144-51df8927eabb]",
+    "Name": "Hackerdom-06-08 Протокол SMTP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/8406ef3b-4e76-4199-8144-51df8927eabb",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "nPJ7GwRyVZI",
     "Name": "Hackerdom-05-13 Практика, часть 2",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 23de7b8f-8a5d-493c-82dc-16b72fd4b15d]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/23de7b8f-8a5d-493c-82dc-16b72fd4b15d",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "HfYQKv8Ws_A",
     "Name": "Hackerdom-05-12 Практика, часть 1",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 9010dd2b-157f-4384-8d12-26ba98433211]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/9010dd2b-157f-4384-8d12-26ba98433211",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "ihBlDnfUdVk",
-    "Name": "Hackerdom-05-5 Сетевой уровень. IP-адреса",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 37b9f0b8-cdf2-43fd-9ac5-a943a0a47e71]",
+    "Name": "Hackerdom-05-05 Сетевой уровень. IP-адреса",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/37b9f0b8-cdf2-43fd-9ac5-a943a0a47e71",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "hJOF5u85JHc",
-    "Name": "Hackerdom-05-4 Канальный уровень",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: cac04028-159e-4c26-897e-dc6748b114ff]",
+    "Name": "Hackerdom-05-04 Канальный уровень",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/cac04028-159e-4c26-897e-dc6748b114ff",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "48qMvnQQrso",
-    "Name": "Hackerdom-05-3 Физический уровень",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 00848dda-cbdf-489d-869c-67845796569e]",
+    "Name": "Hackerdom-05-03 Физический уровень",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/00848dda-cbdf-489d-869c-67845796569e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "DBeeBCvovzE",
-    "Name": "Hackerdom-05-6 Протокол DHCP",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 1cb2c4d2-1f05-4223-a7de-8549e2f0cab3]",
+    "Name": "Hackerdom-05-06 Протокол DHCP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/1cb2c4d2-1f05-4223-a7de-8549e2f0cab3",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "MCK5KB-6kmw",
-    "Name": "Hackerdom-05-2 Стек TCP IP",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78]",
+    "Name": "Hackerdom-05-02 Стек TCP IP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/9fd33d4b-d1b3-4cee-a5eb-4e6029dbad78",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "UleXPiLMWU8",
-    "Name": "Hackerdom-05-1 Стек OSI",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: ed50edd9-688d-4b94-bdc1-9f899880e4eb]",
+    "Name": "Hackerdom-05-01 Стек OSI",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/ed50edd9-688d-4b94-bdc1-9f899880e4eb",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "w7bXl7ECinc",
     "Name": "Hackerdom-05-11 Протокол NAT",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 3ac1853a-6dec-408e-a9c9-1c1b0688e36e]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/3ac1853a-6dec-408e-a9c9-1c1b0688e36e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "rJdRw3b-LxY",
     "Name": "Hackerdom-05-10 Порты",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: e0c9669f-4a74-46fa-81d6-2a49023512bb]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e0c9669f-4a74-46fa-81d6-2a49023512bb",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "RRXxTkbvZaQ",
-    "Name": "Hackerdom-05-9 Протокол TCP",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 753844e2-97f4-496d-8aec-26ced5386357]",
+    "Name": "Hackerdom-05-09 Протокол TCP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/753844e2-97f4-496d-8aec-26ced5386357",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "_B9xAFEcfDg",
-    "Name": "Hackerdom-05-8 Маршрутизация",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: dcc16070-0bf8-4e94-96ee-4287940e167a]",
+    "Name": "Hackerdom-05-08 Маршрутизация",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/dcc16070-0bf8-4e94-96ee-4287940e167a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "7pEt99sKVio",
-    "Name": "Hackerdom-05-7 Протокол ARP",
-    "Description": "Лекция 5. Сети, часть 1\r\n\n\n[GUID: 62b09b31-3ed0-4e24-9169-1240b336dccf]",
+    "Name": "Hackerdom-05-07 Протокол ARP",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/62b09b31-3ed0-4e24-9169-1240b336dccf",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "zX-2NMNLOfc",
     "Name": "Hackerdom-04-10 Заключение",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: eda63641-e069-421c-ba43-3ce811ee655a]",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/eda63641-e069-421c-ba43-3ce811ee655a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "aIhL-04oQjU",
-    "Name": "Hackerdom-04-9 Практика",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: c0e30051-4c3a-41f0-961a-65cf7c6dbaf9]",
+    "Name": "Hackerdom-04-09 Практика",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/c0e30051-4c3a-41f0-961a-65cf7c6dbaf9",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "dkdDZjKG18E",
-    "Name": "Hackerdom-04-8 Цифровые водяные знаки",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: 5fc8f334-08fc-4d86-a974-26749f7a497f]",
+    "Name": "Hackerdom-04-08 Цифровые водяные знаки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/5fc8f334-08fc-4d86-a974-26749f7a497f",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "A3lTiQLh64M",
-    "Name": "Hackerdom-04-7 Стегоанализ",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: cb73846d-d46e-4303-89d7-1d08bfffe5ff]",
+    "Name": "Hackerdom-04-07 Стегоанализ",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/cb73846d-d46e-4303-89d7-1d08bfffe5ff",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "EvNCqfCJgCc",
-    "Name": "Hackerdom-04-5 А если картинка в JPEG",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: 0ac74cc4-9429-4087-bc2f-388f567d62bd]",
+    "Name": "Hackerdom-04-05 А если картинка в JPEG",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/0ac74cc4-9429-4087-bc2f-388f567d62bd",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "ryN92RY4pdQ",
-    "Name": "Hackerdom-04-4 Стеганография в изображениях",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: c1e81612-2e0b-4f79-95cf-21dda0105641]",
+    "Name": "Hackerdom-04-04 Стеганография в изображениях",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/c1e81612-2e0b-4f79-95cf-21dda0105641",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "kmyE5kQOKwM",
-    "Name": "Hackerdom-04-3 Текстовая стеганография",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: 6697f13b-21f2-462e-9eba-17169fe015cd]",
+    "Name": "Hackerdom-04-03 Текстовая стеганография",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/6697f13b-21f2-462e-9eba-17169fe015cd",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "yHMygS9_4fc",
-    "Name": "Hackerdom-04-2 Компьютерная стеганография",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: 5ccea945-1707-4204-8980-95fad52d7c1e]",
+    "Name": "Hackerdom-04-02 Компьютерная стеганография",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/5ccea945-1707-4204-8980-95fad52d7c1e",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "SXV4o2MMU-0",
-    "Name": "Hackerdom-04-1 История стеганографии",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: 7b4fb17f-9bed-443e-84c6-684ba6e3e416]",
+    "Name": "Hackerdom-04-01 История стеганографии",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/7b4fb17f-9bed-443e-84c6-684ba6e3e416",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "DlTKpxWMrBQ",
-    "Name": "Hackerdom-04-6 Стеганография в звуке и видео",
-    "Description": "Лекция 4. Стеганография\r\n\n\n[GUID: e44c0c68-f260-467b-a262-ad5f59addc7e]",
+    "Name": "Hackerdom-04-06 Стеганография в звуке и видео",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e44c0c68-f260-467b-a262-ad5f59addc7e",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3955,44 +3955,44 @@
   },
   {
     "Id": "mlNsulIQdTk",
-    "Name": "Hackerdom-03-4 Применение криптографических хеш-функций, часть 1",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: 36456d24-9129-4c38-a8ff-25dc62b66069]",
+    "Name": "Hackerdom-03-04 Применение криптографических хеш-функций, часть 1",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/36456d24-9129-4c38-a8ff-25dc62b66069",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "CRQnC44OO_A",
-    "Name": "Hackerdom-03-3 Криптографическая хеш-функция",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: 7a6d1653-7865-490d-8209-8165fe65591b]",
+    "Name": "Hackerdom-03-03 Криптографическая хеш-функция",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/7a6d1653-7865-490d-8209-8165fe65591b",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "O7oJzV1-jRA",
-    "Name": "Hackerdom-03-2 Применение хеш-функций",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: dae458e2-78bf-438f-8e69-258491c006f9]",
+    "Name": "Hackerdom-03-02 Применение хеш-функций",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/dae458e2-78bf-438f-8e69-258491c006f9",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "WhNV1mrDoeo",
-    "Name": "Hackerdom-03-1 Хеш-функции",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: 248cee8f-1f7f-410a-a09a-93f8935b82ad]",
+    "Name": "Hackerdom-03-01 Хеш-функции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/248cee8f-1f7f-410a-a09a-93f8935b82ad",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "8wjLTrjR-5c",
-    "Name": "Hackerdom-03-7 Экономика Bitcoin",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: cc2f600c-9af5-486b-91ec-fd9308005f5c]",
+    "Name": "Hackerdom-03-07 Экономика Bitcoin",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/cc2f600c-9af5-486b-91ec-fd9308005f5c",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "gjeyGlR44nQ",
-    "Name": "Hackerdom-03-6 Архитектура Bitcoin",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: ca0b5c85-1ccb-4e93-825c-901253802771]",
+    "Name": "Hackerdom-03-06 Архитектура Bitcoin",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/ca0b5c85-1ccb-4e93-825c-901253802771",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "tIDvkcLCwFw",
-    "Name": "Hackerdom-03-5 Применение криптостойких хеш-функций, часть 2",
-    "Description": "Лекция 3. Хеши и биткоины\r\n\n\n[GUID: e0e26cd9-0910-4e19-be6c-cea609cc5c88]",
+    "Name": "Hackerdom-03-05 Применение криптостойких хеш-функций, часть 2",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e0e26cd9-0910-4e19-be6c-cea609cc5c88",
     "Channel": "Kontur.Academy"
   },
   {
@@ -4099,62 +4099,62 @@
   },
   {
     "Id": "-gIqk9hs52c",
-    "Name": "Hackerdom-02-4 Корректность алгоритма RSA",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: 1f6d91df-7d89-4b30-9e60-47bef586d6dc]",
+    "Name": "Hackerdom-02-04 Корректность алгоритма RSA",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/1f6d91df-7d89-4b30-9e60-47bef586d6dc",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Ed6oWRkEgaw",
-    "Name": "Hackerdom-02-2 Алгоритм Диффи-Хеллмана",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: 403f3218-abec-47e2-bcfb-4f302b38128a]",
+    "Name": "Hackerdom-02-02 Алгоритм Диффи-Хеллмана",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/403f3218-abec-47e2-bcfb-4f302b38128a",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "pI0JKirxn8U",
-    "Name": "Hackerdom-02-1 История криптографии",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: 952ab6b0-cfe3-40fa-ba7e-0509326049ce]",
+    "Name": "Hackerdom-02-01 История криптографии",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/952ab6b0-cfe3-40fa-ba7e-0509326049ce",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Ow5encTf8lg",
-    "Name": "Hackerdom-02-5 Электронно-цифровая подпись",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: a7294d8e-4796-4991-b20b-781e855953c8]",
+    "Name": "Hackerdom-02-05 Электронно-цифровая подпись",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/a7294d8e-4796-4991-b20b-781e855953c8",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "4sEkOfBNQmQ",
-    "Name": "Hackerdom-02-6 Заключительные положения",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: 85fc6105-12a0-4023-be20-5918da742c76]",
+    "Name": "Hackerdom-02-06 Заключительные положения",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/85fc6105-12a0-4023-be20-5918da742c76",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "rvxq292a8KY",
-    "Name": "Hackerdom-02-3 Алгоритм RSA",
-    "Description": "Лекция 2. Криптография\r\n\n\n[GUID: e2658eea-0078-4ca4-9e67-66f979b59f17]",
+    "Name": "Hackerdom-02-03 Алгоритм RSA",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/e2658eea-0078-4ca4-9e67-66f979b59f17",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "mR4ZfA8NT8Y",
-    "Name": "Hackerdom-01-2 Почему важна компьютерная безопасность",
-    "Description": "Лекция 1. Вводная лекция\r\n\n\n[GUID: 26bd758d-c6f4-4102-839e-a5b68e14b3c2]",
+    "Name": "Hackerdom-01-02 Почему важна компьютерная безопасность",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/26bd758d-c6f4-4102-839e-a5b68e14b3c2",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "8FP4bVp6UVg",
-    "Name": "Hackerdom-01-3 Классический CTF",
-    "Description": "Лекция 1. Вводная лекция\r\n\n\n[GUID: 55531877-74a0-4624-869f-96f8cd9a2e25]",
+    "Name": "Hackerdom-01-03 Классический CTF",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/55531877-74a0-4624-869f-96f8cd9a2e25",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "1y1dZ7T9yeA",
-    "Name": "Hackerdom-01-1 Темы курса",
-    "Description": "Лекция 1. Вводная лекция\r\n\n\n[GUID: 2bc58982-19aa-49ef-bae2-8aaa5d13b967]",
+    "Name": "Hackerdom-01-01 Темы курса",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/2bc58982-19aa-49ef-bae2-8aaa5d13b967",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "0OvOQmgYceI",
-    "Name": "Hackerdom-01-4 CTF-jeopardy",
-    "Description": "Лекция 1. Вводная лекция\r\n\n\n[GUID: 27f42d11-1fec-4139-8c72-d3e4fb15bf4a]",
+    "Name": "Hackerdom-01-04 CTF-jeopardy",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения на нашем сайте https://ulearn.azurewebsites.net/Slide/27f42d11-1fec-4139-8c72-d3e4fb15bf4a",
     "Channel": "Kontur.Academy"
   },
   {
