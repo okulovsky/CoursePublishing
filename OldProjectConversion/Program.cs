@@ -11,10 +11,10 @@ namespace OldProjectConversion
 {
     class Program
     {
-        static JObject OpenOldFormat(string directory, string path)
+        static JToken OpenOldFormat(string directory, string path)
         {
             var text = File.ReadLines(Path.Combine(directory,path)).Skip(1).Aggregate((a, b) => a + "\n" + b);
-            return JObject.Parse(text);
+            return JToken.Parse(text);
         }
 
         static Section Process(bool root, JObject oldInfo, Dictionary<Guid,Section> index, int level)
@@ -62,8 +62,40 @@ namespace OldProjectConversion
             }
 
 
-            
+            Publishing.SaveCourseStructure(str as Structure, CourseName);
 
+
+            var videos = OpenOldFormat(directory, "VideoSummaries.txt");
+            Console.WriteLine(videos.ToString());
+            var result1 = (videos as JArray)
+                .Select(z => new Video
+                {
+                    Guid = Guid.Parse(z["Guid"].Value<string>()),
+                    Title = z["Name"].Value<string>(),
+                    OriginalLocation = CourseName + "_fromBackup",
+                    EpisodeNumber = 0,
+                    Duration = TimeSpan.FromSeconds(1)
+                })
+                .ToList();
+            Publishing.Common.UpdateList<Video>(result1, z => z.Guid.ToString());
+
+            var result2 =
+                (OpenOldFormat(directory, "YoutubeClip.layer.txt")["Records"] as JArray)
+                .Select(z =>
+                    new VideoToYoutubeClip(
+                        Guid.Parse(z["Guid"].Value<string>()),
+                        z["Data"]["Id"].Value<string>()))
+                .ToList();
+            Publishing.Common.UpdateList<VideoToYoutubeClip>(result2, z => z.Guid.ToString());
+
+            var result3 =
+               (OpenOldFormat(directory, "YoutubePlaylist.layer.txt")["Records"] as JArray)
+               .Select(z =>
+                   new TopicToYoutubePlaylist(
+                       Guid.Parse(z["Guid"].Value<string>()),
+                       z["Data"]["PlaylistId"].Value<string>()))
+               .ToList();
+            Publishing.Common.UpdateList<TopicToYoutubePlaylist>(result3, z => z.Guid.ToString());
         }
 
 
