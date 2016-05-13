@@ -3,7 +3,8 @@
     "PlayListLevels": [
       2
     ],
-    "Channel": "Kontur.Academy"
+    "Channel": "Kontur.Academy",
+    "DescriptionPattern": ""
   },
   "Ulearn": {
     "Path": "",

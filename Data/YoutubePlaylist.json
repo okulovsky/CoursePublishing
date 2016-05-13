@@ -1870,7 +1870,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhh_WdOqgFfHhhR0NVd8CwY",
-    "Title": "CS2-3-4 DI",
+    "Title": "OOP-3-4 DI",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaGhfV2RPcWdGZkhoaFIwTlZkOEN3WS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2014,7 +2014,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHiPl1DIkZOTue7KXPGyrKrp",
-    "Title": "CS2-3-2 DDD",
+    "Title": "OOP-3-2 DDD",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaVBsMURJa1pPVHVlN0tYUEd5cktycC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2053,7 +2053,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHgu4HV2lqM9b56jfC9bLf7-",
-    "Title": "CS2-3-1 FluentAPI",
+    "Title": "OOP-3-1 FluentAPI",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IZ3U0SFYybHFNOWI1NmpmQzliTGY3LS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2092,7 +2092,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhfIiCWjvpkhy8eBOSfDYTe",
-    "Title": "CS2-2-3 Исключения",
+    "Title": "OOP-2-3 Исключения",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaGZJaUNXanZwa2h5OGVCT1NmRFlUZS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2127,7 +2127,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHiCgO52aO68a_xbAdM2x5I8",
-    "Title": "CS2-2-2 Файлы",
+    "Title": "OOP-2-2 Файлы",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaUNnTzUyYU82OGFfeGJBZE0yeDVJOC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2193,7 +2193,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjYeU8ZwgPfLfspj6Q7PQ-w",
-    "Title": "CS2-1-8 Рефлексия",
+    "Title": "OOP-1-8 Рефлексия",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IalllVThad2dQZkxmc3BqNlE3UFEtdy41NkI0NEY2RDEwNTU3Q0M2",
@@ -2240,7 +2240,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHi-KbY-BS2NWBl-jD7E0kSj",
-    "Title": "CS2-1-7 Делегаты",
+    "Title": "OOP-1-7 Делегаты",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaS1LYlktQlMyTldCbC1qRDdFMGtTai41NkI0NEY2RDEwNTU3Q0M2",
@@ -2295,7 +2295,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHi6OWBlEUEmsFOlmptw2kDc",
-    "Title": "CS2-1-6 Дженерики",
+    "Title": "OOP-1-6 Дженерики",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaTZPV0JsRVVFbXNGT2xtcHR3MmtEYy41NkI0NEY2RDEwNTU3Q0M2",
@@ -2322,7 +2322,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjNkEPX7x7oNNfldV_DCLYb",
-    "Title": "CS2-1-5 Наследование и полиморфизм (тренинг)",
+    "Title": "OOP-1-5 Наследование и полиморфизм (тренинг)",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9Iak5rRVBYN3g3b05OZmxkVl9EQ0xZYi41NkI0NEY2RDEwNTU3Q0M2",
@@ -2373,7 +2373,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjFEtQIiG9zDjRKBZJiiF_d",
-    "Title": "CS2-1-3 Инкапсуляция (тренинг)",
+    "Title": "OOP-1-3 Инкапсуляция (тренинг)",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IakZFdFFJaUc5ekRqUktCWkppaUZfZC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2432,70 +2432,26 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhnzGz9HCOLaDMrmEydCjBn",
-    "Title": "CS2-1-3 Наследование и полиморфизм",
+    "Title": "OOP-1-4 Наследование и полиморфизм (лекция)",
     "Entries": [
       {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4xMkVGQjNCMUM1N0RFNEUx",
-        "VideoId": "MsGTBYxYid4"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41MzJCQjBCNDIyRkJDN0VD",
-        "VideoId": "Q0caGBmpOAg"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi5DQUNERDQ2NkIzRUQxNTY1",
-        "VideoId": "008slFq5xwg"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi45NDk1REZENzhEMzU5MDQz",
-        "VideoId": "xwSiuSKQ7jw"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi5GNjNDRDREMDQxOThCMDQ2",
-        "VideoId": "dOF5uN3eWGg"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi40NzZCMERDMjVEN0RFRThB",
-        "VideoId": "3csXEO9Clvo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi5EMEEwRUY5M0RDRTU3NDJC",
-        "VideoId": "7VMFl0L18Q0"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi45ODRDNTg0QjA4NkFBNkQy",
-        "VideoId": "Imm6V4tTcCY"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4zMDg5MkQ5MEVDMEM1NTg2",
-        "VideoId": "leBjV-KlOmc"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41Mzk2QTAxMTkzNDk4MDhF",
-        "VideoId": "QpfuNeNluJw"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi5EQUE1NTFDRjcwMDg0NEMz",
-        "VideoId": "Sxa42a9Pn1A"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41QTY1Q0UxMTVCODczNThE",
+        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41NkI0NEY2RDEwNTU3Q0M2",
         "VideoId": "0OHrlYoV1UE"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4yMUQyQTQzMjRDNzMyQTMy",
+        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4yODlGNEE0NkRGMEEzMEQy",
         "VideoId": "bIxM4KD-Lao"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi45RTgxNDRBMzUwRjQ0MDhC",
+        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4wMTcyMDhGQUE4NTIzM0Y5",
         "VideoId": "lsbpCxcOikA"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi5ENDU4Q0M4RDExNzM1Mjcy",
+        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41MjE1MkI0OTQ2QzJGNzNG",
         "VideoId": "E0ombjiW-Yk"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4yMDhBMkNBNjRDMjQxQTg1",
+        "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi4wOTA3OTZBNzVEMTUzOTMy",
         "VideoId": "CXIre0DJY80"
       }
     ]
@@ -2503,8 +2459,28 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhQPbgYLD8tlCOAoSblFvDw",
-    "Title": "CS2-1-2 Инкапсуляция",
+    "Title": "OOP-1-2 Инкапсуляция (лекция)",
     "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "EXmVrpre-ko"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "VaqFmubBCmQ"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "kz3zS1mioxs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "s3NGfHJLLZ8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "SMvzG3oTSyA"
+      },
       {
         "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4xMkVGQjNCMUM1N0RFNEUx",
         "VideoId": "FoIAgf6usqo"
@@ -2520,180 +2496,52 @@
       {
         "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy45NDk1REZENzhEMzU5MDQz",
         "VideoId": "NmnoZsI4EIQ"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5GNjNDRDREMDQxOThCMDQ2",
-        "VideoId": "T2-5KGp4q_0"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy40NzZCMERDMjVEN0RFRThB",
-        "VideoId": "jM7pX_TJt7Q"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5EMEEwRUY5M0RDRTU3NDJC",
-        "VideoId": "xtykqo2X-0Q"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy45ODRDNTg0QjA4NkFBNkQy",
-        "VideoId": "WPhsEGOrL5o"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4zMDg5MkQ5MEVDMEM1NTg2",
-        "VideoId": "H63-3RLpEWE"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy41Mzk2QTAxMTkzNDk4MDhF",
-        "VideoId": "vpT9x2bLcuM"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5EQUE1NTFDRjcwMDg0NEMz",
-        "VideoId": "zu-xc5dAvsQ"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy41QTY1Q0UxMTVCODczNThE",
-        "VideoId": "NfnUrkFlezw"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4yMUQyQTQzMjRDNzMyQTMy",
-        "VideoId": "uIw_z9bY5yc"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy45RTgxNDRBMzUwRjQ0MDhC",
-        "VideoId": "hpJKc2SLBJA"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5ENDU4Q0M4RDExNzM1Mjcy",
-        "VideoId": "SzSjUDUxuLA"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4yMDhBMkNBNjRDMjQxQTg1",
-        "VideoId": "nFU8QkbVDSo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5GM0Q3M0MzMzY5NTJFNTdE",
-        "VideoId": "VqrndE0kSmI"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4zRjM0MkVCRTg0MkYyQTM0",
-        "VideoId": "EXmVrpre-ko"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy45NzUwQkI1M0UxNThBMkU0",
-        "VideoId": "VaqFmubBCmQ"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5DNzE1RjZEMUZCMjA0RDBB",
-        "VideoId": "kz3zS1mioxs"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy43MTI1NDIwOTMwQjIxMzNG",
-        "VideoId": "s3NGfHJLLZ8"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5DQ0MyQ0Y4Mzg0M0VGOEYw",
-        "VideoId": "SMvzG3oTSyA"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy4yQUE2Q0JEMTk4NTM3RTZC",
-        "VideoId": "FoIAgf6usqo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy5DMkU4NTY1QUFGQTYwMDE3",
-        "VideoId": "UHpavsWYwR4"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy44Mjc5REFBRUE2MTdFRDU0",
-        "VideoId": "ssM4Rzv6fZo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy43NDhFRTgwOTRERTU4Rjg3",
-        "VideoId": "NmnoZsI4EIQ"
       }
     ]
   },
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjqgsb4FjNlljNZf1aOZbo6",
-    "Title": "CS2-1-1 Введение в C#",
+    "Title": "OOP-1-1 Введение в C#",
     "Entries": [
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi40NzZCMERDMjVEN0RFRThB",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41NkI0NEY2RDEwNTU3Q0M2",
         "VideoId": "ZSoifyky1Vo"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5EMEEwRUY5M0RDRTU3NDJC",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4yODlGNEE0NkRGMEEzMEQy",
         "VideoId": "8Oh2vxrR_aM"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi45ODRDNTg0QjA4NkFBNkQy",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4wMTcyMDhGQUE4NTIzM0Y5",
         "VideoId": "bJ0kpVHPhco"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4zMDg5MkQ5MEVDMEM1NTg2",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41MjE1MkI0OTQ2QzJGNzNG",
         "VideoId": "G50y41c2Wvw"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41Mzk2QTAxMTkzNDk4MDhF",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4wOTA3OTZBNzVEMTUzOTMy",
         "VideoId": "wcU7pQ4bfqs"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5EQUE1NTFDRjcwMDg0NEMz",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4xMkVGQjNCMUM1N0RFNEUx",
         "VideoId": "D7rAvLYc_MI"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41QTY1Q0UxMTVCODczNThE",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41MzJCQjBCNDIyRkJDN0VD",
         "VideoId": "zso3ORIBvcQ"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4yMUQyQTQzMjRDNzMyQTMy",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5DQUNERDQ2NkIzRUQxNTY1",
         "VideoId": "n48nTUiYiUg"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi45RTgxNDRBMzUwRjQ0MDhC",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi45NDk1REZENzhEMzU5MDQz",
         "VideoId": "_Ghkv4hueVo"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5ENDU4Q0M4RDExNzM1Mjcy",
-        "VideoId": "rqEzeU5VIm8"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4yMDhBMkNBNjRDMjQxQTg1",
-        "VideoId": "ZSoifyky1Vo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5GM0Q3M0MzMzY5NTJFNTdE",
-        "VideoId": "8Oh2vxrR_aM"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4zRjM0MkVCRTg0MkYyQTM0",
-        "VideoId": "bJ0kpVHPhco"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi45NzUwQkI1M0UxNThBMkU0",
-        "VideoId": "G50y41c2Wvw"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5DNzE1RjZEMUZCMjA0RDBB",
-        "VideoId": "wcU7pQ4bfqs"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi43MTI1NDIwOTMwQjIxMzNG",
-        "VideoId": "D7rAvLYc_MI"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5DQ0MyQ0Y4Mzg0M0VGOEYw",
-        "VideoId": "zso3ORIBvcQ"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi4yQUE2Q0JEMTk4NTM3RTZC",
-        "VideoId": "n48nTUiYiUg"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5DMkU4NTY1QUFGQTYwMDE3",
-        "VideoId": "_Ghkv4hueVo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi44Mjc5REFBRUE2MTdFRDU0",
+        "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi5GNjNDRDREMDQxOThCMDQ2",
         "VideoId": "rqEzeU5VIm8"
       }
     ]
@@ -4113,6 +3961,80 @@
       {
         "Id": "UExVLVRVR1JGeE9IaXN1ME5sQ1R1dWxENVpDNUhmM1FOay4xMkVGQjNCMUM1N0RFNEUx",
         "VideoId": "9WVk6u7An_I"
+      }
+    ]
+  },
+  {
+    "Channel": null,
+    "Id": "PLU-TUGRFxOHjZe9b2uBgtMGD_iC_dNWbS",
+    "Title": "OOP-2-1 Управление памятью",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "nTKpQ2gvudM"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "FPWIA9AH3vc"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "gJ3SyZpLD_0"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "-rzYH5DelXw"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "PWnwgRtewxs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "8FtlYh9-DZY"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "1vfrATWokCM"
+      }
+    ]
+  },
+  {
+    "Channel": null,
+    "Id": "PLU-TUGRFxOHhxO42fqB40hM7Y6e1yAlw1",
+    "Title": "OOP-3-3 SRP",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "ZumJvsDsYUs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "4S0nQn922LM"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "VjMJW1NTt-U"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "cuKRWsgtoxo"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "Ru1CuzYyzP8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "ZDXTI9OhNw4"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "prTxyyZ9h5g"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "XlC_LWtiyR8"
       }
     ]
   }
