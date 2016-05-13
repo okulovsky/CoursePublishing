@@ -1550,5 +1550,45 @@
   {
     "VideoGuid": "1196f4d3-49ad-4314-bc08-e469e1cc640c",
     "CourseGuid": "a7b2f40e-1e7d-4cde-b2e6-d082f4823c47"
+  },
+  {
+    "VideoGuid": "69a66629-787b-4ef6-932b-25bafe6a4467",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "44348db6-ec79-4012-a5aa-f46159d69ce8",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "8de446d7-0762-4b07-94f1-386d563e0a47",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "9187f9a6-281f-4151-a1f9-010d2ff1b54a",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "5130e1c9-fea8-465e-8064-44ab208fafd4",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "6552d2db-d547-4249-8c1d-080c0e239381",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "7b50156f-dfb8-4987-b96d-0f77d4a230f4",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "6ef071ee-ad2b-4e0c-80fa-5a3f96b7905f",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "0fe07040-1e9c-43da-b7e6-ed3edd88b508",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
+  },
+  {
+    "VideoGuid": "c01952e0-53a7-4338-9c97-c4ca9dd2a842",
+    "CourseGuid": "2aeaa19e-a00f-4358-9def-53c80fe8aa6f"
   }
 ]

@@ -1783,6 +1783,80 @@
   },
   {
     "Channel": "Kontur.Academy",
+    "Id": "PLU-TUGRFxOHhxO42fqB40hM7Y6e1yAlw1",
+    "Title": "OOP-3-3 SRP",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "ZumJvsDsYUs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "4S0nQn922LM"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "VjMJW1NTt-U"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "cuKRWsgtoxo"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "Ru1CuzYyzP8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "ZDXTI9OhNw4"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "prTxyyZ9h5g"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "XlC_LWtiyR8"
+      }
+    ]
+  },
+  {
+    "Channel": "Kontur.Academy",
+    "Id": "PLU-TUGRFxOHjZe9b2uBgtMGD_iC_dNWbS",
+    "Title": "OOP-2-1 Управление памятью",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "nTKpQ2gvudM"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "FPWIA9AH3vc"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "gJ3SyZpLD_0"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "-rzYH5DelXw"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "PWnwgRtewxs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "8FtlYh9-DZY"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "1vfrATWokCM"
+      }
+    ]
+  },
+  {
+    "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhQwOhFoqoDxgWbAi7-QJxg",
     "Title": "LHPS-3-4 Пост-модерн",
     "Entries": [
@@ -3966,75 +4040,48 @@
   },
   {
     "Channel": null,
-    "Id": "PLU-TUGRFxOHjZe9b2uBgtMGD_iC_dNWbS",
-    "Title": "OOP-2-1 Управление памятью",
+    "Id": "PLU-TUGRFxOHhTe7q1fuxf5SoJ-pIMtDmw",
+    "Title": "OOP-3-5 DI-контейнеры",
     "Entries": [
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41NkI0NEY2RDEwNTU3Q0M2",
-        "VideoId": "nTKpQ2gvudM"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "U19N5Ety4XM"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4yODlGNEE0NkRGMEEzMEQy",
-        "VideoId": "FPWIA9AH3vc"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "Bih7QO1iI4s"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wMTcyMDhGQUE4NTIzM0Y5",
-        "VideoId": "gJ3SyZpLD_0"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "BYFf46Q957k"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MjE1MkI0OTQ2QzJGNzNG",
-        "VideoId": "-rzYH5DelXw"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "GvsQ4w3CED0"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4wOTA3OTZBNzVEMTUzOTMy",
-        "VideoId": "PWnwgRtewxs"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "8fx0ytVOTsQ"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy4xMkVGQjNCMUM1N0RFNEUx",
-        "VideoId": "8FtlYh9-DZY"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "lFGqlXcaMV4"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IalplOWIydUJndE1HRF9pQ19kTldiUy41MzJCQjBCNDIyRkJDN0VD",
-        "VideoId": "1vfrATWokCM"
-      }
-    ]
-  },
-  {
-    "Channel": null,
-    "Id": "PLU-TUGRFxOHhxO42fqB40hM7Y6e1yAlw1",
-    "Title": "OOP-3-3 SRP",
-    "Entries": [
-      {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41NkI0NEY2RDEwNTU3Q0M2",
-        "VideoId": "ZumJvsDsYUs"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "64L-riX0LD8"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4yODlGNEE0NkRGMEEzMEQy",
-        "VideoId": "4S0nQn922LM"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy5DQUNERDQ2NkIzRUQxNTY1",
+        "VideoId": "7_OXD-g9XxA"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wMTcyMDhGQUE4NTIzM0Y5",
-        "VideoId": "VjMJW1NTt-U"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy45NDk1REZENzhEMzU5MDQz",
+        "VideoId": "NElM4MSs9P0"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MjE1MkI0OTQ2QzJGNzNG",
-        "VideoId": "cuKRWsgtoxo"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4wOTA3OTZBNzVEMTUzOTMy",
-        "VideoId": "Ru1CuzYyzP8"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS4xMkVGQjNCMUM1N0RFNEUx",
-        "VideoId": "ZDXTI9OhNw4"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS41MzJCQjBCNDIyRkJDN0VD",
-        "VideoId": "prTxyyZ9h5g"
-      },
-      {
-        "Id": "UExVLVRVR1JGeE9IaHhPNDJmcUI0MGhNN1k2ZTF5QWx3MS5DQUNERDQ2NkIzRUQxNTY1",
-        "VideoId": "XlC_LWtiyR8"
+        "Id": "UExVLVRVR1JGeE9IaFRlN3ExZnV4ZjVTb0otcElNdERtdy5GNjNDRDREMDQxOThCMDQ2",
+        "VideoId": "ahHMDVOBTbk"
       }
     ]
   }

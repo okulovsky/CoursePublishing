@@ -1920,39 +1920,69 @@
     "Channel": "Basic Programming"
   },
   {
-    "Id": "i1ePYqovSFA",
-    "Name": "CS2 E Lecture05 02 2 Время жизни",
+    "Id": "-u-4mSLeCEs",
+    "Name": "CS2 E Lecture06 01 0 Проблематика",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
-    "Id": "NwL1HDc3OaA",
-    "Name": "CS2 E Lecture05 02 1 Циклические зависимости",
-    "Description": "",
+    "Id": "ahHMDVOBTbk",
+    "Name": "OOP-3-5-10 Заключение",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/c01952e0-53a7-4338-9c97-c4ca9dd2a842",
     "Channel": "Kontur.Academy"
   },
   {
-    "Id": "my2z3Dczanc",
-    "Name": "CS2 E Lecture05 02 0 Коллекции",
-    "Description": "",
+    "Id": "NElM4MSs9P0",
+    "Name": "OOP-3-5-09 Модульность",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/0fe07040-1e9c-43da-b7e6-ed3edd88b508",
     "Channel": "Kontur.Academy"
   },
   {
-    "Id": "SI4uTAH27gQ",
-    "Name": "CS2 E Lecture05 01 2 DI Container",
-    "Description": "",
+    "Id": "7_OXD-g9XxA",
+    "Name": "OOP-3-5-08 Conventions",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/6ef071ee-ad2b-4e0c-80fa-5a3f96b7905f",
     "Channel": "Kontur.Academy"
   },
   {
-    "Id": "S3ug-PmcmWs",
-    "Name": "CS2 E Lecture05 01 1 Сервис Локатор",
-    "Description": "",
+    "Id": "64L-riX0LD8",
+    "Name": "OOP-3-5-07 Контексты",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/7b50156f-dfb8-4987-b96d-0f77d4a230f4",
     "Channel": "Kontur.Academy"
   },
   {
-    "Id": "x0RT0Es5jX4",
-    "Name": "CS2 E Lecture05 01 0 Проблематика",
-    "Description": "",
+    "Id": "lFGqlXcaMV4",
+    "Name": "OOP-3-5-06 Время жизни",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/6552d2db-d547-4249-8c1d-080c0e239381",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "8fx0ytVOTsQ",
+    "Name": "OOP-3-5-05 Циклические зависимости",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/5130e1c9-fea8-465e-8064-44ab208fafd4",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "GvsQ4w3CED0",
+    "Name": "OOP-3-5-04 Коллекции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/9187f9a6-281f-4151-a1f9-010d2ff1b54a",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "BYFf46Q957k",
+    "Name": "OOP-3-5-03 DI Container",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/8de446d7-0762-4b07-94f1-386d563e0a47",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "Bih7QO1iI4s",
+    "Name": "OOP-3-5-02 Сервис Локатор",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/44348db6-ec79-4012-a5aa-f46159d69ce8",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "U19N5Ety4XM",
+    "Name": "OOP-3-5-01 Проблематика",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/69a66629-787b-4ef6-932b-25bafe6a4467",
     "Channel": "Kontur.Academy"
   },
   {

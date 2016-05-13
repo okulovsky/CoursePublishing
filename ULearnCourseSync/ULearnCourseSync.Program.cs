@@ -75,6 +75,8 @@ namespace ULearnCourseSync
 
             ShowFoldersStructure();
             ProcessSlides();
+
+            AskAndExecute();
         }
 
      
@@ -204,7 +206,7 @@ namespace ULearnCourseSync
 
         private void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip)
         {
-            var fullPath = Path.Combine(Settings.Path, relativePath);
+            var fullPath = Path.Combine(StartFolder.FullName, relativePath);
             var template = @"
 using System;
 using System.IO;

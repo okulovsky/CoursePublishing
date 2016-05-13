@@ -2910,5 +2910,89 @@
     "Duration": "00:07:19.8460000",
     "OriginalLocation": "LHPS\\Lecture25\\3",
     "EpisodeNumber": 1
+  },
+  {
+    "Guid": "69a66629-787b-4ef6-932b-25bafe6a4467",
+    "Title": "Проблематика",
+    "Duration": "00:05:25.7390000",
+    "OriginalLocation": "CS2-E-Lecture05-01.mm",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "44348db6-ec79-4012-a5aa-f46159d69ce8",
+    "Title": "Сервис Локатор",
+    "Duration": "00:13:43.0860000",
+    "OriginalLocation": "CS2-E-Lecture05-01.mm",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "8de446d7-0762-4b07-94f1-386d563e0a47",
+    "Title": "DI Container",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture05-01.mm",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "9187f9a6-281f-4151-a1f9-010d2ff1b54a",
+    "Title": "Коллекции",
+    "Duration": "00:07:21.9590000",
+    "OriginalLocation": "CS2-E-Lecture05-02.mm",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5130e1c9-fea8-465e-8064-44ab208fafd4",
+    "Title": "Циклические зависимости",
+    "Duration": "00:09:29.7610000",
+    "OriginalLocation": "CS2-E-Lecture05-02.mm",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "6552d2db-d547-4249-8c1d-080c0e239381",
+    "Title": "Время жизни",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture05-02.mm",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "7b50156f-dfb8-4987-b96d-0f77d4a230f4",
+    "Title": "Контексты",
+    "Duration": "00:09:31.3490000",
+    "OriginalLocation": "CS2-E-Lecture05-03.mm",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6ef071ee-ad2b-4e0c-80fa-5a3f96b7905f",
+    "Title": "Conventions",
+    "Duration": "00:08:00.2070000",
+    "OriginalLocation": "CS2-E-Lecture05-03.mm",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "0fe07040-1e9c-43da-b7e6-ed3edd88b508",
+    "Title": "Модульность",
+    "Duration": "00:02:31.4980000",
+    "OriginalLocation": "CS2-E-Lecture05-03.mm",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "c01952e0-53a7-4338-9c97-c4ca9dd2a842",
+    "Title": "Заключение",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture05-03.mm",
+    "EpisodeNumber": 3
+  },
+  {
+    "Guid": "e0da880e-8afe-4f7c-a0dc-704337b535c4",
+    "Title": "Проблематика",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E\\Lecture06\\01",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b3bb05d5-14ea-42ce-9db9-4e627c92be81",
+    "Title": "Устранение интерфейсов",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E\\Lecture06\\02",
+    "EpisodeNumber": 0
   }
 ]
