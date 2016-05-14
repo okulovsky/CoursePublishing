@@ -1,0 +1,316 @@
+{
+  "Level": 0,
+  "Order": 0,
+  "Guid": "01bf5454-d028-4d17-86d5-7ad05f39c822",
+  "Name": "Основы программирования - 2",
+  "Videos": [],
+  "Sections": [
+    {
+      "Level": 1,
+      "Order": 0,
+      "Guid": "e2563d9c-84c3-4c1c-b501-4f82c27e05a1",
+      "Name": "Коллекции и дженерики",
+      "Videos": [],
+      "Sections": [
+        {
+          "Level": 2,
+          "Order": 0,
+          "Guid": "ad3f8ec9-ee74-46ba-a3b6-0b35f679527e",
+          "Name": "Стэки, очереди и дженерики",
+          "Videos": [
+            "48016626-87ae-411d-ae97-f7a49e465dbc",
+            "ee9122e3-6381-437d-9c6c-b8873bd5165f",
+            "31dbc98f-74ab-4f8d-ae7a-f4092bcd54ae",
+            "37aa0894-44b4-4b4b-b765-2b5799634f41",
+            "7c447ce7-fccc-474b-8f12-c0616c6fe987",
+            "1d5f07d6-6f76-45c0-93b1-1aa872e236eb",
+            "fa97b4e4-2711-4534-9767-3cf695fba842",
+            "93320c13-9170-4e84-8602-d4fa3bffb0f7",
+            "dd01a5b8-a3fe-4ef4-82e3-bc8686ba9495",
+            "decc0f02-b43f-4701-995f-9db4f5d83dcf",
+            "6aa8707b-fd48-4736-905d-7d9f88a54cb0",
+            "c955c343-3ef4-4180-90c6-d1611c10ff41"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 1,
+          "Guid": "1fc0f1bd-d20f-4cdb-8bd7-150e2e080aff",
+          "Name": "yield return",
+          "Videos": [
+            "49c485c2-d2a7-4362-a473-5757719bd002",
+            "152ba401-2294-4434-ba4b-b50d9b640e5b",
+            "d1a81e62-1c7c-410d-bb6b-964a299a7dcb",
+            "f9280ba1-a218-4213-bc9c-715f6cb45fc4",
+            "9ad269b9-bcd5-414a-981e-c016ec622f59"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 2,
+          "Guid": "df137f0c-cd44-4ee2-bdbd-2ef64a06f8fe",
+          "Name": "List  и Dictionary",
+          "Videos": [
+            "ff0b5f9b-eb8c-432d-8bab-4bfa9718469a",
+            "fab39ab2-d9b4-43ab-a622-629a02318ec8",
+            "c3279a1f-1b59-4b2e-ab1b-0bee3f703fb7",
+            "529030fa-de09-4f92-b617-f34b5d7dd6a5",
+            "a1c54dae-8452-497a-81c0-d130b1cf9902",
+            "1f2e07b9-6202-4166-acb7-d588f6b89767",
+            "2fb4507f-9482-4840-a44f-3d1c89dde0c2",
+            "7e3e8be3-ce64-47ac-b03c-6756a10a0ee2",
+            "d9c61ebc-527a-4311-b9b8-7b9e5b7f9100",
+            "3d282771-b30b-4865-9abf-e765788f5746",
+            "06e4d7eb-fb6d-4170-830e-4fdaf5229c15"
+          ],
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Level": 1,
+      "Order": 1,
+      "Guid": "4eb723ac-1962-42af-b826-cd4ee39fc77d",
+      "Name": "Делегаты и функциональное программирование",
+      "Videos": [],
+      "Sections": [
+        {
+          "Level": 2,
+          "Order": 0,
+          "Guid": "a780a52a-b288-49b1-95c9-a1dcf53e9dab",
+          "Name": "Делегаты",
+          "Videos": [
+            "139a55f6-8e6a-4178-bccc-a152a5eecea5",
+            "34f61dcc-6d26-496b-b67f-2f7d08aa9add",
+            "7c791272-f45b-40ac-a04a-44596e0ef568",
+            "3710aa0f-36f7-425d-ac69-067de1595d10",
+            "8b4bf094-e512-4952-b52f-2f94e7c30481",
+            "0c713aa1-a955-4b9c-879b-4c92f6ad7991",
+            "2bc96d7f-5e2e-41da-921f-cdbf7d139f76",
+            "86a4a3bb-6771-4332-aae6-4f867addc1fb",
+            "62df44ad-3aba-44c5-93fd-3baa37be1894",
+            "4c4ad14d-0576-4f25-8158-e282f35de0a2",
+            "e124f54d-e537-4d02-b526-a2e45278e54f",
+            "62066606-b78b-4ac3-b1ac-0b463ee4607d"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 1,
+          "Guid": "4d83d15e-1b45-403a-a007-dbc4f819d1b5",
+          "Name": "Элементы функционального программирования",
+          "Videos": [
+            "32ae8e0b-a96e-48ef-8ba0-43c0bc04f403",
+            "829d4498-3311-47c6-995d-62dd01940234",
+            "6c029283-2a9a-417f-b176-5b5b12ce3972",
+            "b4c6575c-7f73-4691-ba64-e813e3264930",
+            "4328cba8-c5f9-432b-ba9d-4efc3af6edec",
+            "71739f53-a0d0-453c-b9a6-b276b1241d0b",
+            "e59fa925-fc9d-4156-abf8-29a9d38a16ed",
+            "5bbb9176-93dc-4ac1-abd6-86463c08670f",
+            "c914d293-c2e0-4ce0-bc94-72de943a772d",
+            "a44a3657-7b6c-41e7-86fc-3d46ac7f83e2"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 2,
+          "Guid": "8c9523a8-e364-40a4-b953-49aa517e2b6e",
+          "Name": "LINQ",
+          "Videos": [],
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Level": 1,
+      "Order": 2,
+      "Guid": "2ed691ed-2d88-4784-89b6-409ec6d9b0bc",
+      "Name": "Алгоритмы и структуры данных",
+      "Videos": [],
+      "Sections": [
+        {
+          "Level": 2,
+          "Order": 0,
+          "Guid": "0a82fecb-e8af-43ce-b511-def450e2b972",
+          "Name": "Графы и обходы",
+          "Videos": [
+            "1525edc4-1193-48ea-8f9a-061647cd469e",
+            "cc8b197d-4478-4a8a-8e02-91d717bb38eb",
+            "ab584222-506a-4054-b35d-261550f7f08f",
+            "7990b5ec-4eda-4520-8ed0-bb1caefdefeb",
+            "68ca412d-116a-43a6-a013-31fa16752f08",
+            "bbd06461-80e2-44e0-b832-35dbf4704aa8",
+            "8737d846-ad80-47e5-a65b-2dfb3c55bbc0",
+            "12e2b60d-91b2-43aa-a67c-0af8f2db8372",
+            "7d2083f0-f935-400b-a7f8-0f3fa390136f",
+            "d0bc5c8b-96ba-445a-98c8-18d3b2d70373",
+            "874ec4b0-e7f4-43a2-8e71-545a9aa14d55",
+            "b72a4a96-87f3-4334-a979-c1425cef3e95",
+            "bc22f2ce-ae50-4297-85ef-ea6d0da5eb57",
+            "909a9f20-ab8c-4262-affc-0148795e5c2d",
+            "365b3781-1891-4f04-a662-7c90ac5a1c4b",
+            "96621d58-4486-404c-8c30-ee36343cdd2e",
+            "035ef491-8565-4cc0-aee6-81b232c0c8eb"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 1,
+          "Guid": "609d2658-2003-4705-a3d7-43c64ad68a7d",
+          "Name": "Жадные алгоритмы",
+          "Videos": [
+            "8661d8aa-fdc5-4185-8ba3-5651b18acd48",
+            "5ff854b7-136d-43a1-aec5-fe0cb9e4262d",
+            "746c8de7-d73a-4ece-b8cf-49abd9351e72",
+            "8af21837-d0b1-4c96-a3a2-d4d80dbd6fa5",
+            "b2ee73d3-f385-4c9c-991c-0a0eeef5703b",
+            "7e3030f4-0f73-4cbe-ac6c-5163974c293d",
+            "ef4f3960-0cba-4ac8-93da-8899bb00349d",
+            "1f6d2923-06aa-4474-a115-82763b43816b",
+            "036c87b9-60e4-4c4e-acee-b25c1bcb79c3",
+            "2ac3ceb5-2cbd-49dc-9c98-231a584024aa",
+            "a7233b84-94cd-4285-b1b5-709df6660184",
+            "fe58c186-6ca5-41a3-98be-0b9296f11cb5"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 2,
+          "Guid": "f5718592-4d84-4913-8e8b-a9db4345d27d",
+          "Name": "Динамическое программирование",
+          "Videos": [
+            "12a270df-5fc8-46d1-a3b8-ab34c07e8167",
+            "3d717f9b-743e-4ffc-902b-c221f836afe4",
+            "f539b25d-0709-46f5-aaab-e144dd033b61",
+            "56316149-ab7b-457e-a34e-61dddebdcea7",
+            "ffe53e40-108b-4a6f-bec0-7bc961b8d40d",
+            "8c52b6c8-0f0f-4f52-94dc-14610cc35a26",
+            "b2ace547-52ac-4bb4-9281-e46bd0337a03",
+            "fb16f9f5-1fa2-47a8-ace4-2600b7421837",
+            "9d7a97e7-99b2-43ef-852e-9e5ad8a4ed62",
+            "d411b2f3-4ee8-4a15-8379-b4f667f1bbe1"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 3,
+          "Guid": "8de5fb48-fe01-41ad-930a-54310d554eec",
+          "Name": "Структуры данных",
+          "Videos": [
+            "0dd9a1e8-c370-493d-b384-94c62f04bf34",
+            "2629dec3-3c1e-4c68-9e0b-cae5a91e48c9",
+            "72a0e314-1d34-483b-a610-87c4b7924520",
+            "85c0af35-bcb1-42bf-8539-3bfac51334d6",
+            "b81b3dc4-5bd7-4942-9651-9d05b6257873",
+            "5fbbdbda-cedf-415d-bfbc-cf881ca79605",
+            "84e7c40e-0d3f-4299-ad50-159bab5171c6",
+            "37820544-3b54-4d67-9b65-af956fce0212",
+            "aad073b2-56d4-4b29-a0c6-6cdb73d82d4c"
+          ],
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Level": 1,
+      "Order": 3,
+      "Guid": "86dab8f1-8693-4246-a572-80409dfe3110",
+      "Name": "События и оконные приложения",
+      "Videos": [],
+      "Sections": [
+        {
+          "Level": 2,
+          "Order": 0,
+          "Guid": "4db6a03e-01e7-4e56-8f0e-d9694f2c7435",
+          "Name": "События",
+          "Videos": [
+            "1a6eec72-9ad0-4c41-b540-4a6cd0a6af35",
+            "73d69c1f-e3ac-4568-9473-8b0d0a522225",
+            "e9df8b88-2b22-4186-8216-c3d3e2924ecd",
+            "eeda09bc-3bf0-4c47-90a7-1cc957163c20",
+            "7d5581a1-036e-486d-9f92-a35d6ede9073",
+            "9fd0c84c-34e3-4bb1-a605-29f71178387e",
+            "d4adcad4-d0d1-4368-a1d6-c9c77ac6ce3f",
+            "32091746-225e-4bfa-89f7-5462e4d4abf4",
+            "027b3334-61e9-4342-b8b3-93c366c2bd35",
+            "d968660f-828e-4316-9a5d-6cbbd04b927c",
+            "24394f3b-bd73-4f2e-aab3-653888e5d30a"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 1,
+          "Guid": "f53590dc-410f-4d6e-adce-877c195ca811",
+          "Name": "Оконные приложения",
+          "Videos": [
+            "348fcd30-b24d-404a-b8e0-a5c946795549",
+            "0d9fff0d-b936-464b-bafd-849e64e3725c",
+            "94d87d21-39fa-49a8-8daa-3552f8663756",
+            "8b53d1e3-2b97-41cf-ac17-37348359b47f",
+            "7b97f9f3-2bef-440b-95ca-409bd1edb19e",
+            "6dc61fee-e130-4735-b29f-4a3f82a9d0c6",
+            "97cdfb4d-9cb5-4c58-b64b-727033a1c029",
+            "f1e2d286-55fa-43e4-a49c-f2ccb21248b9",
+            "4dc60d33-dc14-42aa-b205-22c9becd43c7",
+            "09f1e7ad-6e6e-491d-8085-c65a75938712",
+            "b26a09d9-7af9-49c7-9d98-63930a19e9cf"
+          ],
+          "Sections": []
+        },
+        {
+          "Level": 2,
+          "Order": 2,
+          "Guid": "f0800869-9ee3-41a8-8155-4566f08e914b",
+          "Name": "Асинхронное программирование",
+          "Videos": [
+            "4dd557b3-7903-4ff4-932a-a95b4a7fb15f",
+            "89139c78-ac3a-4bf3-a147-80a7f9a0dd64",
+            "aac78ee8-a6ac-41f6-996c-49c856a73cd2",
+            "0c50d57a-0e9e-45ce-8181-03d35b1ec920",
+            "feb23d7e-7056-4808-bf6c-72cecb315b35",
+            "3b11e4ef-21ed-4cef-abe6-86c8071d30d2",
+            "ca9a1491-d879-4c3c-8faa-2af0808f4b83",
+            "b7c12fe2-57be-464f-a33e-874b9ede0c3c",
+            "0fcc0767-ec9b-4380-b43e-58b23d46a2f0"
+          ],
+          "Sections": []
+        }
+      ]
+    },
+    {
+      "Level": 1,
+      "Order": 4,
+      "Guid": "3eaf6c96-a42c-45b1-afee-18744d510f8b",
+      "Name": "Дополнительные главы",
+      "Videos": [],
+      "Sections": [
+        {
+          "Level": 2,
+          "Order": 0,
+          "Guid": "3a5d34a6-4967-4978-9135-4ed992ddd00c",
+          "Name": "Рефлексия типов",
+          "Videos": [
+            "8386b127-ea69-465d-87ba-24e08df9f6d2",
+            "d3b51bed-9fc7-4e0f-9328-ffebf8fe5935",
+            "c6fa16c0-889b-44ba-bbd6-e5a102c0e26f",
+            "dd9f4686-b19d-47a3-946c-befa8dd13b56",
+            "91d97c6b-ed3f-4fea-bd65-049513e8480d",
+            "6594c040-df34-48af-8928-f52b0e045696",
+            "2a224f58-f29d-4047-9ed1-5662f860f344",
+            "a8cfbb08-856d-4897-a413-fae54f4917bb"
+          ],
+          "Sections": []
+        }
+      ]
+    }
+  ]
+}
