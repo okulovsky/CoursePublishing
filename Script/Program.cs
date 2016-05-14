@@ -20,7 +20,7 @@ namespace Script
             }
         }
 
-        static void Main()
+        static void StandardizeGuid()
         {
             var path = @"C:\Users\Yura\Desktop\OldPublishings\BasicProgramming\Part01\BasicProgramming\Slides";
             var dinfo = new DirectoryInfo(path);
@@ -30,10 +30,13 @@ namespace Script
             {
                 var text = File.ReadAllText(finfo.FullName);
                 if (!GuidRegex.Match(text).Success) continue;
+                if (!text.Contains("//#video")) continue;
                 text = GuidRegex.Replace(text, @"[Slide($1,""$2"")]");
                 File.WriteAllText(finfo.FullName, text);
             }
 
         }
+
+        static void Main() { }
     }
 }
