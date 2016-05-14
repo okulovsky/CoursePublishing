@@ -3596,5 +3596,1384 @@
     "Duration": "00:00:01",
     "OriginalLocation": "AIML_fromBackup",
     "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fa170247-1e5e-48c4-82b9-bbddcdeefa00",
+    "Title": "Сравнение for и while",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7e1aac61-118d-490b-ab5f-b01bd1926199",
+    "Title": "Основные определения",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "15c12c0c-1485-4cbd-8987-0865d3e52cdd",
+    "Title": "Внедрение модульных тестов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0c204a2b-8725-43a8-be0c-7efdbc8dbece",
+    "Title": "Функциональное тестирование",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8febda2b-9173-45e0-978e-babcbef80c3c",
+    "Title": "Значение тестирования",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2971a973-379e-40ab-ad5e-49c398fa8567",
+    "Title": "Покрытие тестами",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c080ad9c-dfea-4d4e-b2ae-273b436184ba",
+    "Title": "Все плохо",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a6a25e35-38a4-4caa-a1ac-699e2c0a0778",
+    "Title": "Создание модульного теста",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c92a05e8-e3fc-486d-9a66-712f2dffde5b",
+    "Title": "Больше модульных тестов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3858d717-5752-44e9-a29f-31de96e1d793",
+    "Title": "Архитектура тестируемых приложений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fc83621d-5787-42fa-81b9-4ba30575c963",
+    "Title": "Баги и тестирование",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "57691cf5-8def-4747-9f41-ba9d74f8882a",
+    "Title": "Кодировки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "34344188-0135-47f4-9e82-f6749d23de14",
+    "Title": "Файлы и каталоги",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3782dc47-c7b1-49da-bb4a-5ac69c0f5948",
+    "Title": "Форматированный вывод",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cb90038b-c6ea-46cf-a181-6d572b2d517e",
+    "Title": "Спецсимволы и экранирование",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "219100aa-04d8-4731-b6e7-75e9383eff7b",
+    "Title": "StringBuilder",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "36d56e61-302d-4e58-a1cc-bc9c1b242d48",
+    "Title": "Неизменяемость строк",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c03e8a39-957d-4a82-8cd6-72be3cd53db1",
+    "Title": "Словари",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "eb0af5c2-4d17-4723-ba84-75cf9f9ee8d1",
+    "Title": "Листы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8c0ee068-77e0-443f-8ffb-fe89cbdb57c0",
+    "Title": "Многомерные массивы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0aae7844-95e5-48e1-8383-12918cbcb725",
+    "Title": "Рефакторинг while",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1edb84f9-a115-42f9-94b3-d99b1b11eaac",
+    "Title": "Цикл for",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9dd6427f-dd99-4271-9e3e-5eddfd286d9e",
+    "Title": "Передача массива в метод",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "45a4bd20-d8fc-4931-8d8a-5d74eb388290",
+    "Title": "Значение null, типы-значения и ссылочные типы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6941594b-3e70-4194-a553-31b7a5def543",
+    "Title": "Сокращенная инициализация массивов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "728f7ec0-e504-4896-a75f-a663a8be5c3d",
+    "Title": "Массивы. Оператор foreach",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0fda40fe-41e6-4cfe-a22a-c1722659f697",
+    "Title": "Типичные ошибки ветвлений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bb48d244-6b0a-4497-aa34-97f41280e99d",
+    "Title": "Операторы if и else",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b9d7e382-84ce-43f7-941b-c507fef25a41",
+    "Title": "Сравнение и логический тип",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3346baa2-9436-46fa-ac7c-3d392ce858b3",
+    "Title": "while, break, continue",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f1740706-b8e2-4bd4-ab87-3cc710a52449",
+    "Title": "Рефакторинг - константы и enum",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "677bdd3b-468d-4ccc-9af8-c2644db494a8",
+    "Title": "Рефакторинг - конвенция именования, DRY",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a9b1b06f-8135-43ae-ad4f-afce87906378",
+    "Title": "Стилистические ошибки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f2c3bc26-335e-4267-844c-38437c74f197",
+    "Title": "Рефакторинг - выделение метода",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2d586c07-db8d-439b-b651-28057fd5e7f3",
+    "Title": "Эксперименты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5a1602f6-9926-4309-9cb2-21ec6bd1d840",
+    "Title": "Отладка",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5f84c5fc-f58e-4bd4-8f05-cb372793c5ff",
+    "Title": "Ошибки выполнения программы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ba4e3423-423a-4622-b2ca-0495f628cf74",
+    "Title": "Ошибки компиляции",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3d36666d-c973-4c0a-938a-ac71ce3847fe",
+    "Title": "Локальные и глобальные переменные",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "45b1b595-0489-4713-bc82-22e188fd8472",
+    "Title": "Методы и Intellisence",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "03dba3bd-60d3-417f-a44c-d5319da3245f",
+    "Title": "Арифметические выражения",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "486be963-fbda-4c05-b56a-c226a39c3b78",
+    "Title": "Строки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8e4d3d2e-cb33-4b93-a4ea-f75dde615cf8",
+    "Title": "Типы данных. Числовые типы.",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "70597ba7-f436-4301-816d-17dc34551bdb",
+    "Title": "Hello, world!",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1b8d1b4d-1da0-4964-ad1b-190242661076",
+    "Title": "Оценка сложности алгоритма",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4a772b80-3372-4ab0-9ae0-19a361699150",
+    "Title": "Сложность алгоритмов, работающих с числами",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6a74a6e4-bef5-4e35-9d4c-6baf62ccee41",
+    "Title": "О-символика",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2738b458-b461-4981-bbcf-3dbc4a7120a2",
+    "Title": "Масштаб роста функций",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "41b7d5ab-b3be-4c68-a882-0f78b34035bd",
+    "Title": "Расчет сложности алгоритма",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0728da8d-eb4e-4cd6-873e-a41363755f49",
+    "Title": "О важности алгоритмов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f33dd5c4-0a6d-41ec-a039-4c2b08e0ffb1",
+    "Title": "Классы сложности и заключительные замечания",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c233ec6f-5803-48e5-a67c-b5824baa7582",
+    "Title": "Стратегия Разделяй и властвуй",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "67cb3e0c-6cf3-49c0-ac8d-4c2b58b262d3",
+    "Title": "Перебор подмножеств",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "670fa739-0f73-450c-b877-eaa6264a34fc",
+    "Title": "Дерево рекурсивных вызовов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ca257385-d589-41e8-a0f9-540c8c3d998a",
+    "Title": "Более сложный алгоритм",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "caec41b0-3166-40c0-9ded-3941c7f0b91d",
+    "Title": "Рекурсия",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "52a6c385-576a-4da1-b9cb-d74ca5dba296",
+    "Title": "Перебор размещений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e20cfb08-69f4-43d1-8f18-1c7498efaa80",
+    "Title": "Перебор перестановок",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b1244761-2c00-48aa-a079-5927ebccd87c",
+    "Title": "Сравнение производительности поисков",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d48408e2-8baf-4742-8f87-c0c866ee4d38",
+    "Title": "Бинарный поиск",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3a384f49-5b95-43f8-9940-ad4b19763c4d",
+    "Title": "Анализ алгоритма линейного поиска",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a98505e4-b1aa-4956-8b12-b7d1e95d8072",
+    "Title": "Сортировка пузырьком",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fd0b0306-9ea0-4592-bfd6-6b394fea62dc",
+    "Title": "Анализ алгоритма бинарного поиска",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0e86cf2f-a832-431c-a95e-8c7493eefbb5",
+    "Title": "Быстрая сортировка",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a3acf875-b6b1-4afc-9e6e-e45528e7b025",
+    "Title": "Сортировка слиянием",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d70fbf0e-c4bf-42c1-9723-c3bdfeb66691",
+    "Title": "Сравнение алгоритмов сортировки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2d1586c6-b4b3-4228-8c04-c99c54f42eeb",
+    "Title": "Статические и динамические методы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9ab27cb1-cd14-4248-89d5-5981490bb766",
+    "Title": "Статическое и динамическое",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9eb68528-17cb-4d7f-99f3-40210a8f6cef",
+    "Title": "Классы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "49b56a8a-f0d1-4829-ae6f-eb2b6b69f63f",
+    "Title": "Массивы массивов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "01a1f9a5-c475-4af3-bef3-060f92e69a92",
+    "Title": "Методы расширения",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4019ac61-37ae-435e-bd37-a90e8b3009a3",
+    "Title": "Класс Array",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "382867ff-a6a2-45df-a53f-e3757ef74c64",
+    "Title": "Иерархия наследования",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ac2b8cb6-8d63-4b81-9083-eaa77ab0c89c",
+    "Title": "Наследование",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "57b32e15-beed-4e75-9aee-dabc6af80bd7",
+    "Title": "FileInfo и DirectoryInfo",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8adb5248-0361-4ca6-b2f9-851ead987603",
+    "Title": "Использование статических классов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a969ed1f-fc3e-4dcc-8d05-6015069e3dcf",
+    "Title": "Постановка проблемы наследования",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3df89dfb-7f0f-4123-82ac-364c3a426396",
+    "Title": "Интерфейсы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3fc355a6-1e3a-4202-9343-9825ccd9b691",
+    "Title": "Реализация интерфейса IComparable",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "432a64a7-80c7-4c4a-a3c3-85c054797b4a",
+    "Title": "Интерфейс IComparer",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "378b3a30-d080-4d49-bf2f-725c425af146",
+    "Title": "Полиморфизм",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4c2cab0b-93dd-48ce-88ac-5115d9655642",
+    "Title": "Виртуальные методы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3f87c4cb-495d-4e12-8b61-d7134e5351da",
+    "Title": "Поля readonly",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "87ee724d-8b7d-4d9e-b4f7-ea29c0f055ff",
+    "Title": "Конструкторы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f177f3c4-c0f8-4759-9d41-2cdb7f22ca15",
+    "Title": "Целостность данных",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f9e6780f-8b16-4c85-ac9d-2d205cc55e33",
+    "Title": "Ключевое слово private",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "153f180e-1a1a-460a-b2e7-abfe72707a64",
+    "Title": "Больше свойств",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3bf0e956-3258-4a4d-ac42-926dc8cbad3b",
+    "Title": "Отложенные ошибки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7894c024-7ed1-4e9c-87f7-5c3a3f6a4b17",
+    "Title": "Свойства",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c85476a1-0886-488f-97e1-66227119ad4e",
+    "Title": "Статические конструкторы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3d0c5ed0-7260-41d0-b78a-450a036aa9f9",
+    "Title": "Инициализация полей структуры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4",
+    "Title": "Объявление структуры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "48016626-87ae-411d-ae97-f7a49e465dbc",
+    "Title": "Стэки и очереди",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ee9122e3-6381-437d-9c6c-b8873bd5165f",
+    "Title": "Очередь на связных списках",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "31dbc98f-74ab-4f8d-ae7a-f4092bcd54ae",
+    "Title": "Универсальная очередь и даункасты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c1a1a9ab-499c-4c86-a322-fb44ab886be5",
+    "Title": "Ключевое слово ref",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fe30b329-13dc-4c9d-8312-80d1b87a0b61",
+    "Title": "Боксинг и анбоксинг",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7c130420-2991-40b3-8d80-365e86964418",
+    "Title": "Структуры и свойства",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "03e03587-52ff-4e7b-9d42-62df93b4b972",
+    "Title": "Зачем нужны структуры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2b2a5d5e-7325-4ae6-bb97-2d5f497e9b9b",
+    "Title": "Передача структуры в метод",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "77ecefd6-2d45-4b39-ba60-c1ccd0e73bab",
+    "Title": "Test-driven development",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "37aa0894-44b4-4b4b-b765-2b5799634f41",
+    "Title": "Дженерик-классы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1d5f07d6-6f76-45c0-93b1-1aa872e236eb",
+    "Title": "Стэки для вычислений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7c447ce7-fccc-474b-8f12-c0616c6fe987",
+    "Title": "Стэки для анализа скобочных выражений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "f9280ba1-a218-4213-bc9c-715f6cb45fc4",
+    "Title": "Ленивые коллекции",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d1a81e62-1c7c-410d-bb6b-964a299a7dcb",
+    "Title": "yield return",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "93320c13-9170-4e84-8602-d4fa3bffb0f7",
+    "Title": "Дженерики и сортировка массивов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fa97b4e4-2711-4534-9767-3cf695fba842",
+    "Title": "Очередь для скользящего среднего",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "49c485c2-d2a7-4362-a473-5757719bd002",
+    "Title": "foreach, IEnumerable и IEnumerator",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "152ba401-2294-4434-ba4b-b50d9b640e5b",
+    "Title": "Реализация IEnumerator",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "529030fa-de09-4f92-b617-f34b5d7dd6a5",
+    "Title": "Перегрузка операторов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a1c54dae-8452-497a-81c0-d130b1cf9902",
+    "Title": "Когда следует перегружать операторы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fab39ab2-d9b4-43ab-a622-629a02318ec8",
+    "Title": "Метод Contains",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c3279a1f-1b59-4b2e-ab1b-0bee3f703fb7",
+    "Title": "Метод Equals",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9ad269b9-bcd5-414a-981e-c016ec622f59",
+    "Title": "yield return в рекурсивных методах",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ff0b5f9b-eb8c-432d-8bab-4bfa9718469a",
+    "Title": "Листы и индексация",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dd01a5b8-a3fe-4ef4-82e3-bc8686ba9495",
+    "Title": "Возврат из метода значения и ошибки",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "decc0f02-b43f-4701-995f-9db4f5d83dcf",
+    "Title": "Возврат нескольких значений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6aa8707b-fd48-4736-905d-7d9f88a54cb0",
+    "Title": "Дженерик-класс Tuple",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c955c343-3ef4-4180-90c6-d1611c10ff41",
+    "Title": "Дженерик-класс Nullable",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "06e4d7eb-fb6d-4170-830e-4fdaf5229c15",
+    "Title": "Класс Dictionary",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3d282771-b30b-4865-9abf-e765788f5746",
+    "Title": "GetHashCode",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1f2e07b9-6202-4166-acb7-d588f6b89767",
+    "Title": "Хэширующие функции",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2fb4507f-9482-4840-a44f-3d1c89dde0c2",
+    "Title": "Хэши в компьютерной безопасности",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7e3e8be3-ce64-47ac-b03c-6756a10a0ee2",
+    "Title": "Поиск подстроки в строке - 1",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d9c61ebc-527a-4311-b9b8-7b9e5b7f9100",
+    "Title": "Поиск подстроки в строке - 2",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "139a55f6-8e6a-4178-bccc-a152a5eecea5",
+    "Title": "Постановка проблемы делегатов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "34f61dcc-6d26-496b-b67f-2f7d08aa9add",
+    "Title": "Делегаты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7c791272-f45b-40ac-a04a-44596e0ef568",
+    "Title": "Делегаты для динамических методов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3710aa0f-36f7-425d-ac69-067de1595d10",
+    "Title": "Карта памяти",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8b4bf094-e512-4952-b52f-2f94e7c30481",
+    "Title": "Дженерик-делегаты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "0c713aa1-a955-4b9c-879b-4c92f6ad7991",
+    "Title": "Func и Action",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "eeda09bc-3bf0-4c47-90a7-1cc957163c20",
+    "Title": "Мультикаст-делегаты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7d5581a1-036e-486d-9f92-a35d6ede9073",
+    "Title": "Целостность событийной модели",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "9fd0c84c-34e3-4bb1-a605-29f71178387e",
+    "Title": "События",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e9df8b88-2b22-4186-8216-c3d3e2924ecd",
+    "Title": "Событийная модель с делегатами",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1a6eec72-9ad0-4c41-b540-4a6cd0a6af35",
+    "Title": "Программирование GUI",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "73d69c1f-e3ac-4568-9473-8b0d0a522225",
+    "Title": "Событийная модель",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2bc96d7f-5e2e-41da-921f-cdbf7d139f76",
+    "Title": "Анонимные делегаты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "86a4a3bb-6771-4332-aae6-4f867addc1fb",
+    "Title": "Лямбда-выражения",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "62df44ad-3aba-44c5-93fd-3baa37be1894",
+    "Title": "Больше лямбд",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4c4ad14d-0576-4f25-8158-e282f35de0a2",
+    "Title": "Замыкание",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e124f54d-e537-4d02-b526-a2e45278e54f",
+    "Title": "Карта памяти",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "62066606-b78b-4ac3-b1ac-0b463ee4607d",
+    "Title": "Ловушка замыкания",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "32ae8e0b-a96e-48ef-8ba0-43c0bc04f403",
+    "Title": "О функциональном программировании",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "829d4498-3311-47c6-995d-62dd01940234",
+    "Title": "Делегаты для диагностики кода",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6c029283-2a9a-417f-b176-5b5b12ce3972",
+    "Title": "Делегаты в разборе арифметических выражений",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d4adcad4-d0d1-4368-a1d6-c9c77ac6ce3f",
+    "Title": "Сокращенный синтаксис событий",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "32091746-225e-4bfa-89f7-5462e4d4abf4",
+    "Title": "Конвенция оформления событий",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b4c6575c-7f73-4691-ba64-e813e3264930",
+    "Title": "Вычисление производной",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4328cba8-c5f9-432b-ba9d-4efc3af6edec",
+    "Title": "Лямбда-выражения в тестах",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "027b3334-61e9-4342-b8b3-93c366c2bd35",
+    "Title": "Назначение protected virtual OnTick",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d968660f-828e-4316-9a5d-6cbbd04b927c",
+    "Title": "Назначение sender",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c914d293-c2e0-4ce0-bc94-72de943a772d",
+    "Title": "Последовательность вызовов Where и Select",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a44a3657-7b6c-41e7-86fc-3d46ac7f83e2",
+    "Title": "Последовательность вызовов с ToList",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "71739f53-a0d0-453c-b9a6-b276b1241d0b",
+    "Title": "Знакомство с LINQ",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e59fa925-fc9d-4156-abf8-29a9d38a16ed",
+    "Title": "Реализация метода Where",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5bbb9176-93dc-4ac1-abd6-86463c08670f",
+    "Title": "Реализация Select и ToList",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "24394f3b-bd73-4f2e-aab3-653888e5d30a",
+    "Title": "Назначение EventArgs",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "dd9f4686-b19d-47a3-946c-befa8dd13b56",
+    "Title": "Рефлексия для сериализации",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "6594c040-df34-48af-8928-f52b0e045696",
+    "Title": "Биндинг и атрибуты",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8386b127-ea69-465d-87ba-24e08df9f6d2",
+    "Title": "Рефлексия. Класс Type.",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d3b51bed-9fc7-4e0f-9328-ffebf8fe5935",
+    "Title": "Создание объекта с помощью рефлексии",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c6fa16c0-889b-44ba-bbd6-e5a102c0e26f",
+    "Title": "Рефлексия для свойств, методов и полей",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "96621d58-4486-404c-8c30-ee36343cdd2e",
+    "Title": "Топологическая сортировка. Алгоритм Кана",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "365b3781-1891-4f04-a662-7c90ac5a1c4b",
+    "Title": "Игра в 8",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bc22f2ce-ae50-4297-85ef-ea6d0da5eb57",
+    "Title": "Поиск компонент связности",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "909a9f20-ab8c-4262-affc-0148795e5c2d",
+    "Title": "Поиск пути в невзвешенном графе",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7990b5ec-4eda-4520-8ed0-bb1caefdefeb",
+    "Title": "Обход лабиринта в глубину, рекурсия",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "68ca412d-116a-43a6-a013-31fa16752f08",
+    "Title": "Обход лабиринта в глубину, стэк",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "c12ff8d5-b218-41ae-88ed-25d72c379975",
+    "Title": "все плохо",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b72a4a96-87f3-4334-a979-c1425cef3e95",
+    "Title": "Обходы графа",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "1525edc4-1193-48ea-8f9a-061647cd469e",
+    "Title": "Определение графа",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "cc8b197d-4478-4a8a-8e02-91d717bb38eb",
+    "Title": "Зачем нужны графы",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "ab584222-506a-4054-b35d-261550f7f08f",
+    "Title": "Дополнительные определения теории графов",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8737d846-ad80-47e5-a65b-2dfb3c55bbc0",
+    "Title": "Простейшая реализация графа",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "12e2b60d-91b2-43aa-a67c-0af8f2db8372",
+    "Title": "Неориентированные графы и целостность данных",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7d2083f0-f935-400b-a7f8-0f3fa390136f",
+    "Title": "Больше защиты целостности в графах",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d0bc5c8b-96ba-445a-98c8-18d3b2d70373",
+    "Title": "Добавление сущности ребра",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "874ec4b0-e7f4-43a2-8e71-545a9aa14d55",
+    "Title": "Хранение дополнительной информации о графе",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "035ef491-8565-4cc0-aee6-81b232c0c8eb",
+    "Title": "Алгоритм Тарьяна",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "bbd06461-80e2-44e0-b832-35dbf4704aa8",
+    "Title": "Обход лабиринта в ширину",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "027faed9-6382-4fbb-8f89-94705177766e",
+    "Title": "ВСЕ ПЛОХО",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e862e1d5-089c-4432-8149-f912599f2d56",
+    "Title": "ВСЕ ПЛОХО",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a7ea3d9c-da08-4855-8c6e-623e5f65ff97",
+    "Title": "Алгоритм Дейкстры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b2ee73d3-f385-4c9c-991c-0a0eeef5703b",
+    "Title": "Алгоритм Краскала",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7e3030f4-0f73-4cbe-ac6c-5163974c293d",
+    "Title": "Корректность алгоритма Краскала",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "746c8de7-d73a-4ece-b8cf-49abd9351e72",
+    "Title": "Задача о планировании времени",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8af21837-d0b1-4c96-a3a2-d4d80dbd6fa5",
+    "Title": "Корректность алгоритма планирования времени",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8661d8aa-fdc5-4185-8ba3-5651b18acd48",
+    "Title": "Комбинаторные задачи",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "5ff854b7-136d-43a1-aec5-fe0cb9e4262d",
+    "Title": "Стратегия перебора для комбинаторных задач",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "376d38a1-a536-4a3e-927b-8cbe2e8c70c3",
+    "Title": "Реализация алгоритма Дейкстры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "03ef0743-a872-4dfb-85d3-42e2de3ddb59",
+    "Title": "Алгоритм Дейкстры на LINQ",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4a48bb39-ad52-42d6-8440-94637d85360e",
+    "Title": "Корректность алгоритма Дейкстры",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "a7233b84-94cd-4285-b1b5-709df6660184",
+    "Title": "Жадный алгоритм для задачи коммивояжера",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fe58c186-6ca5-41a3-98be-0b9296f11cb5",
+    "Title": "Жадные алгоритмы как эвристические",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "2ac3ceb5-2cbd-49dc-9c98-231a584024aa",
+    "Title": "Жадный алгоритм для задачи разбиения",
+    "Duration": "00:00:01",
+    "OriginalLocation": "BP1_fromBackup",
+    "EpisodeNumber": 0
   }
 ]

@@ -1201,8 +1201,8 @@
   },
   {
     "Id": "m5gUWPHsZ-o",
-    "Name": "BP-2-3-06 Сортировка слиянием",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 3.Поиск и сортировка\n[GUID: a3acf875-b6b1-4afc-9e6e-e45528e7b025]",
+    "Name": "BP1-2-3-6 Сортировка слиянием",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/a3acf875-b6b1-4afc-9e6e-e45528e7b025",
     "Channel": "Basic Programming"
   },
   {
@@ -1219,14 +1219,14 @@
   },
   {
     "Id": "m-1qS-Sf6g0",
-    "Name": "BP-3-3-01 Целостность данных",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: f177f3c4-c0f8-4759-9d41-2cdb7f22ca15]",
+    "Name": "BP1-3-3-1 Целостность данных",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/f177f3c4-c0f8-4759-9d41-2cdb7f22ca15",
     "Channel": "Basic Programming"
   },
   {
     "Id": "hwvFP2XLGWk",
-    "Name": "BP-2-3-07 Быстрая сортировка",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 3.Поиск и сортировка\n[GUID: 0e86cf2f-a832-431c-a95e-8c7493eefbb5]",
+    "Name": "BP1-2-3-7 Быстрая сортировка",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/0e86cf2f-a832-431c-a95e-8c7493eefbb5",
     "Channel": "Basic Programming"
   },
   {
@@ -1333,8 +1333,8 @@
   },
   {
     "Id": "XwRgNLkkAuI",
-    "Name": "Расчет сложности алгоритм",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: 41b7d5ab-b3be-4c68-a882-0f78b34035bd]",
+    "Name": "BP1-2-1-3 Расчет сложности алгоритма",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/41b7d5ab-b3be-4c68-a882-0f78b34035bd",
     "Channel": "Basic Programming"
   },
   {
@@ -1357,242 +1357,242 @@
   },
   {
     "Id": "FiRKqdQV-hQ",
-    "Name": "BP-3-4-05 Боксинг и анбоксинг",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: fe30b329-13dc-4c9d-8312-80d1b87a0b61]",
+    "Name": "BP1-3-4-5 Боксинг и анбоксинг",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/fe30b329-13dc-4c9d-8312-80d1b87a0b61",
     "Channel": "Basic Programming"
   },
   {
     "Id": "BoKrLQRPjpA",
-    "Name": "BP-3-4-04 Ключевое слово ref",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: c1a1a9ab-499c-4c86-a322-fb44ab886be5]",
+    "Name": "BP1-3-4-4 Ключевое слово ref",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/c1a1a9ab-499c-4c86-a322-fb44ab886be5",
     "Channel": "Basic Programming"
   },
   {
     "Id": "NHqkpRjh5jU",
-    "Name": "BP-3-4-06 Структуры и свойства",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: 7c130420-2991-40b3-8d80-365e86964418]",
+    "Name": "BP1-3-4-6 Структуры и свойства",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/7c130420-2991-40b3-8d80-365e86964418",
     "Channel": "Basic Programming"
   },
   {
     "Id": "6kWx1s_BmVs",
-    "Name": "BP-3-4-07 Зачем нужны структуры",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: 03e03587-52ff-4e7b-9d42-62df93b4b972]",
+    "Name": "BP1-3-4-7 Зачем нужны структуры",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/03e03587-52ff-4e7b-9d42-62df93b4b972",
     "Channel": "Basic Programming"
   },
   {
     "Id": "yC8S-IBJO0E",
-    "Name": "BP-3-4-03 Передача структуры в метод",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: 2b2a5d5e-7325-4ae6-bb97-2d5f497e9b9b]",
+    "Name": "BP1-3-4-3 Передача структуры в метод",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2b2a5d5e-7325-4ae6-bb97-2d5f497e9b9b",
     "Channel": "Basic Programming"
   },
   {
     "Id": "0QXtOe9jPu4",
-    "Name": "Инициализация полей структуры",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: 3d0c5ed0-7260-41d0-b78a-450a036aa9f9]",
+    "Name": "BP1-3-4-2 Инициализация полей структуры",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3d0c5ed0-7260-41d0-b78a-450a036aa9f9",
     "Channel": "Basic Programming"
   },
   {
     "Id": "c18ptIGEwnI",
-    "Name": "BP-3-4-01 Объявление структуры",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 4.Структуры\n[GUID: 2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4]",
+    "Name": "BP1-3-4-1 Объявление структуры",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2f0b0caa-ce22-4068-93bb-e5c1a0f8a2a4",
     "Channel": "Basic Programming"
   },
   {
     "Id": "sVEPrOpYufE",
-    "Name": "BP-1-7-05 Покрытие тестами",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: 2971a973-379e-40ab-ad5e-49c398fa8567]",
+    "Name": "BP1-1-7-5 Покрытие тестами",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2971a973-379e-40ab-ad5e-49c398fa8567",
     "Channel": "Basic Programming"
   },
   {
     "Id": "bWh_1RZnL7E",
-    "Name": "BP-1-7-06 Test-driven development",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: 77ecefd6-2d45-4b39-ba60-c1ccd0e73bab]",
+    "Name": "BP1-1-7-6 Test-driven development",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/77ecefd6-2d45-4b39-ba60-c1ccd0e73bab",
     "Channel": "Basic Programming"
   },
   {
     "Id": "i8IkV-y3fps",
-    "Name": "BP-3-3-08 Статические конструкторы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: c85476a1-0886-488f-97e1-66227119ad4e]",
+    "Name": "BP1-3-3-8 Статические конструкторы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/c85476a1-0886-488f-97e1-66227119ad4e",
     "Channel": "Basic Programming"
   },
   {
     "Id": "5HK_46nmV_k",
-    "Name": "BP-3-3-06 Конструкторы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: 87ee724d-8b7d-4d9e-b4f7-ea29c0f055ff]",
+    "Name": "BP1-3-3-6 Конструкторы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/87ee724d-8b7d-4d9e-b4f7-ea29c0f055ff",
     "Channel": "Basic Programming"
   },
   {
     "Id": "cNSd8kDKK0E",
-    "Name": "BP-3-3-07 Поля readonly",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: 3f87c4cb-495d-4e12-8b61-d7134e5351da]",
+    "Name": "BP1-3-3-7 Поля readonly",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3f87c4cb-495d-4e12-8b61-d7134e5351da",
     "Channel": "Basic Programming"
   },
   {
     "Id": "5xrSyyjSiGA",
-    "Name": "BP-3-3-02 Ключевое слово private",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: f9e6780f-8b16-4c85-ac9d-2d205cc55e33]",
+    "Name": "BP1-3-3-2 Ключевое слово private",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/f9e6780f-8b16-4c85-ac9d-2d205cc55e33",
     "Channel": "Basic Programming"
   },
   {
     "Id": "HxyT3aOeq_M",
-    "Name": "BP-3-3-05 Больше свойств",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: 153f180e-1a1a-460a-b2e7-abfe72707a64]",
+    "Name": "BP1-3-3-5 Больше свойств",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/153f180e-1a1a-460a-b2e7-abfe72707a64",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ma_bwcRxxmE",
-    "Name": "BP-3-3-03 Отложенные ошибки",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: 3bf0e956-3258-4a4d-ac42-926dc8cbad3b]",
+    "Name": "BP1-3-3-3 Отложенные ошибки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3bf0e956-3258-4a4d-ac42-926dc8cbad3b",
     "Channel": "Basic Programming"
   },
   {
     "Id": "i7OFQlEMoSA",
-    "Name": "BP-3-3-04 Свойства",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 3.Целостность данных\n[GUID: 7894c024-7ed1-4e9c-87f7-5c3a3f6a4b17]",
+    "Name": "BP1-3-3-4 Свойства",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/7894c024-7ed1-4e9c-87f7-5c3a3f6a4b17",
     "Channel": "Basic Programming"
   },
   {
     "Id": "JjJ6U1X4sPk",
-    "Name": "BP-3-2-09 Виртуальные методы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 4c2cab0b-93dd-48ce-88ac-5115d9655642]",
+    "Name": "BP1-3-2-9 Виртуальные методы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/4c2cab0b-93dd-48ce-88ac-5115d9655642",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ODtgRp-U0a4",
-    "Name": "BP-3-2-05 Интерфейсы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 3df89dfb-7f0f-4123-82ac-364c3a426396]",
+    "Name": "BP1-3-2-5 Интерфейсы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3df89dfb-7f0f-4123-82ac-364c3a426396",
     "Channel": "Basic Programming"
   },
   {
     "Id": "aOpHYGQTyAM",
-    "Name": "BP-3-2-06 Реализация интерфейса IComparable",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 3fc355a6-1e3a-4202-9343-9825ccd9b691]",
+    "Name": "BP1-3-2-6 Реализация интерфейса IComparable",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3fc355a6-1e3a-4202-9343-9825ccd9b691",
     "Channel": "Basic Programming"
   },
   {
     "Id": "d8LqlJ0XXiw",
-    "Name": "BP-3-2-07 Интерфейс IComparer",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 432a64a7-80c7-4c4a-a3c3-85c054797b4a]",
+    "Name": "BP1-3-2-7 Интерфейс IComparer",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/432a64a7-80c7-4c4a-a3c3-85c054797b4a",
     "Channel": "Basic Programming"
   },
   {
     "Id": "tbR-1BFoBFE",
-    "Name": "BP-3-2-08 Полиморфизм",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 378b3a30-d080-4d49-bf2f-725c425af146]",
+    "Name": "BP1-3-2-8 Полиморфизм",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/378b3a30-d080-4d49-bf2f-725c425af146",
     "Channel": "Basic Programming"
   },
   {
     "Id": "RGfBuK16cFM",
-    "Name": "BP-3-2-04 Класс Array",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 4019ac61-37ae-435e-bd37-a90e8b3009a3]",
+    "Name": "BP1-3-2-4 Класс Array",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/4019ac61-37ae-435e-bd37-a90e8b3009a3",
     "Channel": "Basic Programming"
   },
   {
     "Id": "u8jnHaW_FP0",
-    "Name": "BP-3-2-02 Наследование",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: ac2b8cb6-8d63-4b81-9083-eaa77ab0c89c]",
+    "Name": "BP1-3-2-2 Наследование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/ac2b8cb6-8d63-4b81-9083-eaa77ab0c89c",
     "Channel": "Basic Programming"
   },
   {
     "Id": "7HvuCBHUioE",
-    "Name": "BP-3-2-03 Иерархия наследования",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 2.Наследование и полиморфизм\n[GUID: 382867ff-a6a2-45df-a53f-e3757ef74c64]",
+    "Name": "BP1-3-2-3 Иерархия наследования",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/382867ff-a6a2-45df-a53f-e3757ef74c64",
     "Channel": "Basic Programming"
   },
   {
     "Id": "wIcfbRquD9k",
-    "Name": "BP-3-1-05 FileInfo и DirectoryInfo",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 57b32e15-beed-4e75-9aee-dabc6af80bd7]",
+    "Name": "BP1-3-1-5 FileInfo и DirectoryInfo",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/57b32e15-beed-4e75-9aee-dabc6af80bd7",
     "Channel": "Basic Programming"
   },
   {
     "Id": "_NIB9Amr1qc",
-    "Name": "BP-3-1-06 Использование статических классов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 8adb5248-0361-4ca6-b2f9-851ead987603]",
+    "Name": "BP1-3-1-6 Использование статических классов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/8adb5248-0361-4ca6-b2f9-851ead987603",
     "Channel": "Basic Programming"
   },
   {
     "Id": "kjBo12P8h7s",
-    "Name": "Постановка проблемы наследования",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: a969ed1f-fc3e-4dcc-8d05-6015069e3dcf]",
+    "Name": "BP1-3-2-1 Постановка проблемы наследования",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/a969ed1f-fc3e-4dcc-8d05-6015069e3dcf",
     "Channel": "Basic Programming"
   },
   {
     "Id": "4vLNilBUwrA",
-    "Name": "BP-3-1-04 Методы расширения",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 01a1f9a5-c475-4af3-bef3-060f92e69a92]",
+    "Name": "BP1-3-1-4 Методы расширения",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/01a1f9a5-c475-4af3-bef3-060f92e69a92",
     "Channel": "Basic Programming"
   },
   {
     "Id": "cH67-457qK8",
-    "Name": "BP-3-1-03 Статические и динамические методы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 2d1586c6-b4b3-4228-8c04-c99c54f42eeb]",
+    "Name": "BP1-3-1-3 Статические и динамические методы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2d1586c6-b4b3-4228-8c04-c99c54f42eeb",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ETt0qj1SAx8",
-    "Name": "BP-3-1-01 Классы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 9eb68528-17cb-4d7f-99f3-40210a8f6cef]",
+    "Name": "BP1-3-1-1 Классы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/9eb68528-17cb-4d7f-99f3-40210a8f6cef",
     "Channel": "Basic Programming"
   },
   {
     "Id": "3_a2Az8ffaI",
-    "Name": "Архитектура тестируемых приложений",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: 3858d717-5752-44e9-a29f-31de96e1d793]",
+    "Name": "BP1-1-7-2 Архитектура тестируемых приложений",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3858d717-5752-44e9-a29f-31de96e1d793",
     "Channel": "Basic Programming"
   },
   {
     "Id": "YxFheXv6Vv8",
-    "Name": "BP-1-6-08 Кодировки",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: 57691cf5-8def-4747-9f41-ba9d74f8882a]",
+    "Name": "BP1-1-6-8 Кодировки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/57691cf5-8def-4747-9f41-ba9d74f8882a",
     "Channel": "Basic Programming"
   },
   {
     "Id": "8L-ljESNqmo",
-    "Name": "BP-1-5-06 Массивы массивов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 49b56a8a-f0d1-4829-ae6f-eb2b6b69f63f]",
+    "Name": "BP1-1-5-6 Массивы массивов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/49b56a8a-f0d1-4829-ae6f-eb2b6b69f63f",
     "Channel": "Basic Programming"
   },
   {
     "Id": "kdQi5fPddIo",
-    "Name": "BP-3-1-02 Статическое и динамическое",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 3.Основы ООП\nЛекция 1.Инкапсуляция\n[GUID: 9ab27cb1-cd14-4248-89d5-5981490bb766]",
+    "Name": "BP1-3-1-2 Статическое и динамическое",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/9ab27cb1-cd14-4248-89d5-5981490bb766",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ooh2lcIxAmk",
-    "Name": "BP-1-1-02 Типы данных. Числовые типы.",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 1.Hello, world!\n[GUID: 8e4d3d2e-cb33-4b93-a4ea-f75dde615cf8]",
+    "Name": "BP1-1-1-2 Типы данных. Числовые типы.",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/8e4d3d2e-cb33-4b93-a4ea-f75dde615cf8",
     "Channel": "Basic Programming"
   },
   {
     "Id": "z01f-GAemHY",
-    "Name": "Сравнение алгоритмов сортировки",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: d70fbf0e-c4bf-42c1-9723-c3bdfeb66691]",
+    "Name": "BP1-2-3-8 Сравнение алгоритмов сортировки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/d70fbf0e-c4bf-42c1-9723-c3bdfeb66691",
     "Channel": "Basic Programming"
   },
   {
     "Id": "3bRVv7MFImw",
-    "Name": "Анализ алгоритма линейного поиска",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: 3a384f49-5b95-43f8-9940-ad4b19763c4d]",
+    "Name": "BP1-2-3-2 Анализ алгоритма линейного поиска",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3a384f49-5b95-43f8-9940-ad4b19763c4d",
     "Channel": "Basic Programming"
   },
   {
     "Id": "VZ0ARjWMAyo",
-    "Name": "BP-2-3-05 Сортировка пузырьком",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 3.Поиск и сортировка\n[GUID: a98505e4-b1aa-4956-8b12-b7d1e95d8072]",
+    "Name": "BP1-2-3-5 Сортировка пузырьком",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/a98505e4-b1aa-4956-8b12-b7d1e95d8072",
     "Channel": "Basic Programming"
   },
   {
     "Id": "pA_UksPvIr8",
-    "Name": "Анализ алгоритма бинарного поиска",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: fd0b0306-9ea0-4592-bfd6-6b394fea62dc]",
+    "Name": "BP1-2-3-3 Анализ алгоритма бинарного поиска",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/fd0b0306-9ea0-4592-bfd6-6b394fea62dc",
     "Channel": "Basic Programming"
   },
   {
     "Id": "QbpOxn3ARmI",
-    "Name": "BP-1-3-02 Операторы if и else",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 3.Ветвления\n[GUID: bb48d244-6b0a-4497-aa34-97f41280e99d]",
+    "Name": "BP1-1-3-2 Операторы if и else",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/bb48d244-6b0a-4497-aa34-97f41280e99d",
     "Channel": "Basic Programming"
   },
   {
@@ -1603,320 +1603,320 @@
   },
   {
     "Id": "gNYKKnmqoX4",
-    "Name": "BP-2-2-06 Перебор перестановок",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: e20cfb08-69f4-43d1-8f18-1c7498efaa80]",
+    "Name": "BP1-2-2-6 Перебор перестановок",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/e20cfb08-69f4-43d1-8f18-1c7498efaa80",
     "Channel": "Basic Programming"
   },
   {
     "Id": "Q62zWcdBCog",
-    "Name": "BP-1-1-03 Строки",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 1.Hello, world!\n[GUID: 486be963-fbda-4c05-b56a-c226a39c3b78]",
+    "Name": "BP1-1-1-3 Строки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/486be963-fbda-4c05-b56a-c226a39c3b78",
     "Channel": "Basic Programming"
   },
   {
     "Id": "dYEutOH_dXA",
-    "Name": "BP-1-1-01 Hello, world!",
-    "Description": "Test\n[GUID: 70597ba7-f436-4301-816d-17dc34551bdb]",
+    "Name": "BP1-1-1-1 Hello, world!",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/70597ba7-f436-4301-816d-17dc34551bdb",
     "Channel": "Basic Programming"
   },
   {
     "Id": "zovN6wClw5c",
-    "Name": "BP-1-2-04 Эксперименты",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: 2d586c07-db8d-439b-b651-28057fd5e7f3]",
+    "Name": "BP1-1-2-4 Эксперименты",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2d586c07-db8d-439b-b651-28057fd5e7f3",
     "Channel": "Basic Programming"
   },
   {
     "Id": "QS-opNme290",
-    "Name": "BP-2-2-05 Перебор подмножеств",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: 67cb3e0c-6cf3-49c0-ac8d-4c2b58b262d3]",
+    "Name": "BP1-2-2-5 Перебор подмножеств",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/67cb3e0c-6cf3-49c0-ac8d-4c2b58b262d3",
     "Channel": "Basic Programming"
   },
   {
     "Id": "GknsLKazNIw",
-    "Name": "BP-1-6-07 Файлы и каталоги",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: 34344188-0135-47f4-9e82-f6749d23de14]",
+    "Name": "BP1-1-6-7 Файлы и каталоги",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/34344188-0135-47f4-9e82-f6749d23de14",
     "Channel": "Basic Programming"
   },
   {
     "Id": "9sfInk1wSBE",
-    "Name": "Стратегия разделяй и властвуй",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: c233ec6f-5803-48e5-a67c-b5824baa7582]",
+    "Name": "BP1-2-2-4 Стратегия Разделяй и властвуй",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/c233ec6f-5803-48e5-a67c-b5824baa7582",
     "Channel": "Basic Programming"
   },
   {
     "Id": "WyvMdOX9Vco",
-    "Name": "BP-1-7-09 Внедрение модульных тестов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: 15c12c0c-1485-4cbd-8987-0865d3e52cdd]",
+    "Name": "BP1-1-7-9 Внедрение модульных тестов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/15c12c0c-1485-4cbd-8987-0865d3e52cdd",
     "Channel": "Basic Programming"
   },
   {
     "Id": "7hiaKD2mDn8",
-    "Name": "BP-2-3-04 Сравнение производительности поисков",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 3.Поиск и сортировка\n[GUID: b1244761-2c00-48aa-a079-5927ebccd87c]",
+    "Name": "BP1-2-3-4 Сравнение производительности поисков",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/b1244761-2c00-48aa-a079-5927ebccd87c",
     "Channel": "Basic Programming"
   },
   {
     "Id": "nX2QeYilOd8",
-    "Name": "BP-2-3-01 Бинарный поиск",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 3.Поиск и сортировка\n[GUID: d48408e2-8baf-4742-8f87-c0c866ee4d38]",
+    "Name": "BP1-2-3-1 Бинарный поиск",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/d48408e2-8baf-4742-8f87-c0c866ee4d38",
     "Channel": "Basic Programming"
   },
   {
     "Id": "d9Beustq6Wg",
-    "Name": "BP-2-2-07 Перебор размещений",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: 52a6c385-576a-4da1-b9cb-d74ca5dba296]",
+    "Name": "BP1-2-2-7 Перебор размещений",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/52a6c385-576a-4da1-b9cb-d74ca5dba296",
     "Channel": "Basic Programming"
   },
   {
     "Id": "vq_v5xd13WU",
-    "Name": "BP-2-2-03 Более сложный алгоритм",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: ca257385-d589-41e8-a0f9-540c8c3d998a]",
+    "Name": "BP1-2-2-3 Более сложный алгоритм",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/ca257385-d589-41e8-a0f9-540c8c3d998a",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ruWyL5k1tG0",
-    "Name": "BP-2-2-02 Дерево рекурсивных вызовов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: 670fa739-0f73-450c-b877-eaa6264a34fc]",
+    "Name": "BP1-2-2-2 Дерево рекурсивных вызовов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/670fa739-0f73-450c-b877-eaa6264a34fc",
     "Channel": "Basic Programming"
   },
   {
     "Id": "doR1W-hI3qU",
-    "Name": "BP-2-2-01 Рекурсия",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 2.Рекурсия и переборные алгоритмы\n[GUID: caec41b0-3166-40c0-9ded-3941c7f0b91d]",
+    "Name": "BP1-2-2-1 Рекурсия",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/caec41b0-3166-40c0-9ded-3941c7f0b91d",
     "Channel": "Basic Programming"
   },
   {
     "Id": "aQWTrGM6HEg",
-    "Name": "BP-2-1-01 О важности алгоритмов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 1.Алгоритмы и их сложность\n[GUID: 0728da8d-eb4e-4cd6-873e-a41363755f49]",
+    "Name": "BP1-2-1-1 О важности алгоритмов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/0728da8d-eb4e-4cd6-873e-a41363755f49",
     "Channel": "Basic Programming"
   },
   {
     "Id": "vz3YSTi2XQY",
-    "Name": "Классы сложности и заключительные замечания",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 1. Графы и обходы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: f33dd5c4-0a6d-41ec-a039-4c2b08e0ffb1]",
+    "Name": "BP1-2-1-8 Классы сложности и заключительные замечания",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/f33dd5c4-0a6d-41ec-a039-4c2b08e0ffb1",
     "Channel": "Basic Programming"
   },
   {
     "Id": "fy4fSRDjPTs",
-    "Name": "Сложность алгоритмов, работающих с числами",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: 4a772b80-3372-4ab0-9ae0-19a361699150]",
+    "Name": "BP1-2-1-7 Сложность алгоритмов, работающих с числами",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/4a772b80-3372-4ab0-9ae0-19a361699150",
     "Channel": "Basic Programming"
   },
   {
     "Id": "qwx_pCfSyN0",
-    "Name": "BP-2-1-06 Оценка сложности алгоритма",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 1.Алгоритмы и их сложность\n[GUID: 1b8d1b4d-1da0-4964-ad1b-190242661076]",
+    "Name": "BP1-2-1-6 Оценка сложности алгоритма",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/1b8d1b4d-1da0-4964-ad1b-190242661076",
     "Channel": "Basic Programming"
   },
   {
     "Id": "HOoYSOdTroU",
-    "Name": "BP-2-1-05 О-символика",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 1.Алгоритмы и их сложность\n[GUID: 6a74a6e4-bef5-4e35-9d4c-6baf62ccee41]",
+    "Name": "BP1-2-1-5 О-символика",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/6a74a6e4-bef5-4e35-9d4c-6baf62ccee41",
     "Channel": "Basic Programming"
   },
   {
     "Id": "bfvDe2M5LVE",
-    "Name": "BP-2-1-04 Масштаб роста функций",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 1.Алгоритмы и их сложность\n[GUID: 2738b458-b461-4981-bbcf-3dbc4a7120a2]",
+    "Name": "BP1-2-1-4 Масштаб роста функций",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/2738b458-b461-4981-bbcf-3dbc4a7120a2",
     "Channel": "Basic Programming"
   },
   {
     "Id": "TmU1e5OuRr4",
-    "Name": "BP-2-1-02 Основные определения",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 2.Анализ алгоритмов\nЛекция 1.Алгоритмы и их сложность\n[GUID: 7e1aac61-118d-490b-ab5f-b01bd1926199]",
+    "Name": "BP1-2-1-2 Основные определения",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/7e1aac61-118d-490b-ab5f-b01bd1926199",
     "Channel": "Basic Programming"
   },
   {
     "Id": "6jo2hk4ntV8",
-    "Name": "BP-1-3-01 Сравнение и логический тип",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 3.Ветвления\n[GUID: b9d7e382-84ce-43f7-941b-c507fef25a41]",
+    "Name": "BP1-1-3-1 Сравнение и логический тип",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/b9d7e382-84ce-43f7-941b-c507fef25a41",
     "Channel": "Basic Programming"
   },
   {
     "Id": "8FWm-v0e-Ro",
-    "Name": "Рефакторинг. Выделение метода.",
-    "Description": "Модуль 3. Алгоритмы и структуры данных\r\nЛекция 2. Жадные алгоритмы\r\nПосетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\n[GUID: f2c3bc26-335e-4267-844c-38437c74f197]",
+    "Name": "BP1-1-2-8 Рефакторинг - выделение метода",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/f2c3bc26-335e-4267-844c-38437c74f197",
     "Channel": "Basic Programming"
   },
   {
     "Id": "qypMA0C1_NE",
-    "Name": "BP-1-2-07 Рефакторинг - константы и enum",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: f1740706-b8e2-4bd4-ab87-3cc710a52449]",
+    "Name": "BP1-1-2-7 Рефакторинг - константы и enum",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/f1740706-b8e2-4bd4-ab87-3cc710a52449",
     "Channel": "Basic Programming"
   },
   {
     "Id": "va3WnTrOHr8",
-    "Name": "BP-1-2-06 Рефакторинг - конвенция именования, DRY",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: 677bdd3b-468d-4ccc-9af8-c2644db494a8]",
+    "Name": "BP1-1-2-6 Рефакторинг - конвенция именования, DRY",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/677bdd3b-468d-4ccc-9af8-c2644db494a8",
     "Channel": "Basic Programming"
   },
   {
     "Id": "jFcZaDkvzYI",
-    "Name": "BP-1-2-05 Стилистические ошибки",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: a9b1b06f-8135-43ae-ad4f-afce87906378]",
+    "Name": "BP1-1-2-5 Стилистические ошибки",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/a9b1b06f-8135-43ae-ad4f-afce87906378",
     "Channel": "Basic Programming"
   },
   {
     "Id": "bxwvWZRG8Mk",
-    "Name": "BP-1-2-03 Отладка",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: 5a1602f6-9926-4309-9cb2-21ec6bd1d840]",
+    "Name": "BP1-1-2-3 Отладка",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/5a1602f6-9926-4309-9cb2-21ec6bd1d840",
     "Channel": "Basic Programming"
   },
   {
     "Id": "Nn_Dba8MqB0",
-    "Name": "BP-1-2-02 Ошибки выполнения программы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: 5f84c5fc-f58e-4bd4-8f05-cb372793c5ff]",
+    "Name": "BP1-1-2-2 Ошибки выполнения программы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/5f84c5fc-f58e-4bd4-8f05-cb372793c5ff",
     "Channel": "Basic Programming"
   },
   {
     "Id": "28v3_TnCR0A",
-    "Name": "BP-1-2-01 Ошибки компиляции",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 2.Ошибки\n[GUID: ba4e3423-423a-4622-b2ca-0495f628cf74]",
+    "Name": "BP1-1-2-1 Ошибки компиляции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/ba4e3423-423a-4622-b2ca-0495f628cf74",
     "Channel": "Basic Programming"
   },
   {
     "Id": "1iw5osYSRH0",
-    "Name": "BP-1-1-06 Локальные и глобальные переменные",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 1.Hello, world!\n[GUID: 3d36666d-c973-4c0a-938a-ac71ce3847fe]",
+    "Name": "BP1-1-1-6 Локальные и глобальные переменные",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3d36666d-c973-4c0a-938a-ac71ce3847fe",
     "Channel": "Basic Programming"
   },
   {
     "Id": "C_T7UeSzuA0",
-    "Name": "BP-1-1-05 Методы и Intellisence",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 1.Hello, world!\n[GUID: 45b1b595-0489-4713-bc82-22e188fd8472]",
+    "Name": "BP1-1-1-5 Методы и Intellisence",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/45b1b595-0489-4713-bc82-22e188fd8472",
     "Channel": "Basic Programming"
   },
   {
     "Id": "XXaBGa65F5A",
-    "Name": "BP-1-1-04 Арифметические выражения",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 1.Hello, world!\n[GUID: 03dba3bd-60d3-417f-a44c-d5319da3245f]",
+    "Name": "BP1-1-1-4 Арифметические выражения",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/03dba3bd-60d3-417f-a44c-d5319da3245f",
     "Channel": "Basic Programming"
   },
   {
     "Id": "f0KjSjAJ6bA",
-    "Name": "BP-1-4-04 Сравнение for и while",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 4.Циклы\n[GUID: fa170247-1e5e-48c4-82b9-bbddcdeefa00]",
+    "Name": "BP1-1-4-4 Сравнение for и while",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/fa170247-1e5e-48c4-82b9-bbddcdeefa00",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ACgYan8WWOM",
-    "Name": "BP-1-4-03 Цикл for",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 4.Циклы\n[GUID: 1edb84f9-a115-42f9-94b3-d99b1b11eaac]",
+    "Name": "BP1-1-4-3 Цикл for",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/1edb84f9-a115-42f9-94b3-d99b1b11eaac",
     "Channel": "Basic Programming"
   },
   {
     "Id": "T7DUEXKyHKg",
-    "Name": "BP-1-4-02 Рефакторинг while",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 4.Циклы\n[GUID: 0aae7844-95e5-48e1-8383-12918cbcb725]",
+    "Name": "BP1-1-4-2 Рефакторинг while",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/0aae7844-95e5-48e1-8383-12918cbcb725",
     "Channel": "Basic Programming"
   },
   {
     "Id": "AX-_VG22Y2s",
-    "Name": "BP-1-4-01 while, break, continue",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 4.Циклы\n[GUID: 3346baa2-9436-46fa-ac7c-3d392ce858b3]",
+    "Name": "BP1-1-4-1 while, break, continue",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3346baa2-9436-46fa-ac7c-3d392ce858b3",
     "Channel": "Basic Programming"
   },
   {
     "Id": "_zAA-s8DSdQ",
-    "Name": "BP-1-3-03 Типичные ошибки ветвлений",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 3.Ветвления\n[GUID: 0fda40fe-41e6-4cfe-a22a-c1722659f697]",
+    "Name": "BP1-1-3-3 Типичные ошибки ветвлений",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/0fda40fe-41e6-4cfe-a22a-c1722659f697",
     "Channel": "Basic Programming"
   },
   {
     "Id": "3Av5u4IKSBg",
-    "Name": "BP-1-7-01 Баги и тестирование",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: fc83621d-5787-42fa-81b9-4ba30575c963]",
+    "Name": "BP1-1-7-1 Баги и тестирование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/fc83621d-5787-42fa-81b9-4ba30575c963",
     "Channel": "Basic Programming"
   },
   {
     "Id": "7G-qfbesO34",
-    "Name": "BP-1-7-08 Значение тестирования",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: 8febda2b-9173-45e0-978e-babcbef80c3c]",
+    "Name": "BP1-1-7-8 Значение тестирования",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/8febda2b-9173-45e0-978e-babcbef80c3c",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ymfu0ODDjn0",
-    "Name": "BP-1-7-07 Функциональное тестирование",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: 0c204a2b-8725-43a8-be0c-7efdbc8dbece]",
+    "Name": "BP1-1-7-7 Функциональное тестирование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/0c204a2b-8725-43a8-be0c-7efdbc8dbece",
     "Channel": "Basic Programming"
   },
   {
     "Id": "1njU3twK97w",
-    "Name": "BP-1-7-04 Больше модульных тестов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: c92a05e8-e3fc-486d-9a66-712f2dffde5b]",
+    "Name": "BP1-1-7-4 Больше модульных тестов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/c92a05e8-e3fc-486d-9a66-712f2dffde5b",
     "Channel": "Basic Programming"
   },
   {
     "Id": "7dZ-OlhVpQc",
-    "Name": "BP-1-7-03 Создание модульного теста",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 7.Автоматическое тестирование\n[GUID: a6a25e35-38a4-4caa-a1ac-699e2c0a0778]",
+    "Name": "BP1-1-7-3 Создание модульного теста",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/a6a25e35-38a4-4caa-a1ac-699e2c0a0778",
     "Channel": "Basic Programming"
   },
   {
     "Id": "EXenLjobvwc",
-    "Name": "BP-1-6-06 Форматированный вывод",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: 3782dc47-c7b1-49da-bb4a-5ac69c0f5948]",
+    "Name": "BP1-1-6-6 Форматированный вывод",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/3782dc47-c7b1-49da-bb4a-5ac69c0f5948",
     "Channel": "Basic Programming"
   },
   {
     "Id": "8iMakRG35i4",
-    "Name": "BP-1-6-05 Спецсимволы и экранирование",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: cb90038b-c6ea-46cf-a181-6d572b2d517e]",
+    "Name": "BP1-1-6-5 Спецсимволы и экранирование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/cb90038b-c6ea-46cf-a181-6d572b2d517e",
     "Channel": "Basic Programming"
   },
   {
     "Id": "5CzbNN73B3k",
-    "Name": "BP-1-6-04 StringBuilder",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: 219100aa-04d8-4731-b6e7-75e9383eff7b]",
+    "Name": "BP1-1-6-4 StringBuilder",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/219100aa-04d8-4731-b6e7-75e9383eff7b",
     "Channel": "Basic Programming"
   },
   {
     "Id": "hqoVg1bFwcY",
-    "Name": "BP-1-6-03 Неизменяемость строк",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: 36d56e61-302d-4e58-a1cc-bc9c1b242d48]",
+    "Name": "BP1-1-6-3 Неизменяемость строк",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/36d56e61-302d-4e58-a1cc-bc9c1b242d48",
     "Channel": "Basic Programming"
   },
   {
     "Id": "OMxsc6Csj4k",
-    "Name": "BP-1-5-03 Значение null, типы-значения и ссылочные типы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 45a4bd20-d8fc-4931-8d8a-5d74eb388290]",
+    "Name": "BP1-1-5-3 Значение null, типы-значения и ссылочные типы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/45a4bd20-d8fc-4931-8d8a-5d74eb388290",
     "Channel": "Basic Programming"
   },
   {
     "Id": "1WaWDgBxyYc",
-    "Name": "BP-1-6-02 Словари",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: c03e8a39-957d-4a82-8cd6-72be3cd53db1]",
+    "Name": "BP1-1-6-2 Словари",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/c03e8a39-957d-4a82-8cd6-72be3cd53db1",
     "Channel": "Basic Programming"
   },
   {
     "Id": "KwFrLY_aRyo",
-    "Name": "BP-1-6-01 Листы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 6.Коллекции, строки и файлы\n[GUID: eb0af5c2-4d17-4723-ba84-75cf9f9ee8d1]",
+    "Name": "BP1-1-6-1 Листы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/eb0af5c2-4d17-4723-ba84-75cf9f9ee8d1",
     "Channel": "Basic Programming"
   },
   {
     "Id": "tlE1-K0JE5w",
-    "Name": "BP-1-5-05 Многомерные массивы",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 8c0ee068-77e0-443f-8ffb-fe89cbdb57c0]",
+    "Name": "BP1-1-5-5 Многомерные массивы",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/8c0ee068-77e0-443f-8ffb-fe89cbdb57c0",
     "Channel": "Basic Programming"
   },
   {
     "Id": "1HAWcDvZZFA",
-    "Name": "BP-1-5-02 Сокращенная инициализация массивов",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 6941594b-3e70-4194-a553-31b7a5def543]",
+    "Name": "BP1-1-5-2 Сокращенная инициализация массивов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/6941594b-3e70-4194-a553-31b7a5def543",
     "Channel": "Basic Programming"
   },
   {
     "Id": "ukrsujsZtc0",
-    "Name": "BP-1-5-01 Массивы. Оператор foreach",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 728f7ec0-e504-4896-a75f-a663a8be5c3d]",
+    "Name": "BP1-1-5-1 Массивы. Оператор foreach",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/728f7ec0-e504-4896-a75f-a663a8be5c3d",
     "Channel": "Basic Programming"
   },
   {
     "Id": "UW8A9_r3XCQ",
-    "Name": "BP-1-5-04 Передача массива в метод",
-    "Description": "Посетите страницы курса http://vk.com/basicprogramming и http://ulearn.azurewebsites.net/ для получения дополнительной информации, упражнений, вопросов по видео и его обсуждения.\nМодуль 1.Введение в C#\nЛекция 5.Массивы и ссылочные типы\n[GUID: 9dd6427f-dd99-4271-9e3e-5eddfd286d9e]",
+    "Name": "BP1-1-5-4 Передача массива в метод",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/9dd6427f-dd99-4271-9e3e-5eddfd286d9e",
     "Channel": "Basic Programming"
   },
   {
