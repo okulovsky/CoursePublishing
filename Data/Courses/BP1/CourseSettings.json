@@ -1,0 +1,14 @@
+{
+  "Youtube": {
+    "PlayListLevels": [
+      2
+    ],
+    "Channel": "Basic Programming",
+    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнения и изучайте основы программирования на нашем сайте! https://ulearn.azurewebsites.net/Slide/{GUID}",
+    "IgnorePlaylists": true
+  },
+  "Ulearn": {
+    "Path": "",
+    "FoldersLevel": 2
+  }
+}

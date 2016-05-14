@@ -22,6 +22,8 @@ namespace CoursePublishing
 
         public string DescriptionPattern { get; set; } = "";
 
+        public bool IgnorePlaylists { get; set; } = false;
+
         public YoutubeSyncSettings()
         {
         }

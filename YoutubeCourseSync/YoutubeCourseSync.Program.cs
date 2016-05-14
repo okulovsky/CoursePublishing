@@ -33,16 +33,21 @@ namespace YoutubeCourseSync
             if (!CheckMissingVideos()) return;
             MakeMargins();
             UpdateVideos();
-            foreach (var e in Settings.PlayListLevels)
-                UpdatePlaylistsForLevel(e);
+
+            if (!Settings.IgnorePlaylists)
+                foreach (var e in Settings.PlayListLevels)
+                    UpdatePlaylistsForLevel(e);
 
             if (AskAndExecute())
             {
                 Publishing.Common.UpdateList(Clips.Values.ToList(), z => z.Id);
-                Publishing.Common.UpdateList(Playlists.Values.ToList(), z => z.Id);
-                Publishing.Common.UpdateList(
-                    Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
-                    z => z.Guid.ToString());
+                if (!Settings.IgnorePlaylists)
+                {
+                    Publishing.Common.UpdateList(Playlists.Values.ToList(), z => z.Id);
+                    Publishing.Common.UpdateList(
+                        Playlists.Select(z => new TopicToYoutubePlaylist(z.Key, z.Value.Id)).ToList(),
+                        z => z.Guid.ToString());
+                }
             }
         }
 
