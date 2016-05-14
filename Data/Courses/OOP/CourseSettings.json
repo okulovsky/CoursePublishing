@@ -4,7 +4,8 @@
       2
     ],
     "Channel": "Kontur.Academy",
-    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/{GUID}"
+    "DescriptionPattern": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/{GUID}",
+    "IgnorePlaylists": false
   },
   "Ulearn": {
     "Path": "C:\\Users\\Yura\\Desktop\\oop\\OOP\\OOP",

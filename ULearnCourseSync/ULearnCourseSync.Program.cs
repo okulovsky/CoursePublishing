@@ -32,7 +32,7 @@ namespace ULearnCourseSync
         Dictionary<Guid, YoutubeClip> Clips;
         Dictionary<string, Guid> ClipToGuid;
         DirectoryInfo StartFolder;
-        List<DirectoryInfo> ExistingDirectories;
+        Dictionary<Guid, string> SectionToFolder;
 
 
         static Regex GuidRegex = new Regex(@"\[Slide\(.+, ?""([0-9a-fA-F-]+)""\)\]");
@@ -53,7 +53,7 @@ namespace ULearnCourseSync
 
         void Initialize()
         { 
-            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(3).Ulearn;
             Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
 
@@ -97,37 +97,45 @@ namespace ULearnCourseSync
 
         void ShowFoldersStructure()
         {
-            ExistingDirectories = StartFolder.GetDirectories("L*").ToList();
+            SectionToFolder = new Dictionary<Guid, string>();
+            var ExistingDirectories = StartFolder.GetDirectories("L*").ToList();
             var dueFolders = Structure
                 .Items
                 .Sections()
                 .Where(z => z.Level == Settings.FoldersLevel)
                 .ToList();
 
-            for (int i=ExistingDirectories.Count;i<dueFolders.Count;i++)
-            {
-                var folderName = FolderNameFor(dueFolders[i]);
-
-                var info = StartFolder.CreateSubdirectory(folderName);
-
-                File.WriteAllText(
-                    Path.Combine(info.FullName, "Title.txt"),
-                    dueFolders[i].Name);
-
-
-                ExistingDirectories.Add(info);
-            }
-
             for (int i = 0; i < ExistingDirectories.Count; i++)
             {
                 Console.WriteLine("{0,-30}{1,-30}",
-                    ExistingDirectories[i].Name,
+                    i < ExistingDirectories.Count ? ExistingDirectories[i].Name : "",
                     i < dueFolders.Count ? dueFolders[i].Name : "");
+
+                if (i < ExistingDirectories.Count && i < dueFolders.Count)
+                    SectionToFolder[dueFolders[i].Guid] = ExistingDirectories[i].FullName;
             }
+
+            for (int i=ExistingDirectories.Count;i<dueFolders.Count;i++)
+            {
+                var folderName = FolderNameFor(dueFolders[i]);
+                SectionToFolder[dueFolders[i].Guid] = folderName;
+                AddAction("Creating folder folderName", () => CreatingSubdirectory(folderName, dueFolders[i].Name));
+            }
+
+
             Console.WriteLine();
         }
 
-        IEnumerable<SlideData> GetVideoSlides()
+        void CreatingSubdirectory(string folderName, string name)
+        {
+            var info = StartFolder.CreateSubdirectory(folderName);
+
+            File.WriteAllText(
+                Path.Combine(info.FullName, "Title.txt"),
+                name);
+        }
+
+            IEnumerable<SlideData> GetVideoSlides()
         {
             var files = StartFolder.GetFiles("S*", SearchOption.AllDirectories);
             foreach (var f in files)
@@ -183,9 +191,11 @@ namespace ULearnCourseSync
 
                 if (ClipToGuid.ContainsKey(e.IdMatch))
                 {
+                    var realGuid = ClipToGuid[e.IdMatch];
                     AddAction(
                         $"Changing GUID in {e.RelativePath}",
-                        ()=>ChangeGuid(e, ClipToGuid[e.IdMatch]));
+                        ()=>ChangeGuid(e, realGuid));
+                    VideoGuids[realGuid].Add(e.RelativePath);
                 }
             }
 
@@ -204,7 +214,7 @@ namespace ULearnCourseSync
                 if (!data.ContainsKey(e)) throw new Exception("This should be impossible");
                 var d = data[e];
                 var section = d.Path.Where(z => z.Section.Level == Settings.FoldersLevel).First().Section;
-                var folderName = FolderNameFor(section);
+                var folderName = SectionToFolder[section.Guid];
                 var slideNum = section.Items.VideoGuids().ToList().IndexOf(d.Item.VideoGuid.Value);
                 var slideName = string.Format("S{0:D3} - {1}.cs",
                     (slideNum + 1) * 10,
@@ -214,9 +224,8 @@ namespace ULearnCourseSync
             }
         }
 
-        private void CreateSlide(string relativePath, Guid e, YoutubeClip youtubeClip, Video video)
+        private void CreateSlide(string absolutePath, Guid e, YoutubeClip youtubeClip, Video video)
         {
-            var fullPath = Path.Combine(StartFolder.FullName, relativePath);
             var template = @"
 using System;
 using System.IO;
@@ -238,7 +247,7 @@ namespace {0}
                 e,
                 csName,
                 youtubeClip.Id);
-            File.WriteAllText(fullPath, text);
+            File.WriteAllText(absolutePath, text);
         }
                 
 

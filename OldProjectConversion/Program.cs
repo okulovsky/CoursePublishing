@@ -102,7 +102,9 @@ namespace OldProjectConversion
         static void Main(string[] args)
         {
             //ProcessFolder(@"C:\Users\Yura\Desktop\OldPublishings\AIML\Publishing","AIML");
-            ProcessFolder(@"C:\Users\Yura\Desktop\OldPublishings\BP-Publishing\volume1\", "BP1");
+            //ProcessFolder(@"C:\Users\Yura\Desktop\OldPublishings\BP-Publishing\volume1\", "BP1");
+            ProcessFolder(@"C:\Users\Yura\Desktop\OldPublishings\BP-Publishing\volume2\", "BP2");
+
         }
     }
 }
