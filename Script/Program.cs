@@ -13,7 +13,7 @@ namespace Script
         {
             foreach(var e in new[] { "OOP", "LHPS", "Hackerdom", "AIML" })
             {
-                var s = Publishing.Courses[e].Load<Structure>();
+                var s = Publishing.Courses[e    ].Load<Structure>();
                 Publishing.SaveCourseStructure(s, e);
             }
         }
