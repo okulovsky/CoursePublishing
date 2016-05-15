@@ -1,0 +1,219 @@
+{
+  "Videos": {},
+  "Steps": {},
+  "Lessons": {
+    "1157b650-63ed-4d48-94ba-3974b477f420": 27568,
+    "692482f7-5203-49ac-99b2-84bc1c5d4e29": 27569,
+    "60716e4e-25b5-4e53-977e-fc8d0bca65c0": 27570,
+    "b07300b4-f800-4624-ad7c-d176742d7738": 27571,
+    "c3c91fb2-ea12-4fdc-a96b-f113cda27e9a": 27572,
+    "d8d0463c-07cd-427e-88ff-11f3f0d7939a": 27573,
+    "e0e4b4cf-5031-4370-b3b1-1ec2fbeeb922": 27574,
+    "aae32c32-3444-436c-82aa-c6180eac68d1": 27575,
+    "71e7801a-2029-4422-beb0-688156aa2fe6": 27576,
+    "ad71573a-3391-4761-8d45-c0731c970a71": 27577,
+    "a557a956-dd95-4b45-9485-438a2dbc24fc": 27578,
+    "7c59d21f-3ada-404c-aa1f-cfbea1e5613d": 27579,
+    "3c97e1f0-8691-4c79-8592-f9d9cc4dd708": 27580,
+    "b98c8f63-e470-4564-b052-908edb22423f": 27581,
+    "74453df0-0b07-4c8b-b6cc-b4c6a103bd0e": 27582,
+    "e5399996-960b-43bd-acbc-b3c3be428781": 27583,
+    "11a822da-dfdc-4beb-b4ef-5f43c07d285b": 27584,
+    "d7b53d3b-b676-487d-90b1-365989a7dc34": 27585,
+    "04019a14-b4a0-4c26-b7b8-6ce9f18a9e20": 27586,
+    "aeccd8fc-f968-4832-b869-74761ce11602": 27587,
+    "a18d73d2-bd40-48cd-a821-8f43abbbc0ce": 27588,
+    "9d5a04e5-6734-4b30-909c-3aab32af6b58": 27589,
+    "ce527d22-f3d4-43ab-9859-f191e877015c": 27590,
+    "08699425-3b15-4c63-ba1b-a9a95c761140": 27591,
+    "632cdfab-12fc-4d19-bb24-2b242b2ed348": 27592,
+    "4124f8cf-b012-47e3-b2b9-8c00aeab0489": 27593,
+    "9ea904ea-c202-4ac7-ae1a-311850731649": 27594,
+    "3dc2c299-8c7b-40f7-934d-d079d259f116": 27595,
+    "4b05d503-e80d-4b00-8fd2-a4bf5bdbe949": 27596,
+    "68abced4-7a7e-4041-bd09-2a7ba5dc9794": 27597,
+    "38239ffd-77a9-4c81-975d-2c77ef763f5c": 27598,
+    "d3b1f6cd-b5a2-4b51-83b0-7062d8be20cb": 27599,
+    "951fa537-985f-4b58-b30a-1a401826b212": 27600
+  },
+  "Sections": {
+    "0bf551e8-fe4c-488e-b026-3437ac701246": 1711,
+    "6d74c000-c9f6-4b30-8767-2c57ea894bdc": 1712,
+    "8c25a058-c6e7-4e31-8eef-61c635cfd020": 1713,
+    "dc697910-3e3e-400a-8b23-a69bb3738be5": 1714,
+    "47e59cf5-7015-4920-920c-35d2cce217d7": 1715,
+    "b1d01a14-03a1-43b1-a356-0cb954a62bff": 1716,
+    "bd7d7f44-bec2-45c0-9146-3f124226df10": 1717,
+    "85f2a23b-ce76-4361-b9da-8890f2a8a1b2": 1718,
+    "57e38135-5283-4a31-a9a7-476ae12cfb92": 1719,
+    "1fa4a390-f102-45f9-aac9-7942c47ca29d": 1720,
+    "97a77439-7d75-42df-bda2-39770f19bdb8": 1721,
+    "a846e73a-2f4f-4cff-9887-5a35c36b55c0": 1722,
+    "d5f01492-b05c-4a56-b642-062b0a51def0": 1723,
+    "51bf6a0b-794e-4be2-9bd5-6c209889e9fa": 1724,
+    "db9b922f-50e6-47ed-b0b2-1b32bd8f1627": 1725,
+    "94c934b7-0380-4a5f-9403-969d2be8c052": 1726
+  },
+  "Units": [
+    {
+      "SectionGuid": "0bf551e8-fe4c-488e-b026-3437ac701246",
+      "LessonGuid": "692482f7-5203-49ac-99b2-84bc1c5d4e29",
+      "UnitId": 8904
+    },
+    {
+      "SectionGuid": "6d74c000-c9f6-4b30-8767-2c57ea894bdc",
+      "LessonGuid": "60716e4e-25b5-4e53-977e-fc8d0bca65c0",
+      "UnitId": 8905
+    },
+    {
+      "SectionGuid": "6d74c000-c9f6-4b30-8767-2c57ea894bdc",
+      "LessonGuid": "b07300b4-f800-4624-ad7c-d176742d7738",
+      "UnitId": 8906
+    },
+    {
+      "SectionGuid": "8c25a058-c6e7-4e31-8eef-61c635cfd020",
+      "LessonGuid": "c3c91fb2-ea12-4fdc-a96b-f113cda27e9a",
+      "UnitId": 8907
+    },
+    {
+      "SectionGuid": "8c25a058-c6e7-4e31-8eef-61c635cfd020",
+      "LessonGuid": "d8d0463c-07cd-427e-88ff-11f3f0d7939a",
+      "UnitId": 8908
+    },
+    {
+      "SectionGuid": "8c25a058-c6e7-4e31-8eef-61c635cfd020",
+      "LessonGuid": "e0e4b4cf-5031-4370-b3b1-1ec2fbeeb922",
+      "UnitId": 8909
+    },
+    {
+      "SectionGuid": "dc697910-3e3e-400a-8b23-a69bb3738be5",
+      "LessonGuid": "aae32c32-3444-436c-82aa-c6180eac68d1",
+      "UnitId": 8910
+    },
+    {
+      "SectionGuid": "dc697910-3e3e-400a-8b23-a69bb3738be5",
+      "LessonGuid": "71e7801a-2029-4422-beb0-688156aa2fe6",
+      "UnitId": 8911
+    },
+    {
+      "SectionGuid": "dc697910-3e3e-400a-8b23-a69bb3738be5",
+      "LessonGuid": "ad71573a-3391-4761-8d45-c0731c970a71",
+      "UnitId": 8912
+    },
+    {
+      "SectionGuid": "47e59cf5-7015-4920-920c-35d2cce217d7",
+      "LessonGuid": "a557a956-dd95-4b45-9485-438a2dbc24fc",
+      "UnitId": 8913
+    },
+    {
+      "SectionGuid": "47e59cf5-7015-4920-920c-35d2cce217d7",
+      "LessonGuid": "7c59d21f-3ada-404c-aa1f-cfbea1e5613d",
+      "UnitId": 8914
+    },
+    {
+      "SectionGuid": "47e59cf5-7015-4920-920c-35d2cce217d7",
+      "LessonGuid": "3c97e1f0-8691-4c79-8592-f9d9cc4dd708",
+      "UnitId": 8915
+    },
+    {
+      "SectionGuid": "b1d01a14-03a1-43b1-a356-0cb954a62bff",
+      "LessonGuid": "b98c8f63-e470-4564-b052-908edb22423f",
+      "UnitId": 8916
+    },
+    {
+      "SectionGuid": "b1d01a14-03a1-43b1-a356-0cb954a62bff",
+      "LessonGuid": "74453df0-0b07-4c8b-b6cc-b4c6a103bd0e",
+      "UnitId": 8917
+    },
+    {
+      "SectionGuid": "b1d01a14-03a1-43b1-a356-0cb954a62bff",
+      "LessonGuid": "e5399996-960b-43bd-acbc-b3c3be428781",
+      "UnitId": 8918
+    },
+    {
+      "SectionGuid": "bd7d7f44-bec2-45c0-9146-3f124226df10",
+      "LessonGuid": "11a822da-dfdc-4beb-b4ef-5f43c07d285b",
+      "UnitId": 8919
+    },
+    {
+      "SectionGuid": "bd7d7f44-bec2-45c0-9146-3f124226df10",
+      "LessonGuid": "d7b53d3b-b676-487d-90b1-365989a7dc34",
+      "UnitId": 8920
+    },
+    {
+      "SectionGuid": "85f2a23b-ce76-4361-b9da-8890f2a8a1b2",
+      "LessonGuid": "04019a14-b4a0-4c26-b7b8-6ce9f18a9e20",
+      "UnitId": 8921
+    },
+    {
+      "SectionGuid": "57e38135-5283-4a31-a9a7-476ae12cfb92",
+      "LessonGuid": "aeccd8fc-f968-4832-b869-74761ce11602",
+      "UnitId": 8922
+    },
+    {
+      "SectionGuid": "1fa4a390-f102-45f9-aac9-7942c47ca29d",
+      "LessonGuid": "a18d73d2-bd40-48cd-a821-8f43abbbc0ce",
+      "UnitId": 8923
+    },
+    {
+      "SectionGuid": "1fa4a390-f102-45f9-aac9-7942c47ca29d",
+      "LessonGuid": "9d5a04e5-6734-4b30-909c-3aab32af6b58",
+      "UnitId": 8924
+    },
+    {
+      "SectionGuid": "97a77439-7d75-42df-bda2-39770f19bdb8",
+      "LessonGuid": "ce527d22-f3d4-43ab-9859-f191e877015c",
+      "UnitId": 8925
+    },
+    {
+      "SectionGuid": "97a77439-7d75-42df-bda2-39770f19bdb8",
+      "LessonGuid": "08699425-3b15-4c63-ba1b-a9a95c761140",
+      "UnitId": 8926
+    },
+    {
+      "SectionGuid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
+      "LessonGuid": "632cdfab-12fc-4d19-bb24-2b242b2ed348",
+      "UnitId": 8927
+    },
+    {
+      "SectionGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+      "LessonGuid": "4124f8cf-b012-47e3-b2b9-8c00aeab0489",
+      "UnitId": 8928
+    },
+    {
+      "SectionGuid": "d5f01492-b05c-4a56-b642-062b0a51def0",
+      "LessonGuid": "9ea904ea-c202-4ac7-ae1a-311850731649",
+      "UnitId": 8929
+    },
+    {
+      "SectionGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+      "LessonGuid": "3dc2c299-8c7b-40f7-934d-d079d259f116",
+      "UnitId": 8930
+    },
+    {
+      "SectionGuid": "51bf6a0b-794e-4be2-9bd5-6c209889e9fa",
+      "LessonGuid": "4b05d503-e80d-4b00-8fd2-a4bf5bdbe949",
+      "UnitId": 8931
+    },
+    {
+      "SectionGuid": "db9b922f-50e6-47ed-b0b2-1b32bd8f1627",
+      "LessonGuid": "68abced4-7a7e-4041-bd09-2a7ba5dc9794",
+      "UnitId": 8932
+    },
+    {
+      "SectionGuid": "db9b922f-50e6-47ed-b0b2-1b32bd8f1627",
+      "LessonGuid": "38239ffd-77a9-4c81-975d-2c77ef763f5c",
+      "UnitId": 8933
+    },
+    {
+      "SectionGuid": "94c934b7-0380-4a5f-9403-969d2be8c052",
+      "LessonGuid": "d3b1f6cd-b5a2-4b51-83b0-7062d8be20cb",
+      "UnitId": 8934
+    },
+    {
+      "SectionGuid": "94c934b7-0380-4a5f-9403-969d2be8c052",
+      "LessonGuid": "951fa537-985f-4b58-b30a-1a401826b212",
+      "UnitId": 8935
+    }
+  ]
+}

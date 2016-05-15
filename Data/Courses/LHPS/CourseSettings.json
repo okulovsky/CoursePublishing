@@ -4,10 +4,17 @@
       2
     ],
     "Channel": "Kontur.Academy",
-    "DescriptionPattern": ""
+    "DescriptionPattern": "",
+    "IgnorePlaylists": false
   },
   "Ulearn": {
     "Path": "",
     "FoldersLevel": 2
+  },
+  "Stepic": {
+    "LessonsLevel": 3,
+    "ModulesLevel": 2,
+    "CourseNumber": 578,
+    "TeacherId": 1133195
   }
 }

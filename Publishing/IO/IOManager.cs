@@ -41,7 +41,9 @@ namespace CoursePublishing.IO
         {
             var path = GetPath<T>();
             if (!File.Exists(path)) return default(T);
-            return JsonConvert.DeserializeObject<T>(File.ReadAllText(path));
+            var text = File.ReadAllText(path);
+            var obj = JsonConvert.DeserializeObject<T>(text);
+            return obj;
 
         }
 

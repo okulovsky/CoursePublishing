@@ -107,6 +107,9 @@ namespace CoursePublishing
 
         public static Entity Lesson = new Entity("lessons", "lesson","lessons");
         public static Entity Step = new Entity("step-sources", "stepSource", "step-sources");
+        public static Entity Section = new Entity("sections", "section", "sections");
+        public static Entity Units = new Entity("units", "unit", "units");
+
 
         public class Entity
         {
@@ -174,6 +177,26 @@ namespace CoursePublishing
                 Delete(idToken.Value<string>());
             }
 
+            public List<JObject> Get(object p)
+            {
+                var list = new List<JObject>();
+                while(true)
+                {
+                    int pageNum = 1;
+                    var result = api
+                        .AppendPathSegment(apiPath)
+                        .SetQueryParam("page", pageNum)
+                        .SetQueryParams(p)
+                        .GetJsonAsync<JObject>()
+                        .Now()
+                        .Select(z => z)
+                        .First();
+                    foreach (var e in result[receiveSelector])
+                        list.Add(e as JObject);
+                    if (!result["meta"]["has_next"].Value<bool>()) break;
+                }
+                return list;
+            }
         }
 
     }
