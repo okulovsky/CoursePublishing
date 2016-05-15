@@ -10,6 +10,7 @@ namespace CoursePublishing
     {
         public YoutubeSyncSettings Youtube { get; set; } = new YoutubeSyncSettings();
         public UlearnSyncSettings Ulearn { get; set; } = new UlearnSyncSettings();
+        public StepicSyncSettings Stepic { get; set; } = new StepicSyncSettings();
         public CourseSettings()
         {
         }
@@ -35,5 +36,9 @@ namespace CoursePublishing
         public int FoldersLevel { get; set; } = 2;
     }
 
-
+    public class StepicSyncSettings
+    {
+        public int LessonsLevel { get; set; }
+        public int ModulesLevel { get; set; }
+    }
 }

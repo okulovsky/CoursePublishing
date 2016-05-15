@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldProjectConversion", "Old
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudacityPreparing", "AudacityPreparing\AudacityPreparing.csproj", "{949F656C-CEB5-4791-890A-57718ABE0684}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateStepicStructure", "CreateStepicStructure\CreateStepicStructure.csproj", "{595B3357-9FFF-4C71-8048-C477F4811FB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,11 +73,16 @@ Global
 		{949F656C-CEB5-4791-890A-57718ABE0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{949F656C-CEB5-4791-890A-57718ABE0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{949F656C-CEB5-4791-890A-57718ABE0684}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595B3357-9FFF-4C71-8048-C477F4811FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595B3357-9FFF-4C71-8048-C477F4811FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595B3357-9FFF-4C71-8048-C477F4811FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595B3357-9FFF-4C71-8048-C477F4811FB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0852D0A0-11A3-4924-888E-C81A1C37CA3B} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
+		{595B3357-9FFF-4C71-8048-C477F4811FB9} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 	EndGlobalSection
 EndGlobal

@@ -90,6 +90,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataStructures\CourseSettings.cs" />
+    <Compile Include="DataStructures\StepicData.cs" />
     <Compile Include="DataStructures\YoutubePlayList.cs" />
     <Compile Include="DataStructures\YoutubeSettings.cs" />
     <Compile Include="Extensions.cs" />
