@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Script", "Script\Script.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldProjectConversion", "OldProjectConversion\OldProjectConversion.csproj", "{E98AE7B3-594B-4ACD-BF5D-3F8354B2A2CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudacityPreparing", "AudacityPreparing\AudacityPreparing.csproj", "{949F656C-CEB5-4791-890A-57718ABE0684}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{E98AE7B3-594B-4ACD-BF5D-3F8354B2A2CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E98AE7B3-594B-4ACD-BF5D-3F8354B2A2CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E98AE7B3-594B-4ACD-BF5D-3F8354B2A2CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{949F656C-CEB5-4791-890A-57718ABE0684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949F656C-CEB5-4791-890A-57718ABE0684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949F656C-CEB5-4791-890A-57718ABE0684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949F656C-CEB5-4791-890A-57718ABE0684}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
