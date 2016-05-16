@@ -42,5 +42,6 @@ namespace CoursePublishing
         public int ModulesLevel { get; set; }
         public int CourseNumber { get; set; }
         public int TeacherId { get; set; }
+        public string TutoOutputFolder { get; set; }
     }
 }

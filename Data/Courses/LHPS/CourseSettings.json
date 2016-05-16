@@ -15,6 +15,7 @@
     "LessonsLevel": 3,
     "ModulesLevel": 2,
     "CourseNumber": 578,
-    "TeacherId": 1133195
+    "TeacherId": 1133195,
+    "TutoOutputFolder": "C:\\Users\\Yura\\Desktop\\TestOutput"
   }
 }

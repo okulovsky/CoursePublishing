@@ -67,7 +67,7 @@ namespace CoursePublishing
             var sent = 0;
 
             FileStream fileStream = new FileStream(file.FullName, FileMode.Open, FileAccess.Read);
-            byte[] buffer = new byte[4096];
+            byte[] buffer = new byte[409600];
             int bytesRead = 0;
             while ((bytesRead = fileStream.Read(buffer, 0, buffer.Length)) != 0)
             {
