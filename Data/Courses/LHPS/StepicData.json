@@ -1,6 +1,13 @@
 {
-  "Videos": {},
-  "Steps": {},
+  "Videos": {
+    "6e502f0f-d88d-4168-a1a4-3b5fd204b976": 9068
+  },
+  "Thumbnails": {
+    "6e502f0f-d88d-4168-a1a4-3b5fd204b976": "https://i.vimeocdn.com/video/default_640"
+  },
+  "Steps": {
+    "6e502f0f-d88d-4168-a1a4-3b5fd204b976": 105116
+  },
   "Lessons": {
     "1157b650-63ed-4d48-94ba-3974b477f420": 27568,
     "692482f7-5203-49ac-99b2-84bc1c5d4e29": 27569,

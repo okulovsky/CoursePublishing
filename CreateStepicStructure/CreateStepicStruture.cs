@@ -96,7 +96,7 @@ namespace CreateStepicStructure
                 return;
             }
             var file = new DirectoryInfo(Settings.TutoOutputFolder)
-                .GetFiles("*.avi", SearchOption.TopDirectoryOnly)
+                .GetFiles("*.mp4", SearchOption.TopDirectoryOnly)
                 .Where(z => z.Name.Contains(video.Guid.ToString()))
                 .FirstOrDefault();
             if (file==null)
