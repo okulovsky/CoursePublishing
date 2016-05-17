@@ -119,6 +119,10 @@ namespace CreateStepicStructure
                 Console.WriteLine($"Video {video.Title} was not uploaded");
                 return;
             }
+            if (StepicData.Steps.ContainsKey(video.Guid))
+            {
+                return;
+            }
             var position = section.Items.VideoGuids().ToList().IndexOf(video.Guid) + 1;
 
             Console.WriteLine($"Creating step {video.Title}...");
