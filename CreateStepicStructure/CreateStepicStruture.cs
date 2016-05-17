@@ -25,6 +25,7 @@ namespace CreateStepicStructure
         static StepicSyncSettings Settings;
         static Dictionary<Guid, Video> Videos;
         static string CourseName;
+   
 
         static void CreateUnits()
         {
@@ -149,9 +150,10 @@ namespace CreateStepicStructure
             Console.WriteLine("Done");
         }
 
-        static void UploadAllVideo()
+        static List<Video> UploadAllVideo()
         {
-            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel).Take(20))
+            var result = new List<Video>();
+            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel))
                 foreach(var v in s.Items.VideoGuids())
                 {
                     try
@@ -162,8 +164,10 @@ namespace CreateStepicStructure
                     catch(Exception e)
                     {
                         Console.WriteLine($"Error in uploading {s.Name}/{Videos[v].Title}: {e.Message}");
+                        result.Add(Videos[v]);
                     }
                 }
+            return result;
         }
 
         static void Main(string[] args)
@@ -182,7 +186,12 @@ namespace CreateStepicStructure
             //CreateLessons();
             // CreateSections();
             // CreateUnits();
-            UploadAllVideo();
+            var notUploaded = UploadAllVideo();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            foreach (var e in notUploaded)
+                Console.WriteLine(e.Title);
             Console.ReadKey();
         }
 
