@@ -151,12 +151,18 @@ namespace CreateStepicStructure
 
         static void UploadAllVideo()
         {
-            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel))
+            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel).Take(2))
                 foreach(var v in s.Items.VideoGuids())
                 {
-                    UploadVideoSlide(s, Videos[v]);
-                    CreateVideoStep(s, Videos[v]);
-                    return;
+                    try
+                    {
+                        UploadVideoSlide(s, Videos[v]);
+                        CreateVideoStep(s, Videos[v]);
+                    }
+                    catch(Exception e)
+                    {
+                        Console.WriteLine($"Error in uploading {s.Name}/{Videos[v].Title}: {e.Message}");
+                    }
                 }
         }
 
@@ -177,6 +183,7 @@ namespace CreateStepicStructure
             // CreateSections();
             // CreateUnits();
             UploadAllVideo();
+            Console.ReadKey();
         }
 
         private static void Save()
