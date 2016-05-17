@@ -109,6 +109,7 @@
     <Compile Include="DataStructures\Video.cs" />
     <Compile Include="DataStructures\VideoToCourse.cs" />
     <Compile Include="DataStructures\VideoToYoutubeClip.cs" />
+    <Compile Include="Stepic\StepicEntity.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
