@@ -151,7 +151,7 @@ namespace CreateStepicStructure
 
         static void UploadAllVideo()
         {
-            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel).Take(2))
+            foreach(var s in Structure.Items.Sections().Where(z=>z.Level==Settings.LessonsLevel).Take(20))
                 foreach(var v in s.Items.VideoGuids())
                 {
                     try
