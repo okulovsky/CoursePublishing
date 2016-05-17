@@ -59,7 +59,7 @@ namespace CoursePublishing
             rs.Write(boundarybytes, 0, boundarybytes.Length);
 
             string headerTemplate = "Content-Disposition: form-data; name=\"{0}\"; filename=\"{1}\"\r\nContent-Type: {2}\r\n\r\n";
-            string header = string.Format(headerTemplate, paramName, file.Name, contentType);
+            string header = string.Format(headerTemplate, paramName, "C:\\video.mp4", contentType);
             byte[] headerbytes = System.Text.Encoding.UTF8.GetBytes(header);
             rs.Write(headerbytes, 0, headerbytes.Length);
 
