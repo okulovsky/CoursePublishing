@@ -18,16 +18,21 @@ namespace CoursePublishing.IO
             Subfolder = subFolder;
         }
 
-        string GetPath<T>()
+        public string GetFileName(string filename)
         {
-            var customName = typeof(T).Name;
             var path = Env.DataFolder;
-            if (Subfolder!=null)
+            if (Subfolder != null)
                 path = Path.Combine(path, Subfolder);
             if (!Directory.Exists(path))
                 Directory.CreateDirectory(path);
-            path = Path.Combine(path, customName + ".json");
+            path = Path.Combine(path, filename);
             return path;
+        }
+
+        string GetPath<T>()
+        {
+            var customName = typeof(T).Name;
+            return GetFileName(customName + ".json");
         }
 
         public List<T> LoadList<T>()

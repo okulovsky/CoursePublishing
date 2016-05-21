@@ -58,7 +58,7 @@ namespace StepicDeleteRedundand
             var StepicData = Publishing.Courses[CourseName].Load<StepicData>();
             var Settings = Publishing.Courses[CourseName].Load<CourseSettings>().Stepic;
 
-            GetStepsForLesson(27378, "");
+
 
             Console.WriteLine("Getting lessons...");
             var lessons = StepicApi.Lesson
