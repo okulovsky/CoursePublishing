@@ -43,6 +43,11 @@ namespace Stepic.CheckAndSaveAdditionalSlides
         }
 
 
+        static bool IsVideo(JObject obj)
+        {
+            return obj["block"]["name"].Value<string>() == "video";
+        }
+
         static void Main(string[] args)
         {
             StepicApi.Authorize();
@@ -64,36 +69,42 @@ namespace Stepic.CheckAndSaveAdditionalSlides
                 .Select(z => StepicData.Lessons[z.Guid])
                 .ToList();
 
-            //LoadDump();
+            LoadDump(Settings,lessonIndices,CourseName);
+
             var lessons = Publishing.Courses[CourseName].LoadList<LessonDump>();
 
 
             var builder = new StringBuilder();
-            foreach(var e in lessons)
+            var videoCount = 0;
+            var nonVideoCount = 0;
+            foreach (var e in lessons)
             {
                 builder.AppendLine($"<h1>{e.Title}</h1>");
                 builder.AppendLine();
                 builder.AppendLine();
-                bool lastIsVideo = false;
-                for (int i=0;i<e.Steps.Count;i++)
+                
+               for (int i=0;i<e.Steps.Count;i++)
                 {
                     var s = e.Steps[i];
-                    if (s["block"]["name"].Value<string>()=="video")
+                    if (IsVideo(s))
                     {
-                        if (lastIsVideo)
-                        {
-                            builder.AppendLine("<p><b>Missing exercise</b></p>");
-                        }
                         var id = s["id"].Value<int>();
-                        builder.AppendLine($"<a href=\"https://stepic.org/edit-lesson/{e.Id}/step/{s["position"]}\"><h2>{videoTitles[id]}</h2></a>");
-                        builder.AppendLine();
-                        lastIsVideo = true;
+                        if (i == e.Steps.Count - 1 || IsVideo(e.Steps[i + 1]))
+                        {
+                            builder.AppendLine($"<h2><a href=\"https://stepic.org/edit-lesson/{e.Id}/step/{s["position"]}\">[Add]</a> <font color=brown>{videoTitles[id]}</font></h2>");
+                        }
+                        else
+                        {
+                            builder.AppendLine($"<h2>{videoTitles[id]}</h2></a>");
+                        }
+                        videoCount++;
                     }
                     else
                     {
-                        lastIsVideo = false;
                         builder.AppendLine(s["block"]["text"].Value<string>());
+                        builder.Append($"<a href=\"https://stepic.org/edit-lesson/{e.Id}/step/{s["position"]}\">[Edit]</a>");
                         builder.AppendLine();
+                        nonVideoCount++;
                     }
                 }
             }
@@ -101,6 +112,7 @@ namespace Stepic.CheckAndSaveAdditionalSlides
                 Publishing.Courses[CourseName].GetFileName("Reminder.html"),
                 $"<html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/></head><body>{builder.ToString()}</body></html>"
                 );
+            Console.WriteLine($"Non-video percentage {nonVideoCount*100.0/(nonVideoCount+videoCount)}");
         }
     }
 }

@@ -416,20 +416,20 @@
             "preserve_firsts_order": true,
             "pairs": [
               {
-                "second": "Эволюционирование мемов",
-                "first": "Первобытное время"
+                "first": "Первобытное время",
+                "second": "Эволюционирование мемов"
               },
               {
-                "second": "Философия",
-                "first": "Античность"
+                "first": "Античность",
+                "second": "Философия"
               },
               {
-                "second": "Интерпретация священных текстов",
-                "first": "Средневековье"
+                "first": "Средневековье",
+                "second": "Интерпретация священных текстов"
               },
               {
-                "second": "Наука",
-                "first": "Новое время"
+                "first": "Новое время",
+                "second": "Наука"
               }
             ]
           },
@@ -509,8 +509,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T07:49:17Z",
@@ -565,8 +565,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T07:49:27Z",
@@ -590,11 +590,11 @@
           "options": {},
           "subtitle_files": [],
           "source": {
-            "is_always_correct": false,
             "is_html_enabled": true,
-            "preserve_order": false,
-            "is_multiple_choice": true,
             "sample_size": 6,
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "preserve_order": false,
             "options": [
               {
                 "is_correct": true,
@@ -636,7 +636,7 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
+        "viewed_by": 2,
         "passed_by": 0,
         "correct_ratio": null,
         "worth": null,
@@ -748,8 +748,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T16:37:36Z",
@@ -773,11 +773,11 @@
           "options": {},
           "subtitle_files": [],
           "source": {
-            "is_always_correct": false,
             "is_html_enabled": true,
-            "preserve_order": false,
-            "is_multiple_choice": true,
             "sample_size": 3,
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "preserve_order": false,
             "options": [
               {
                 "is_correct": false,
@@ -807,7 +807,7 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
+        "viewed_by": 2,
         "passed_by": 1,
         "correct_ratio": 0.5,
         "worth": null,
@@ -863,8 +863,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:06:39Z",
@@ -919,8 +919,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:06:50Z",
@@ -975,8 +975,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T16:37:42Z",
@@ -1037,8 +1037,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 4,
-        "passed_by": 4,
+        "viewed_by": 5,
+        "passed_by": 5,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:09:43Z",
@@ -1323,8 +1323,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:11:08Z",
@@ -1349,6 +1349,13 @@
           "subtitle_files": [],
           "source": {
             "is_always_correct": false,
+            "options": {
+              "sample_size": -1,
+              "is_randomize_columns": false,
+              "is_randomize_rows": false,
+              "is_checkbox": false
+            },
+            "description": "Rows: ",
             "columns": [
               {
                 "name": "Логико-философский йтрактат"
@@ -1359,6 +1366,7 @@
             ],
             "rows": [
               {
+                "name": "Высказывание должно быть логически согласованным",
                 "columns": [
                   {
                     "choice": true
@@ -1366,10 +1374,10 @@
                   {
                     "choice": false
                   }
-                ],
-                "name": "Высказывание должно быть логически согласованным"
+                ]
               },
               {
+                "name": "Высказывание должно быть эффективным",
                 "columns": [
                   {
                     "choice": false
@@ -1377,10 +1385,10 @@
                   {
                     "choice": true
                   }
-                ],
-                "name": "Высказывание должно быть эффективным"
+                ]
               },
               {
+                "name": "Языковые конструкции описывают внешний мир",
                 "columns": [
                   {
                     "choice": true
@@ -1388,10 +1396,10 @@
                   {
                     "choice": false
                   }
-                ],
-                "name": "Языковые конструкции описывают внешний мир"
+                ]
               },
               {
+                "name": "Языковые конструкции являются средством языковой игры",
                 "columns": [
                   {
                     "choice": false
@@ -1399,17 +1407,9 @@
                   {
                     "choice": true
                   }
-                ],
-                "name": "Языковые конструкции являются средством языковой игры"
+                ]
               }
-            ],
-            "description": "Rows: ",
-            "options": {
-              "is_checkbox": false,
-              "is_randomize_columns": false,
-              "is_randomize_rows": false,
-              "sample_size": -1
-            }
+            ]
           },
           "subtitles": {},
           "tests_archive": null
@@ -1425,7 +1425,7 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
+        "viewed_by": 2,
         "passed_by": 0,
         "correct_ratio": null,
         "worth": null,
@@ -1767,8 +1767,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 2,
-        "passed_by": 2,
+        "viewed_by": 3,
+        "passed_by": 3,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:12:19Z",
@@ -1823,8 +1823,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 2,
-        "passed_by": 2,
+        "viewed_by": 3,
+        "passed_by": 3,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:12:28Z",
@@ -1848,11 +1848,11 @@
           "options": {},
           "subtitle_files": [],
           "source": {
-            "is_always_correct": false,
             "is_html_enabled": true,
-            "preserve_order": false,
-            "is_multiple_choice": true,
             "sample_size": 5,
+            "is_multiple_choice": true,
+            "is_always_correct": false,
+            "preserve_order": false,
             "options": [
               {
                 "is_correct": false,
@@ -1890,7 +1890,7 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
+        "viewed_by": 2,
         "passed_by": 0,
         "correct_ratio": null,
         "worth": null,
@@ -2636,8 +2636,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:14:42Z",
@@ -2700,6 +2700,244 @@
         "update_date": "2016-05-17T08:15:00Z",
         "discussions_count": 0,
         "discussion_proxy": "77-105459",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 0
+      },
+      {
+        "id": 107562,
+        "lesson": 27576,
+        "position": 5,
+        "status": "ready",
+        "block": {
+          "name": "choice",
+          "text": "<p>Вы смотрите видео об уникальном аппарате, который позволяет предсказывать выпадение красного или черного при игре в рулетку. Для демонстрации, вам показали, как игрок с этим аппаратом заходит в десять разных казино, и пять раз выигрывает. Допустим, у вас нет сомнений в том, что видео подлинные. Какую проблему можно усмотреть в этом видео?</p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": {
+            "is_html_enabled": true,
+            "sample_size": 5,
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "preserve_order": false,
+            "options": [
+              {
+                "is_correct": false,
+                "text": "Misleading vividness"
+              },
+              {
+                "is_correct": true,
+                "text": "Намеренно смещенная выборка (cherry picking)"
+              },
+              {
+                "is_correct": false,
+                "text": "Ненамеренно смещенная выборка"
+              },
+              {
+                "is_correct": false,
+                "text": "Проблема в чем-то другом"
+              },
+              {
+                "is_correct": false,
+                "text": "Нет никакой проблемы"
+              }
+            ]
+          },
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {
+          "edit_instructions": "#"
+        },
+        "progress": "77-107562",
+        "subscriptions": [
+          "31-77-107562",
+          "30-77-107562"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 1,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-29T07:30:33Z",
+        "update_date": "2016-05-29T07:38:00Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-107562",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 1
+      },
+      {
+        "id": 107564,
+        "lesson": 27576,
+        "position": 6,
+        "status": "ready",
+        "block": {
+          "name": "choice",
+          "text": "<p>В настоящее время готовится проект ремонта главного моста вашего города. Вы смотрите следующий сюжет по телевизору:</p><p>\"Ремонт главного моста остается самой обсуждаемой новостью этой недели. На последнем заседании мэрии было решено добавить велодорожку, расширить пешеходную зону, и сократить проезжую часть с трех полос до двух. Наши корреспонденты вышли на улицы города, чтобы узнать мнение горожан об этом.\"</p><p>Далее следует видео прохожего, который весьма эмоционально рассказывает о том, как неудобно с тремя полосами, и как будет хорошо с двумя. Корреспондент продолжает:</p><p>\"85% опрошенных прохожих поддерживают проект мэрии. Таким образом, можно считать, что это соответствует интересам всех горожан\".</p><p>У вас есть основание считать, что каждое слово в репортаже - правда. Тем не менее, в чем проблема данного репортажа?</p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": {
+            "is_html_enabled": true,
+            "sample_size": 5,
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "preserve_order": false,
+            "options": [
+              {
+                "is_correct": false,
+                "text": "Misleading vividness"
+              },
+              {
+                "is_correct": false,
+                "text": "Намеренное смещение выборки (Cherry picking)"
+              },
+              {
+                "is_correct": true,
+                "text": "Ненамеренное смещение выборки"
+              },
+              {
+                "is_correct": false,
+                "text": "Проблема в чем-то другом"
+              },
+              {
+                "is_correct": false,
+                "text": "Нет никаких проблем"
+              }
+            ]
+          },
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {
+          "edit_instructions": "#"
+        },
+        "progress": "77-107564",
+        "subscriptions": [
+          "31-77-107564",
+          "30-77-107564"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 0,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-29T07:37:11Z",
+        "update_date": "2016-05-29T07:37:11Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-107564",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 1
+      },
+      {
+        "id": 107565,
+        "lesson": 27576,
+        "position": 7,
+        "status": "ready",
+        "block": {
+          "name": "choice",
+          "text": "<p><span>Журнал The Southpark Times опросил несколько миллионов человек по всем канонам социологических исследований и выяснил, что 80% человек опасаются, что искусственный интеллект оставит их без работы; 56% - что он будет периодически принимать неверные решения, которые приведут к катастрофам; и 21% - что он начнет мировую войну. Журналист далее делает следующий вывод:</span><br></p><p><span>\"Очевидно, искусственный интеллект представляет собой серьезную опасность. Мы должны прямо сейчас сплотиться и призвать мировых лидеров к ограничению или даже запрещению исследований в этой области\".</span></p><p><span>В чем проблема данного вывода?</span></p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": {
+            "is_html_enabled": true,
+            "sample_size": 5,
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "preserve_order": false,
+            "options": [
+              {
+                "is_correct": false,
+                "text": "Misleading vividness"
+              },
+              {
+                "is_correct": false,
+                "text": "Намеренно смещенная выборка (Cherry picking)"
+              },
+              {
+                "is_correct": false,
+                "text": "Ненамеренно смещенная выборка"
+              },
+              {
+                "is_correct": true,
+                "text": "Проблема в чем-то другом"
+              },
+              {
+                "is_correct": false,
+                "text": "Нет никаких проблем"
+              }
+            ]
+          },
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {
+          "edit_instructions": "#"
+        },
+        "progress": "77-107565",
+        "subscriptions": [
+          "31-77-107565",
+          "30-77-107565"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 0,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-29T07:42:34Z",
+        "update_date": "2016-05-29T07:42:34Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-107565",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 1
+      },
+      {
+        "id": 107566,
+        "lesson": 27576,
+        "position": 8,
+        "status": "ready",
+        "block": {
+          "name": "text",
+          "text": "<p>Задача про казино: очевидно, вероятность случайно угадать красное или черное - чуть меньше 50% (включая зеро). Соответственно, для съемки такого видео, нужно посетить всего лишь 20 казино, и показать видеозаписи только тех случаев, когда получилось. Правильный ответ - Cherry Picking.</p><p>Задача про мост: сказано, что опрашивали <b>прохожих</b>﻿, в то время как по мосту будут передвигаться как прохожие, так и автомобилисты. Поэтому налицо смещение выборки. Однако, нет указаний на намеренность (если только мы не знаем, что журналисты заинтересованы в продвижении именно этого проекта мэрии, на что в тексте нет указаний), поэтому, учитывая бритву Хэнлона, правильный ответ - ненамеренно смещенная выборка.</p><p>Задача про искусственный интеллект: из того, что миллионы людей что-то там считают, это что-то верным не становится! Таким образом, здесь мы видим апелляцию к общественному мнению, что является дедуктивной проблемой. Поэтому правильный ответ - проблема в чем-то другом.</p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": null,
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {},
+        "progress": "77-107566",
+        "subscriptions": [
+          "31-77-107566",
+          "30-77-107566"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 0,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-29T07:47:14Z",
+        "update_date": "2016-05-29T07:47:14Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-107566",
         "reason_of_failure": "",
         "warnings": [],
         "cost": 0
@@ -3450,8 +3688,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:18:46Z",
@@ -5844,8 +6082,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:38:00Z",
@@ -5956,8 +6194,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 0,
-        "passed_by": 0,
+        "viewed_by": 1,
+        "passed_by": 1,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:38:32Z",
@@ -6012,8 +6250,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:38:45Z",
@@ -6068,8 +6306,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 0,
-        "passed_by": 0,
+        "viewed_by": 1,
+        "passed_by": 1,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:39:20Z",
@@ -6081,9 +6319,156 @@
         "cost": 0
       },
       {
-        "id": 105511,
+        "id": 106239,
         "lesson": 27588,
         "position": 6,
+        "status": "ready",
+        "block": {
+          "name": "choice",
+          "text": "<p>Построение опровержения может быть довольно хитрым, когда речь идет о причинно-следственных связях. Допустим, вы дали ребенку апельсин, и у него началась сыпь. У вас возникла гипотеза, что причиной сыпи является апельсин. Что нужно делать для проверки этой гипотезы? </p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": {
+            "is_html_enabled": true,
+            "sample_size": 2,
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "preserve_order": false,
+            "options": [
+              {
+                "is_correct": false,
+                "text": "Больше не давать ребенку апельсинов"
+              },
+              {
+                "is_correct": true,
+                "text": "Дать ребенку еще один апельсин"
+              }
+            ]
+          },
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {
+          "edit_instructions": "#"
+        },
+        "progress": "77-106239",
+        "subscriptions": [
+          "31-77-106239",
+          "30-77-106239"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 1,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-21T15:04:14Z",
+        "update_date": "2016-05-29T07:13:31Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-106239",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 1
+      },
+      {
+        "id": 107561,
+        "lesson": 27588,
+        "position": 7,
+        "status": "ready",
+        "block": {
+          "name": "text",
+          "text": "<p>Гипотеза формулируется как $ A\\rightarrow C $ , где А - апельсин, а С - сыпь. Отрицанием этой гипотезы будет $ \\neg(A\\rightarrow C)=\\neg(\\neg A \\vee C)=A\\wedge \\neg C $ , то есть ситуация, когда апельсин дали, а сыпи нет. Только этот единственный вариант убедит нас в том, что апельсин не является причиной сыпи! Вариант, когда нет апельсина, и сыпь прошла, подтверждает, а не опровергает гипотезу. Вариант, когда нет апельсина, а сыпь не прошла, говорит, что помимо апельсина у сыпи могут быть и другие причины.</p><p>Поэтому, если мы хотим опровергнуть исходную гипотезу, нужно давать апельсин. Почему же в реальности мы этого не делаем? Потому что цель медицины, в отличие от медицинской науки - не в проверке гипотез, а в излечении больных.</p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": null,
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {},
+        "progress": "77-107561",
+        "subscriptions": [
+          "31-77-107561",
+          "30-77-107561"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 1,
+        "passed_by": 1,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-29T07:13:31Z",
+        "update_date": "2016-05-29T07:16:43Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-107561",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 0
+      },
+      {
+        "id": 106240,
+        "lesson": 27588,
+        "position": 8,
+        "status": "ready",
+        "block": {
+          "name": "choice",
+          "text": "<p>Вы разрабатываете компьютерную программу. На первом компьютере установлена операционная система ElephantOS, и ваша программа не работает. На втором компьютере установлена программа ZebraOS, и ваша программа работает. Ваша гипотеза в том, что ElephantOS приводит к неработоспособности программы. В соответствии с научным методом нужно:</p>",
+          "video": null,
+          "animation": null,
+          "options": {},
+          "subtitle_files": [],
+          "source": {
+            "is_html_enabled": true,
+            "sample_size": 2,
+            "is_multiple_choice": false,
+            "is_always_correct": false,
+            "preserve_order": false,
+            "options": [
+              {
+                "is_correct": false,
+                "text": "Поставить на первый компьютер ZebraOS, чтобы программа заработала"
+              },
+              {
+                "is_correct": true,
+                "text": "Поставить на второй компьютер ElephantOS, чтобы программа перестала работать"
+              }
+            ]
+          },
+          "subtitles": {},
+          "tests_archive": null
+        },
+        "actions": {
+          "edit_instructions": "#"
+        },
+        "progress": "77-106240",
+        "subscriptions": [
+          "31-77-106240",
+          "30-77-106240"
+        ],
+        "instruction": null,
+        "session": null,
+        "instruction_type": null,
+        "viewed_by": 1,
+        "passed_by": 0,
+        "correct_ratio": null,
+        "worth": null,
+        "create_date": "2016-05-21T15:06:57Z",
+        "update_date": "2016-05-29T07:13:31Z",
+        "discussions_count": 0,
+        "discussion_proxy": "77-106240",
+        "reason_of_failure": "",
+        "warnings": [],
+        "cost": 1
+      },
+      {
+        "id": 105511,
+        "lesson": 27588,
+        "position": 9,
         "status": "ready",
         "block": {
           "name": "video",
@@ -6124,12 +6509,12 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 0,
-        "passed_by": 0,
+        "viewed_by": 1,
+        "passed_by": 1,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T08:39:37Z",
-        "update_date": "2016-05-17T08:39:46Z",
+        "update_date": "2016-05-29T07:13:31Z",
         "discussions_count": 0,
         "discussion_proxy": "77-105511",
         "reason_of_failure": "",
@@ -8996,8 +9381,8 @@
         "instruction": null,
         "session": null,
         "instruction_type": null,
-        "viewed_by": 1,
-        "passed_by": 1,
+        "viewed_by": 2,
+        "passed_by": 2,
         "correct_ratio": null,
         "worth": null,
         "create_date": "2016-05-17T16:33:32Z",
