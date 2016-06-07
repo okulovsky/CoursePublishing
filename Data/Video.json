@@ -2579,14 +2579,14 @@
     "Guid": "fb131df2-6e6e-4fe1-815f-949d1a16d92a",
     "Title": "DIP и тестируемость",
     "Duration": "00:16:07.1160000",
-    "OriginalLocation": "CS2-E\\Lecture04\\03",
+    "OriginalLocation": "CS2-E-Lecture04-03.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "dbfc7c12-41f2-4205-ad4d-9283f9f5d3f4",
     "Title": "Mock Framework",
     "Duration": "00:13:17.6140000",
-    "OriginalLocation": "CS2-E\\Lecture04\\03",
+    "OriginalLocation": "CS2-E-Lecture04-03.mm",
     "EpisodeNumber": 1
   },
   {
@@ -2600,56 +2600,56 @@
     "Guid": "bb1bd34d-4199-42a7-95ba-d5346909ef96",
     "Title": "Кризис",
     "Duration": "00:10:19.2280000",
-    "OriginalLocation": "LHPS\\Lecture23\\1",
+    "OriginalLocation": "LHPS-Lecture23-1.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "b99e35d5-2ace-47d4-80d8-ac87a0714741",
     "Title": "Другие",
     "Duration": "00:07:11.0920000",
-    "OriginalLocation": "LHPS\\Lecture23\\1",
+    "OriginalLocation": "LHPS-Lecture23-1.mm",
     "EpisodeNumber": 1
   },
   {
     "Guid": "eb0884b2-df4d-420d-b336-11fe517e7920",
     "Title": "Деконструкция модерна",
     "Duration": "00:15:20.9110000",
-    "OriginalLocation": "LHPS\\Lecture23\\2",
+    "OriginalLocation": "LHPS-Lecture23-2.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "16b7c808-8823-4a6d-885e-64f3d428d037",
     "Title": "Новые другие",
     "Duration": "00:08:42.8370000",
-    "OriginalLocation": "LHPS\\Lecture23\\3",
+    "OriginalLocation": "LHPS-Lecture23-3.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "737dc8f3-981a-4094-8076-c8b6b3095299",
     "Title": "Другие и привилегированные",
     "Duration": "00:12:51.3470000",
-    "OriginalLocation": "LHPS\\Lecture23\\3",
+    "OriginalLocation": "LHPS-Lecture23-3.mm",
     "EpisodeNumber": 1
   },
   {
     "Guid": "08750cd6-18b6-4f4d-b4aa-a708ce62d94a",
     "Title": "Деконструкция стереотипов",
     "Duration": "00:10:46.0890000",
-    "OriginalLocation": "LHPS\\Lecture23\\4",
+    "OriginalLocation": "LHPS-Lecture23-4.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "1800d7f5-68a1-4951-9af5-9d8dc008c763",
     "Title": "Деконструкция и правозащита",
     "Duration": "00:14:20.0970000",
-    "OriginalLocation": "LHPS\\Lecture23\\4",
+    "OriginalLocation": "LHPS-Lecture23-4.mm",
     "EpisodeNumber": 1
   },
   {
     "Guid": "c81171bb-e9d9-4ebb-81a8-34fb6ac09728",
     "Title": "Деконструкция науки",
     "Duration": "00:13:57.4780000",
-    "OriginalLocation": "LHPS\\Lecture23\\5",
+    "OriginalLocation": "LHPS-Lecture23-5.mm",
     "EpisodeNumber": 0
   },
   {
@@ -2845,35 +2845,35 @@
     "Guid": "7e671739-3b5b-41fa-945b-f0b4b0603d23",
     "Title": "Дисклеймер",
     "Duration": "00:03:02.6780000",
-    "OriginalLocation": "LHPS\\Lecture24\\1",
+    "OriginalLocation": "LHPS-Lecture24-1.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "80637b7f-8bf2-48a9-81c3-388f1507cd33",
     "Title": "Тотальная деконструкция",
     "Duration": "00:16:34.6690000",
-    "OriginalLocation": "LHPS\\Lecture24\\1",
+    "OriginalLocation": "LHPS-Lecture24-1.mm",
     "EpisodeNumber": 1
   },
   {
     "Guid": "7b4229f8-5d04-4b73-97c5-3166d0a02e90",
     "Title": "От нарративов к эволюции",
     "Duration": "00:07:42.8530000",
-    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "OriginalLocation": "LHPS-Lecture24-2.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "7b7a9932-bc9c-4c61-9e33-ac20a3fd5869",
     "Title": "Коллажное мышление",
     "Duration": "00:07:31.7870000",
-    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "OriginalLocation": "LHPS-Lecture24-2.mm",
     "EpisodeNumber": 1
   },
   {
     "Guid": "ef05e1df-ed0d-42ec-abfb-817cc4daabfd",
     "Title": "Симулякры и спектакли",
     "Duration": "00:08:57.2480000",
-    "OriginalLocation": "LHPS\\Lecture24\\2",
+    "OriginalLocation": "LHPS-Lecture24-2.mm",
     "EpisodeNumber": 2
   },
   {
@@ -2985,14 +2985,14 @@
     "Guid": "e0da880e-8afe-4f7c-a0dc-704337b535c4",
     "Title": "Проблематика",
     "Duration": "00:00:00",
-    "OriginalLocation": "CS2-E\\Lecture06\\01",
+    "OriginalLocation": "CS2-E-Lecture06-01.mm",
     "EpisodeNumber": 0
   },
   {
     "Guid": "b3bb05d5-14ea-42ce-9db9-4e627c92be81",
     "Title": "Устранение интерфейсов",
-    "Duration": "00:00:00",
-    "OriginalLocation": "CS2-E\\Lecture06\\02",
+    "Duration": "00:13:04.5340000",
+    "OriginalLocation": "CS2-E-Lecture06-02.mm",
     "EpisodeNumber": 0
   },
   {
@@ -5296,6 +5296,55 @@
     "Title": "Динамическое программирование на задаче о планировании времени",
     "Duration": "00:00:01",
     "OriginalLocation": "BP2_fromBackup",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d35c2ea2-dfaf-4e72-a39a-592ef115fbf7",
+    "Title": "DI Container и Функциональное Программирование",
+    "Duration": "00:08:56.6900000",
+    "OriginalLocation": "CS2-E-Lecture06-02.mm",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "af4950a5-a549-4d00-be91-39d1a3f53990",
+    "Title": "Функциональный стиль",
+    "Duration": "00:05:23.3560000",
+    "OriginalLocation": "CS2-E-Lecture06-02.mm",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "f25963f0-3e17-4b5b-8767-7d160199670c",
+    "Title": "Чистые функции",
+    "Duration": "00:03:12.0760000",
+    "OriginalLocation": "CS2-E-Lecture06-03.mm",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "d4e9c802-4b12-4a77-bc53-f053699d89e3",
+    "Title": "Рефакторинг сумматора",
+    "Duration": "00:07:38.0760000",
+    "OriginalLocation": "CS2-E-Lecture06-03.mm",
+    "EpisodeNumber": 1
+  },
+  {
+    "Guid": "b8d2e190-642a-48b9-bff7-82a6b859b3a4",
+    "Title": "Зависимости между сборками",
+    "Duration": "00:00:00",
+    "OriginalLocation": "CS2-E-Lecture06-03.mm",
+    "EpisodeNumber": 2
+  },
+  {
+    "Guid": "d8405782-ccad-48b9-ba9d-9da57d60437b",
+    "Title": "Введение",
+    "Duration": "00:00:00",
+    "OriginalLocation": "WEB-4-1.mm",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "3736be00-d9c4-4b4a-a4a2-d6d7e994a734",
+    "Title": "Структура объемлющего прямоугольника",
+    "Duration": "00:00:00",
+    "OriginalLocation": "WEB-4-2.mm",
     "EpisodeNumber": 0
   }
 ]

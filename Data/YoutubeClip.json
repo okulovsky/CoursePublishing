@@ -1920,8 +1920,38 @@
     "Channel": "Basic Programming"
   },
   {
-    "Id": "-u-4mSLeCEs",
-    "Name": "CS2 E Lecture06 01 0 Проблематика",
+    "Id": "qxTMkk_xmDs",
+    "Name": "CS2 E Lecture06 03 2 Зависимости между сборками",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "ou7rUG0-_kg",
+    "Name": "CS2 E Lecture06 03 1 Рефакторинг сумматора",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "sePJlYM58d4",
+    "Name": "CS2 E Lecture06 03 0 Чистые функции",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "SkMUGXMpzBs",
+    "Name": "CS2 E Lecture06 02 2 Функциональный стиль",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "OznLGXiwUIs",
+    "Name": "CS2 E Lecture06 02 1 DI Container и Функциональное Программирование",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "gZKaRL8Cy7Q",
+    "Name": "CS2 E Lecture06 02 0 Устранение интерфейсов",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
