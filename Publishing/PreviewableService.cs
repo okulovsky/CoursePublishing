@@ -24,6 +24,7 @@ namespace CoursePublishing
 
         void ExecuteAllAction()
         {
+            bool failed = false;
             foreach(var e in actions)
             {
                 Console.Write(e.Name + "... ");
@@ -35,8 +36,11 @@ namespace CoursePublishing
                 catch(Exception _e)
                 {
                     Console.WriteLine("Failed, " + _e.Message);
+                    failed = true;
                 }
             }
+            if (failed)
+                Console.ReadKey();
         }
 
         public bool AskAndExecute()

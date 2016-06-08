@@ -1920,39 +1920,45 @@
     "Channel": "Basic Programming"
   },
   {
+    "Id": "z2KoBzTCgoA",
+    "Name": "OOP-3-6-01 Проблематика",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/e0da880e-8afe-4f7c-a0dc-704337b535c4",
+    "Channel": "Kontur.Academy"
+  },
+  {
     "Id": "qxTMkk_xmDs",
-    "Name": "CS2 E Lecture06 03 2 Зависимости между сборками",
-    "Description": "",
+    "Name": "OOP-3-6-07 Зависимости между сборками",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/b8d2e190-642a-48b9-bff7-82a6b859b3a4",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "ou7rUG0-_kg",
-    "Name": "CS2 E Lecture06 03 1 Рефакторинг сумматора",
-    "Description": "",
+    "Name": "OOP-3-6-06 Рефакторинг сумматора",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/d4e9c802-4b12-4a77-bc53-f053699d89e3",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "sePJlYM58d4",
-    "Name": "CS2 E Lecture06 03 0 Чистые функции",
-    "Description": "",
+    "Name": "OOP-3-6-05 Чистые функции",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/f25963f0-3e17-4b5b-8767-7d160199670c",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "SkMUGXMpzBs",
-    "Name": "CS2 E Lecture06 02 2 Функциональный стиль",
-    "Description": "",
+    "Name": "OOP-3-6-04 Функциональный стиль",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/af4950a5-a549-4d00-be91-39d1a3f53990",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "OznLGXiwUIs",
-    "Name": "CS2 E Lecture06 02 1 DI Container и Функциональное Программирование",
-    "Description": "",
+    "Name": "OOP-3-6-03 DI Container и Функциональное Программирование",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/d35c2ea2-dfaf-4e72-a39a-592ef115fbf7",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "gZKaRL8Cy7Q",
-    "Name": "CS2 E Lecture06 02 0 Устранение интерфейсов",
-    "Description": "",
+    "Name": "OOP-3-6-02 Устранение интерфейсов",
+    "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/b3bb05d5-14ea-42ce-9db9-4e627c92be81",
     "Channel": "Kontur.Academy"
   },
   {

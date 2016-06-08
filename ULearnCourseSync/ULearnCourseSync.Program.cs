@@ -53,7 +53,7 @@ namespace ULearnCourseSync
 
         void Initialize()
         { 
-            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(3).Ulearn;
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
             Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
 
@@ -119,7 +119,8 @@ namespace ULearnCourseSync
             {
                 var folderName = FolderNameFor(dueFolders[i]);
                 SectionToFolder[dueFolders[i].Guid] = folderName;
-                AddAction("Creating folder folderName", () => CreatingSubdirectory(folderName, dueFolders[i].Name));
+                var str = dueFolders[i].Name;
+                AddAction($"Creating folder {folderName}", () => CreatingSubdirectory(folderName, str));
             }
 
 
