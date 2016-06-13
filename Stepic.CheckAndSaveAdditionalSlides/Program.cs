@@ -23,7 +23,7 @@ namespace Stepic.CheckAndSaveAdditionalSlides
         {
             Console.WriteLine("Getting lessons...");
             var lessons = StepicApi.Lesson
-                .Get(new { teacher = Settings.TeacherId })
+                .GetByRequestString(new { teacher = Settings.TeacherId })
                 .Select(z => new LessonDump
                 {
                     Id = z["id"].Value<int>(),
@@ -35,7 +35,7 @@ namespace Stepic.CheckAndSaveAdditionalSlides
             foreach (var e in lessons)
             {
                 e.Steps = StepicApi.Step
-                    .Get(new { lesson = e.Id })
+                    .GetByRequestString(new { lesson = e.Id })
                     .OrderBy(z => z["position"].Value<int>())
                     .ToList();
             }

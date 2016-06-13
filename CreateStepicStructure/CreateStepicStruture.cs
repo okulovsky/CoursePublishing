@@ -13,7 +13,7 @@ namespace CreateStepicStructure
 
         static void ClearLessons(StepicData data)
         {
-            var lessons = StepicApi.Lesson.Get(new { teacher = 1133195 });
+            var lessons = StepicApi.Lesson.GetByRequestString(new { teacher = 1133195 });
             foreach (var e in lessons)
             {
                 if (data.Lessons.Values.Contains(e.Value<int>("id"))) continue;

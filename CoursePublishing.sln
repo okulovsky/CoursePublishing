@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepicDeleteRedundand", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepic.CheckAndSaveAdditionalSlides", "Stepic.CheckAndSaveAdditionalSlides\Stepic.CheckAndSaveAdditionalSlides.csproj", "{6CD5012F-0D65-4381-A17E-54898574F116}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepicDeadlines", "StepicDeadlines\StepicDeadlines.csproj", "{27371D38-D503-48B9-A912-2193C8C51DE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{6CD5012F-0D65-4381-A17E-54898574F116}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CD5012F-0D65-4381-A17E-54898574F116}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CD5012F-0D65-4381-A17E-54898574F116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27371D38-D503-48B9-A912-2193C8C51DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27371D38-D503-48B9-A912-2193C8C51DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27371D38-D503-48B9-A912-2193C8C51DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27371D38-D503-48B9-A912-2193C8C51DE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,5 +111,6 @@ Global
 		{F9409BB0-B545-484F-8640-A5224D9A38F5} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 		{E8847D71-CEFD-4C11-819A-09BD3C5A9040} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 		{6CD5012F-0D65-4381-A17E-54898574F116} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
+		{27371D38-D503-48B9-A912-2193C8C51DE4} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 	EndGlobalSection
 EndGlobal

@@ -39,7 +39,7 @@ namespace StepicDeleteRedundand
         IEnumerable<Tuple<int,string>> GetStepsForLesson(int id, string title)
         {
             var stepsInLesson =
-                     StepicApi.Step.Get(new { lesson = id });
+                     StepicApi.Step.GetByRequestString(new { lesson = id });
 
             var ss = stepsInLesson
                     .WithIndex()
@@ -62,7 +62,7 @@ namespace StepicDeleteRedundand
 
             Console.WriteLine("Getting lessons...");
             var lessons = StepicApi.Lesson
-                .Get(new { teacher = Settings.TeacherId })
+                .GetByRequestString(new { teacher = Settings.TeacherId })
                 .ToDictionary(z => z.Value<int>("id"), z => z.Value<string>("title"));
 
 

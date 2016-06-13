@@ -77,19 +77,16 @@ namespace CoursePublishing
             Delete(idToken.Value<string>());
         }
 
-        public List<JObject> Get(object p)
+        public List<JObject> GetByUrl(Func<int,string> urlMaker)
         {
             var list = new List<JObject>();
             int pageNum = 1;
             while (true)
             {
-                var api1 = api
-                    .AppendPathSegment(apiPath)
-                    .SetQueryParam("page", pageNum)
-                    .SetQueryParams(p);
-         
 
-                var result=api1
+                var api1 = urlMaker(pageNum);
+
+                var result = api1
                     .WithOAuthBearerToken(StepicApi.Token)
                     .GetJsonAsync<JObject>()
                     .Now()
@@ -102,6 +99,25 @@ namespace CoursePublishing
                 pageNum++;
             }
             return list;
+        }
+
+
+        public List<JObject> GetByRequestString(object p)
+        {
+            return GetByUrl(pageNum => api
+                    .AppendPathSegment(apiPath)
+                    .SetQueryParam("page", pageNum)
+                    .SetQueryParams(p)
+                    );
+            
+        }
+
+        public JObject GetById(int id)
+        {
+            return GetByUrl(pageNum => api
+                    .AppendPathSegment(apiPath)
+                    .AppendPathSegment(id.ToString())
+                    .SetQueryParam("page", pageNum))[0];
         }
     }
 }
