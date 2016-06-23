@@ -5,7 +5,7 @@ using System.Windows;
 
 namespace YoutubeSync
 {
-    class YoutubeSync
+    public class Match
     {
         [STAThread]
         public static void Main(string[] args)

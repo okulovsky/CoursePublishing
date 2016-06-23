@@ -22,8 +22,21 @@ namespace ULearnCourseSync
     }
 
 
+    interface UlearnFormat
+    {
+        string MakeSlide(string CourseName, YoutubeClip youtubeClip, Video video);
+        Regex GuidRegex { get; }
+        Regex YoutubeRegex { get; }
+        string Extension { get; }
+    }
+
+
+
+
     class UlearnCourseSyncService : PreviewableService
     {
+        static UlearnFormat format;
+
         UlearnSyncSettings Settings;
         string CourseName;
         Section Structure;
@@ -35,8 +48,6 @@ namespace ULearnCourseSync
         Dictionary<Guid, string> SectionToFolder;
 
 
-        static Regex GuidRegex = new Regex(@"\[Slide\(.+, ?""([0-9a-fA-F-]+)""\)\]");
-        static Regex YoutubeRegex = new Regex(@"//#video ([^ \t\n\r]+)");
 
 
         static void Main(string[] args)
@@ -56,6 +67,10 @@ namespace ULearnCourseSync
             Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
             Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
+
+            if (Settings.Format == "CS") format = new CsUlearnFormat();
+            else if (Settings.Format == "XML") format = new XMLUlearnFormat();
+            else throw new NotSupportedException();
 
             Clips =
                 (from rel in Publishing.Common.LoadList<VideoToYoutubeClip>()
@@ -136,7 +151,7 @@ namespace ULearnCourseSync
                 name);
         }
 
-            IEnumerable<SlideData> GetVideoSlides()
+        IEnumerable<SlideData> GetVideoSlides()
         {
             var files = StartFolder.GetFiles("S*", SearchOption.AllDirectories);
             foreach (var f in files)
@@ -144,10 +159,10 @@ namespace ULearnCourseSync
            
                 var text = File.ReadAllText(f.FullName);
 
-                var guidMatch = GuidRegex.Match(text);
+                var guidMatch = format.GuidRegex.Match(text);
 
                 if (!guidMatch.Success) continue;
-                var youtubeMatch = YoutubeRegex.Match(text);
+                var youtubeMatch = format.YoutubeRegex.Match(text);
                 if (!youtubeMatch.Success) continue;
                 yield return new SlideData
                 {
@@ -217,38 +232,21 @@ namespace ULearnCourseSync
                 var section = d.Path.Where(z => z.Section.Level == Settings.FoldersLevel).First().Section;
                 var folderName = SectionToFolder[section.Guid];
                 var slideNum = section.Items.VideoGuids().ToList().IndexOf(d.Item.VideoGuid.Value);
-                var slideName = string.Format("S{0:D3} - {1}.cs",
+                var slideName = string.Format("S{0:D3} - {1}",
                     (slideNum + 1) * 10,
                     Videos[e].Title.Trim());
                 var relativePath = Path.Combine(folderName, slideName);
-                AddAction($"Creating slide {relativePath}", () => CreateSlide(relativePath, e, Clips[e], Videos[e]));
+                AddAction($"Creating slide {relativePath}", () => CreateSlide(relativePath, Clips[e], Videos[e]));
             }
         }
 
-        private void CreateSlide(string absolutePath, Guid e, YoutubeClip youtubeClip, Video video)
-        {
-            var template = @"
-using System;
-using System.IO;
-using System.Linq;
-using uLearn;   
 
-namespace {0}
-{{
-    [Slide(@""{1}"", ""{2}"")]
-    public class {3}
-    {{
-        //#video {4}
-    }}
-}}";
-            var csName = video.Title.Replace(" ", "_").Replace(".", "_").Replace(",", "_");
-            var text = string.Format(template,
-                CourseName,
-                video.Title,
-                e,
-                csName,
-                youtubeClip.Id);
-            File.WriteAllText(absolutePath, text);
+
+        
+        private void CreateSlide(string absoluteFileName, YoutubeClip youtubeClip, Video video)
+        {
+            var text = format.MakeSlide(CourseName, youtubeClip, video);
+            File.WriteAllText(absoluteFileName+format.Extension, text);
         }
                 
 
@@ -265,14 +263,14 @@ namespace {0}
         private static void ChangeGuid(SlideData slide, Guid guid)
         {
             var text = File.ReadAllText(slide.Files.FullName);
-            text = ChangeWithRegexp(text, GuidRegex, 1, guid.ToString());
+            text = ChangeWithRegexp(text, format.GuidRegex, 1, guid.ToString());
             File.WriteAllText(slide.Files.FullName, text);
         }
 
         private static void ChangeYoutubeClip(SlideData slide, string id)
         {
            var text = File.ReadAllText(slide.Files.FullName);
-            text = ChangeWithRegexp(text, YoutubeRegex, 1, id);
+            text = ChangeWithRegexp(text, format.YoutubeRegex, 1, id);
             File.WriteAllText(slide.Files.FullName, text);
         }
     }

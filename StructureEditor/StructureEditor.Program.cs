@@ -16,7 +16,7 @@ namespace StructureEditor
         public Ex(int line, string message) : base(message) { Line = line; }
     }
 
-    class Program
+    public class Program
     {
         static string CourseName;
 
@@ -30,7 +30,11 @@ namespace StructureEditor
         {
             StringBuilder text = new StringBuilder();
             var root = Publishing.Courses[CourseName].Load<Structure>();
+            if (root == null)
+                root = new Structure { Guid = Guid.NewGuid(), Name = CourseName };
+
             var videos = Publishing.Common.LoadList<Video>();
+
             foreach (var e in root.Items)
             {
                 if (e.Section!=null)
@@ -176,7 +180,7 @@ namespace StructureEditor
         }
 
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
 
             if (args.Length < 1)

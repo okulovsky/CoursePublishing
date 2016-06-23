@@ -34,6 +34,7 @@ namespace CoursePublishing
     {
         public string Path { get; set; } = "";
         public int FoldersLevel { get; set; } = 2;
+        public string Format { get; set; } = "CS";
     }
 
     public class StepicSyncSettings

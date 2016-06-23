@@ -13,7 +13,7 @@ using System.Windows;
 
 namespace YoutubeSync
 {
-    class YoutubeSync
+    public class YoutubeSync
     {
         static YouTubeService service;
 
