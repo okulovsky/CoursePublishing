@@ -49,13 +49,13 @@ namespace CoursePublishing
         public JObject Update(object data)
         {
             var obj = CreateObject(data);
-
+            Console.WriteLine(obj);
             return api
                .AppendPathSegment(apiPath)
                .AppendPathSegment(obj[sendSelector]["id"].Value<string>())
                .WithOAuthBearerToken(StepicApi.Token)
                .PutJsonAsync(obj)
-               .ReceiveJson()
+               .ReceiveJObject()
                .Now()
                .Select(z => z[receiveSelector][0] as JObject)
                .First();

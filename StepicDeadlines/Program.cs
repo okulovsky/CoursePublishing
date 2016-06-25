@@ -1,4 +1,5 @@
 ﻿using CoursePublishing;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -23,28 +24,34 @@ namespace StepicDeadlines
                 sections.Add(StepicData.Sections[e.Guid]);
             }
 
-            var opening = new DateTime(2016, 8, 29);
+            var opening = new DateTime(2016, 8, 29, 0, 0, 0);
             var softDeadlineTime = TimeSpan.FromDays(21);
             var hardDeadLineTime = TimeSpan.FromDays(28);
             var lectureTime = TimeSpan.FromDays(7);
 
             var currentOpening = opening;
 
-            Func<DateTime, string> convertor = d => 
-            String.Format("{0:yyyy-MM-dd}", d) 
-            + "T" 
-            + string.Format("{0:hh:mm:ss}", d)
-            +"Z";
+            Func<DateTime, string> convertor = d =>
+            String.Format("{0:yyyy-MM-dd}", d)
+            + "T00:00:00Z";
+
+            var position = 1;
             
             foreach (var e in sections)
             {
                 var data = StepicApi.Section.GetById(e);
 
-           //     data["begin_date_source"] = convertor(currentOpening);
-           //     data["soft_deadline_source"] = convertor(currentOpening + softDeadlineTime);
-           //5     data["hard_deadline_source"] = convertor(currentOpening + hardDeadLineTime);
-         //       data["discounting_policy"] = "first_one";
-          //      data["grading_policy"] = "halved";
+                     data["begin_date_source"] = convertor(currentOpening);
+                     data["soft_deadline_source"] = convertor(currentOpening + softDeadlineTime);
+                     data["hard_deadline_source"] = convertor(currentOpening + hardDeadLineTime);
+                     data["discounting_policy"] = "first_one";
+                     data["grading_policy"] = "halved";
+
+                data.Remove("units");
+                data["position"] = position++;
+                data.Remove("actions");
+
+
                 currentOpening += lectureTime;
                 Console.WriteLine(data);
                 StepicApi.Section.Update(data);

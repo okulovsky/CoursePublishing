@@ -34,6 +34,12 @@ namespace CoursePublishing
             return client.SendAsync(HttpMethod.Post, content: content);
         }
 
+        public static async Task<JObject> ReceiveJObject(this Task<HttpResponseMessage> response)
+        {
+            var result = await response.ReceiveString();
+            return JObject.Parse(result);
+        }
+
     }
 
 }
