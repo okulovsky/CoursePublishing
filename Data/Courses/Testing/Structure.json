@@ -1,0 +1,65 @@
+{
+  "Level": 0,
+  "Order": 0,
+  "Guid": "b0978c56-6b5b-4f68-aa2d-88058276047d",
+  "Name": "Тестирование ПО",
+  "Videos": [],
+  "Sections": [
+    {
+      "Level": 1,
+      "Order": 0,
+      "Guid": "b8c7abdf-3d7c-47b8-a98d-9cbbb3bb3988",
+      "Name": "Методы тестирования",
+      "Videos": [
+        "7d16ff85-c8d8-4bbb-9187-e2abcd2ebdd6",
+        "fb39592c-1ea5-49c3-9624-8110b4a31756",
+        "da7fc564-e761-4de1-8e80-b491d2601a6c",
+        "b35e7342-5104-4fa1-859a-198bb7957afc",
+        "8756091e-169f-4337-a9cd-a21ecc215868",
+        "4917828d-ca3d-498e-83b9-c91f3d36991e",
+        "e2531a1c-1b6b-4851-b16e-68602c0192d0"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 1,
+      "Guid": "c1885461-cbc5-405d-9a1c-1bae710670d5",
+      "Name": "Боекомплект тестировщика",
+      "Videos": [
+        "add78710-c01a-4f4f-bdd4-799d6cd6915e",
+        "31df9f5f-d0b5-41dd-aa45-37d9d676b142",
+        "524e0582-2347-4b5e-aa8f-3126a712383d"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 2,
+      "Guid": "81638bcb-96ac-43d6-aa75-809421105e31",
+      "Name": "Методика тестирования",
+      "Videos": [
+        "d21387ce-d852-4938-a023-cdc8671519a5",
+        "ce7af70c-a0cc-40a7-90cf-f6bbbd16ee7a",
+        "dbd59ef5-4201-4d08-86eb-c357e7e1ef7b",
+        "4a3fdf60-d7c2-4ed4-a4b2-84d39a317092",
+        "fcf79093-4b51-43fe-9c22-b946e874931b"
+      ],
+      "Sections": []
+    },
+    {
+      "Level": 1,
+      "Order": 3,
+      "Guid": "8bc6ca0e-3e5c-4e53-b2d9-6c1589cc340e",
+      "Name": "Оформление багов",
+      "Videos": [
+        "e18ca48e-0961-41a0-a7d9-875bf469d356",
+        "1090c341-ec76-48c9-82e5-e06181677077",
+        "6c3a5cae-9d57-4b8f-9459-b8e01eec98bd",
+        "3743134e-ca4b-4dea-af14-dfb0eb9655dd",
+        "1eed5e05-d825-4240-bcae-3ad737b58481"
+      ],
+      "Sections": []
+    }
+  ]
+}

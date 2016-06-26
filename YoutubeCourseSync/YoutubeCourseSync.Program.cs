@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace YoutubeCourseSync
 {
-    class YoutubeCourseSyncService : PreviewableService
+    public class YoutubeCourseSyncService : PreviewableService
     {
         string CourseName;
         Section Structure;
@@ -21,7 +21,7 @@ namespace YoutubeCourseSync
         YouTubeService Service;
 
 
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             new YoutubeCourseSyncService().Run(args);
         }

@@ -14,9 +14,10 @@ namespace Runner
         static void Main(string[] args)
         {
             string CourseName = "Testing";
-            StructureEditor.Program.Main(new[] { CourseName });
-            YoutubeSync.YoutubeSync.Main();
-            YoutubeSync.Match.Main(new[] { CourseName });
+            //      StructureEditor.Program.Main(new[] { CourseName });
+            //      YoutubeSync.YoutubeSync.Main();
+            //      YoutubeSync.Match.Main(new[] { CourseName });
+            YoutubeCourseSync.YoutubeCourseSyncService.Main(new[] { CourseName });
         }
     }
 }

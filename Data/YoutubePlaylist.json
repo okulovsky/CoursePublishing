@@ -1783,6 +1783,41 @@
   },
   {
     "Channel": "Kontur.Academy",
+    "Id": "PLU-TUGRFxOHiZOWgQLw9R9kXF1UowA_lp",
+    "Title": "OOP-3-6 Функциональный стиль",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "z2KoBzTCgoA"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "gZKaRL8Cy7Q"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "OznLGXiwUIs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "SkMUGXMpzBs"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "sePJlYM58d4"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "ou7rUG0-_kg"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "qxTMkk_xmDs"
+      }
+    ]
+  },
+  {
+    "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhTe7q1fuxf5SoJ-pIMtDmw",
     "Title": "OOP-3-5 DI-контейнеры",
     "Entries": [
@@ -1991,7 +2026,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhh_WdOqgFfHhhR0NVd8CwY",
-    "Title": "OOP-3-4 DI",
+    "Title": "CS2-3-4 DI",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaGhfV2RPcWdGZkhoaFIwTlZkOEN3WS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2135,7 +2170,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHiPl1DIkZOTue7KXPGyrKrp",
-    "Title": "OOP-3-2 DDD",
+    "Title": "CS2-3-2 DDD",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaVBsMURJa1pPVHVlN0tYUEd5cktycC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2174,7 +2209,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHgu4HV2lqM9b56jfC9bLf7-",
-    "Title": "OOP-3-1 FluentAPI",
+    "Title": "CS2-3-1 FluentAPI",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IZ3U0SFYybHFNOWI1NmpmQzliTGY3LS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2213,7 +2248,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhfIiCWjvpkhy8eBOSfDYTe",
-    "Title": "OOP-2-3 Исключения",
+    "Title": "CS2-2-3 Исключения",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaGZJaUNXanZwa2h5OGVCT1NmRFlUZS41NkI0NEY2RDEwNTU3Q0M2",
@@ -2248,7 +2283,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHiCgO52aO68a_xbAdM2x5I8",
-    "Title": "OOP-2-2 Файлы",
+    "Title": "CS2-2-2 Файлы",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaUNnTzUyYU82OGFfeGJBZE0yeDVJOC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2314,7 +2349,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjYeU8ZwgPfLfspj6Q7PQ-w",
-    "Title": "OOP-1-8 Рефлексия",
+    "Title": "CS2-1-8 Рефлексия",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IalllVThad2dQZkxmc3BqNlE3UFEtdy41NkI0NEY2RDEwNTU3Q0M2",
@@ -2361,7 +2396,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHi-KbY-BS2NWBl-jD7E0kSj",
-    "Title": "OOP-1-7 Делегаты",
+    "Title": "CS2-1-7 Делегаты",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaS1LYlktQlMyTldCbC1qRDdFMGtTai41NkI0NEY2RDEwNTU3Q0M2",
@@ -2416,7 +2451,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHi6OWBlEUEmsFOlmptw2kDc",
-    "Title": "OOP-1-6 Дженерики",
+    "Title": "CS2-1-6 Дженерики",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaTZPV0JsRVVFbXNGT2xtcHR3MmtEYy41NkI0NEY2RDEwNTU3Q0M2",
@@ -2443,7 +2478,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjNkEPX7x7oNNfldV_DCLYb",
-    "Title": "OOP-1-5 Наследование и полиморфизм (тренинг)",
+    "Title": "CS2-1-5 Наследование и полиморфизм (тренинг)",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9Iak5rRVBYN3g3b05OZmxkVl9EQ0xZYi41NkI0NEY2RDEwNTU3Q0M2",
@@ -2494,7 +2529,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjFEtQIiG9zDjRKBZJiiF_d",
-    "Title": "OOP-1-3 Инкапсуляция (тренинг)",
+    "Title": "CS2-1-3 Инкапсуляция (тренинг)",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IakZFdFFJaUc5ekRqUktCWkppaUZfZC41NkI0NEY2RDEwNTU3Q0M2",
@@ -2553,7 +2588,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhnzGz9HCOLaDMrmEydCjBn",
-    "Title": "OOP-1-4 Наследование и полиморфизм (лекция)",
+    "Title": "CS2-1-3 Наследование и полиморфизм",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaG56R3o5SENPTGFETXJtRXlkQ2pCbi41NkI0NEY2RDEwNTU3Q0M2",
@@ -2580,7 +2615,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHhQPbgYLD8tlCOAoSblFvDw",
-    "Title": "OOP-1-2 Инкапсуляция (лекция)",
+    "Title": "CS2-1-2 Инкапсуляция",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IaFFQYmdZTEQ4dGxDT0FvU2JsRnZEdy41NkI0NEY2RDEwNTU3Q0M2",
@@ -2623,7 +2658,7 @@
   {
     "Channel": "Kontur.Academy",
     "Id": "PLU-TUGRFxOHjqgsb4FjNlljNZf1aOZbo6",
-    "Title": "OOP-1-1 Введение в C#",
+    "Title": "CS2-1-1 Введение в C#",
     "Entries": [
       {
         "Id": "UExVLVRVR1JGeE9IanFnc2I0RmpObGxqTlpmMWFPWmJvNi41NkI0NEY2RDEwNTU3Q0M2",
@@ -4087,36 +4122,109 @@
   },
   {
     "Channel": null,
-    "Id": "PLU-TUGRFxOHiZOWgQLw9R9kXF1UowA_lp",
-    "Title": "OOP-3-6 Функциональный стиль",
+    "Id": "PLU-TUGRFxOHh5XXwxXRT8gR9YcUS42cw7",
+    "Title": "Testing-1 Методы тестирования",
     "Entries": [
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41NkI0NEY2RDEwNTU3Q0M2",
-        "VideoId": "z2KoBzTCgoA"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "duJSIdQlrDM"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4yODlGNEE0NkRGMEEzMEQy",
-        "VideoId": "gZKaRL8Cy7Q"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "q3KWXDv4fno"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4wMTcyMDhGQUE4NTIzM0Y5",
-        "VideoId": "OznLGXiwUIs"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "X3JiYb2a2Is"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41MjE1MkI0OTQ2QzJGNzNG",
-        "VideoId": "SkMUGXMpzBs"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "4-EPPF_BY90"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4wOTA3OTZBNzVEMTUzOTMy",
-        "VideoId": "sePJlYM58d4"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "qvTCRT3BKhs"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC4xMkVGQjNCMUM1N0RFNEUx",
-        "VideoId": "ou7rUG0-_kg"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny4xMkVGQjNCMUM1N0RFNEUx",
+        "VideoId": "owZQ79e3X6c"
       },
       {
-        "Id": "UExVLVRVR1JGeE9IaVpPV2dRTHc5UjlrWEYxVW93QV9scC41MzJCQjBCNDIyRkJDN0VD",
-        "VideoId": "qxTMkk_xmDs"
+        "Id": "UExVLVRVR1JGeE9IaDVYWHd4WFJUOGdSOVljVVM0MmN3Ny41MzJCQjBCNDIyRkJDN0VD",
+        "VideoId": "eIxmrvhUMs4"
+      }
+    ]
+  },
+  {
+    "Channel": null,
+    "Id": "PLU-TUGRFxOHhSlreTx-IfjruAaGSni5u8",
+    "Title": "Testing-2 Боекомплект тестировщика",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaFNscmVUeC1JZmpydUFhR1NuaTV1OC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "W0_9DgexA4o"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFNscmVUeC1JZmpydUFhR1NuaTV1OC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "UuRkx07FL9U"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFNscmVUeC1JZmpydUFhR1NuaTV1OC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "G23j8c9g32Y"
+      }
+    ]
+  },
+  {
+    "Channel": null,
+    "Id": "PLU-TUGRFxOHhRhoHJfZ-xqnRvkKhE7gA8",
+    "Title": "Testing-3 Методика тестирования",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IaFJob0hKZloteHFuUnZrS2hFN2dBOC41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "lzWCZRCl4a4"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFJob0hKZloteHFuUnZrS2hFN2dBOC4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "Zi99-X0leWg"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFJob0hKZloteHFuUnZrS2hFN2dBOC4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "Qo4coExGM3Q"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFJob0hKZloteHFuUnZrS2hFN2dBOC41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "90AwT5OE0_I"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IaFJob0hKZloteHFuUnZrS2hFN2dBOC4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "tJdv8oJ3JNY"
+      }
+    ]
+  },
+  {
+    "Channel": null,
+    "Id": "PLU-TUGRFxOHgGzXph44nkanfGFz7c6Ztm",
+    "Title": "Testing-4 Оформление багов",
+    "Entries": [
+      {
+        "Id": "UExVLVRVR1JGeE9IZ0d6WHBoNDRua2FuZkdGejdjNlp0bS41NkI0NEY2RDEwNTU3Q0M2",
+        "VideoId": "vtLgF7Wlhds"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IZ0d6WHBoNDRua2FuZkdGejdjNlp0bS4yODlGNEE0NkRGMEEzMEQy",
+        "VideoId": "tDjO1rXrxvg"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IZ0d6WHBoNDRua2FuZkdGejdjNlp0bS4wMTcyMDhGQUE4NTIzM0Y5",
+        "VideoId": "C1KefMOuVFo"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IZ0d6WHBoNDRua2FuZkdGejdjNlp0bS41MjE1MkI0OTQ2QzJGNzNG",
+        "VideoId": "UKXRGgKrQZ8"
+      },
+      {
+        "Id": "UExVLVRVR1JGeE9IZ0d6WHBoNDRua2FuZkdGejdjNlp0bS4wOTA3OTZBNzVEMTUzOTMy",
+        "VideoId": "yhklh6FJTtw"
       }
     ]
   }

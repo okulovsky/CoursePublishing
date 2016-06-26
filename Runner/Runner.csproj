@@ -54,6 +54,10 @@
       <Project>{b2c88512-7604-4649-8dcc-8a6355dd5425}</Project>
       <Name>Match</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Publishing\Publishing.csproj">
+      <Project>{9136f673-3e78-471e-a8d4-58e16a30a786}</Project>
+      <Name>Publishing</Name>
+    </ProjectReference>
     <ProjectReference Include="..\StructureEditor\StructureEditor.csproj">
       <Project>{4d2cfc32-8f84-42b8-b3e7-5c2ade226238}</Project>
       <Name>StructureEditor</Name>

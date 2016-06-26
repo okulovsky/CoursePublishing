@@ -1,0 +1,16 @@
+{
+  "Youtube": {
+    "PlayListLevels": [
+      1
+    ],
+    "Channel": "Kontur.Academy",
+    "DescriptionPattern": "",
+    "IgnorePlaylists": false
+  },
+  "Ulearn": {
+    "Path": "",
+    "FoldersLevel": 2,
+    "Format": "CS"
+  },
+  "Stepic": null
+}

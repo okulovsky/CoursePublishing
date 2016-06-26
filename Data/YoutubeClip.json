@@ -1920,6 +1920,54 @@
     "Channel": "Basic Programming"
   },
   {
+    "Id": "ISTux3NJZEg",
+    "Name": "WEB 4 8 0 Плавающие элементы",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "XgiJxHoPj3U",
+    "Name": "WEB 4 7 0 Разбор примеров",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "FiWNWNNBKII",
+    "Name": "WEB 4 6 0 Позиционирование и поток",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "9TDSAXq5YzU",
+    "Name": "WEB 4 5 0 Блочные и строчные элементы 2",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "JZviGq_5ROw",
+    "Name": "WEB 4 4 0 Блочные и строчные боксы",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "9LnM5fqcklE",
+    "Name": "WEB 4 3 0 Блочные и строчные элементы и обзор схем позиционирования",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "sUivzOs7YOc",
+    "Name": "WEB 4 2 0 Структура объемлющего прямоугольника",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
+    "Id": "w6CeAhvYVRg",
+    "Name": "WEB 4 1 0 Введение",
+    "Description": "",
+    "Channel": "Kontur.Academy"
+  },
+  {
     "Id": "z2KoBzTCgoA",
     "Name": "OOP-3-6-01 Проблематика",
     "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/e0da880e-8afe-4f7c-a0dc-704337b535c4",
@@ -2401,31 +2449,31 @@
   },
   {
     "Id": "yhklh6FJTtw",
-    "Name": "Testing Lecture03 05 0 Комментарий к багу, заключение",
+    "Name": "Testing-4-5 Комментарий к багу, заключение",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "UKXRGgKrQZ8",
-    "Name": "Testing Lecture03 04 0 Артефакты",
+    "Name": "Testing-4-4 Артефакты",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "C1KefMOuVFo",
-    "Name": "Testing Lecture03 03 0 Описание бага",
+    "Name": "Testing-4-3 Описание бага",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "tDjO1rXrxvg",
-    "Name": "Testing Lecture03 02 0 Заголовок бага",
+    "Name": "Testing-4-2 Заголовок бага",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "vtLgF7Wlhds",
-    "Name": "Testing Lecture03 01 0 Введение",
+    "Name": "Testing-4-1 Введение",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
@@ -2743,49 +2791,49 @@
   },
   {
     "Id": "tJdv8oJ3JNY",
-    "Name": "Testing Lecture02 10 0 Выбор стратегии тестирования",
+    "Name": "Testing-3-5 Выбор стратегии тестирования",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "90AwT5OE0_I",
-    "Name": "Testing Lecture02 08 0 Оценка рисков и времени",
+    "Name": "Testing-3-4 Оценка рисков и времени",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Qo4coExGM3Q",
-    "Name": "Testing Lecture02 06 0 Оценка взаимосвязи",
+    "Name": "Testing-3-3 Оценка взаимосвязи",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "Zi99-X0leWg",
-    "Name": "Testing Lecture02 04 0 Сбор информации",
+    "Name": "Testing-3-2 Сбор информации",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "lzWCZRCl4a4",
-    "Name": "Testing Lecture02 01 0 Введение",
+    "Name": "Testing-3-1 Введение",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "G23j8c9g32Y",
-    "Name": "Testing Lecture01 03 0 Кейлогеры, багтрекеры",
+    "Name": "Testing-2-3 Кейлогеры, багтрекеры",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "UuRkx07FL9U",
-    "Name": "Testing Lecture01 02 0 Прокси",
+    "Name": "Testing-2-2 Прокси",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "W0_9DgexA4o",
-    "Name": "Testing Lecture01 01 0 Боекомплект тестировщика",
+    "Name": "Testing-2-1 Боекомплект тестировщика",
     "Description": "",
     "Channel": "Kontur.Academy"
   },
@@ -3147,24 +3195,6 @@
     "Id": "EXmVrpre-ko",
     "Name": "OOP-1-2-01 public, private, static",
     "Description": "Смотрите другие видео этого курса, выполняйте упражнение и изучайте проектирование на языке C# на нашем сайте!\r\n\r\nhttps://ulearn.azurewebsites.net/Slide/672a6d5f-4cd7-4662-b415-4c85352dcfd8",
-    "Channel": "Kontur.Academy"
-  },
-  {
-    "Id": "XuawGqwtYbg",
-    "Name": "Testing Lecture01 03 0 Кейлогеры, багтрекеры",
-    "Description": "",
-    "Channel": "Kontur.Academy"
-  },
-  {
-    "Id": "QO0xsnlJlfA",
-    "Name": "Testing Lecture01 02 0 Прокси",
-    "Description": "",
-    "Channel": "Kontur.Academy"
-  },
-  {
-    "Id": "h3BBj48WD1c",
-    "Name": "Testing Lecture01 01 0 Боекомплект тестировщика",
-    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
@@ -3739,44 +3769,44 @@
   },
   {
     "Id": "duJSIdQlrDM",
-    "Name": "TESTING-01-1 Зачем нужны методы тестирования",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: 7d16ff85-c8d8-4bbb-9187-e2abcd2ebdd6]",
+    "Name": "Testing-1-1 Зачем нужны методы тестирования",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "owZQ79e3X6c",
-    "Name": "TESTING-01-6 State transition testing",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: 4917828d-ca3d-498e-83b9-c91f3d36991e]",
+    "Name": "Testing-1-6 State transition testing",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "eIxmrvhUMs4",
-    "Name": "TESTING-01-7 Заключение",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: e2531a1c-1b6b-4851-b16e-68602c0192d0]",
+    "Name": "Testing-1-7 Заключение",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "X3JiYb2a2Is",
-    "Name": "TESTING-01-3 Классы эквивалентности",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: da7fc564-e761-4de1-8e80-b491d2601a6c]",
+    "Name": "Testing-1-3 Классы эквивалентности",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "q3KWXDv4fno",
-    "Name": "TESTING-01-2 Подходы белого и черного ящика",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: fb39592c-1ea5-49c3-9624-8110b4a31756]",
+    "Name": "Testing-1-2 Подходы белого и черного ящика",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "4-EPPF_BY90",
-    "Name": "TESTING-01-4 Граничные значения",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: b35e7342-5104-4fa1-859a-198bb7957afc]",
+    "Name": "Testing-1-4 Граничные значения",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
     "Id": "qvTCRT3BKhs",
-    "Name": "TESTING-01-5 Метод пар",
-    "Description": "Лекция 1. Методы тестирования\r\n\n\n[GUID: 8756091e-169f-4337-a9cd-a21ecc215868]",
+    "Name": "Testing-1-5 Метод пар",
+    "Description": "",
     "Channel": "Kontur.Academy"
   },
   {
