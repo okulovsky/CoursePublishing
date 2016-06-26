@@ -5346,5 +5346,54 @@
     "Duration": "00:00:00",
     "OriginalLocation": "WEB-4-2.mm",
     "EpisodeNumber": 0
+  },
+  {
+    "Guid": "7d16ff85-c8d8-4bbb-9187-e2abcd2ebdd6",
+    "Title": "Зачем нужны методы тестирования",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-11",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "fb39592c-1ea5-49c3-9624-8110b4a31756",
+    "Title": "Подходы белого и черного ящика",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-12",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "da7fc564-e761-4de1-8e80-b491d2601a6c",
+    "Title": "Классы эквивалентности",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-13",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "b35e7342-5104-4fa1-859a-198bb7957afc",
+    "Title": "Граничные значения",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-131",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "8756091e-169f-4337-a9cd-a21ecc215868",
+    "Title": "Метод пар",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-14",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "4917828d-ca3d-498e-83b9-c91f3d36991e",
+    "Title": "State transition testing",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-15",
+    "EpisodeNumber": 0
+  },
+  {
+    "Guid": "e2531a1c-1b6b-4851-b16e-68602c0192d0",
+    "Title": "Заключение",
+    "Duration": "00:00:00",
+    "OriginalLocation": "testing-lecture01-16",
+    "EpisodeNumber": 0
   }
 ]
