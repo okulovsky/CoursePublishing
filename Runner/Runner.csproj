@@ -62,6 +62,10 @@
       <Project>{4d2cfc32-8f84-42b8-b3e7-5c2ade226238}</Project>
       <Name>StructureEditor</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ULearnCourseSync\ULearnCourseSync.csproj">
+      <Project>{f80ea17d-ef3a-4b72-ae40-487eebfb1aa6}</Project>
+      <Name>ULearnCourseSync</Name>
+    </ProjectReference>
     <ProjectReference Include="..\YoutubeCourseSync\YoutubeCourseSync.csproj">
       <Project>{6b18f5c7-adfb-4aad-b254-3e9cd00df99c}</Project>
       <Name>YoutubeCourseSync</Name>

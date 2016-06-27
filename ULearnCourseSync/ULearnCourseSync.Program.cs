@@ -33,7 +33,7 @@ namespace ULearnCourseSync
 
 
 
-    class UlearnCourseSyncService : PreviewableService
+    public class UlearnCourseSyncService : PreviewableService
     {
         static UlearnFormat format;
 
@@ -50,7 +50,7 @@ namespace ULearnCourseSync
 
 
 
-        static void Main(string[] args)
+       public  static void Main(string[] args)
         {
             new UlearnCourseSyncService().Run(args);
         }
@@ -64,7 +64,7 @@ namespace ULearnCourseSync
 
         void Initialize()
         { 
-            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(-1).Ulearn;
+            Settings = Publishing.Courses[CourseName].LoadInitOrEdit<CourseSettings>(5).Ulearn;
             Structure = Publishing.Courses[CourseName].Load<Structure>();
             TopicsForFolders = Structure.Items.Sections().Where(z => z.Level == Settings.FoldersLevel).ToList();
 

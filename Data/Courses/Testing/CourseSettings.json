@@ -8,9 +8,9 @@
     "IgnorePlaylists": false
   },
   "Ulearn": {
-    "Path": "",
-    "FoldersLevel": 2,
-    "Format": "CS"
+    "Path": "C:\\Users\\yuri.okulovsky\\Desktop\\TestingCourse\\Testing\\Testing",
+    "FoldersLevel": 1,
+    "Format": "XML"
   },
   "Stepic": null
 }

@@ -17,7 +17,8 @@ namespace Runner
             //      StructureEditor.Program.Main(new[] { CourseName });
             //      YoutubeSync.YoutubeSync.Main();
             //      YoutubeSync.Match.Main(new[] { CourseName });
-            YoutubeCourseSync.YoutubeCourseSyncService.Main(new[] { CourseName });
+            //YoutubeCourseSync.YoutubeCourseSyncService.Main(new[] { CourseName });
+            ULearnCourseSync.UlearnCourseSyncService.Main(new[] { CourseName });
         }
     }
 }
