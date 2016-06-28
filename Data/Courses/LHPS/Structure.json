@@ -339,19 +339,10 @@
                 "90574302-1a27-46a2-82b5-57f43b15abcd"
               ],
               "Sections": []
-            }
-          ]
-        },
-        {
-          "Level": 2,
-          "Order": 1,
-          "Guid": "57e38135-5283-4a31-a9a7-476ae12cfb92",
-          "Name": "Наука Нового Времени",
-          "Videos": [],
-          "Sections": [
+            },
             {
               "Level": 3,
-              "Order": 0,
+              "Order": 1,
               "Guid": "aeccd8fc-f968-4832-b869-74761ce11602",
               "Name": "Наука Нового Времени",
               "Videos": [
@@ -370,7 +361,7 @@
         },
         {
           "Level": 2,
-          "Order": 2,
+          "Order": 1,
           "Guid": "1fa4a390-f102-45f9-aac9-7942c47ca29d",
           "Name": "Научный метод",
           "Videos": [],
@@ -408,7 +399,7 @@
         },
         {
           "Level": 2,
-          "Order": 3,
+          "Order": 2,
           "Guid": "97a77439-7d75-42df-bda2-39770f19bdb8",
           "Name": "Научная этика",
           "Videos": [],
@@ -445,7 +436,7 @@
         },
         {
           "Level": 2,
-          "Order": 4,
+          "Order": 3,
           "Guid": "a846e73a-2f4f-4cff-9887-5a35c36b55c0",
           "Name": "Наука и лженаука",
           "Videos": [],
