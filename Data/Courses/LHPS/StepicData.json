@@ -612,11 +612,6 @@
       "UnitId": 8921
     },
     {
-      "SectionGuid": "57e38135-5283-4a31-a9a7-476ae12cfb92",
-      "LessonGuid": "aeccd8fc-f968-4832-b869-74761ce11602",
-      "UnitId": 8922
-    },
-    {
       "SectionGuid": "1fa4a390-f102-45f9-aac9-7942c47ca29d",
       "LessonGuid": "a18d73d2-bd40-48cd-a821-8f43abbbc0ce",
       "UnitId": 8923
@@ -680,6 +675,11 @@
       "SectionGuid": "94c934b7-0380-4a5f-9403-969d2be8c052",
       "LessonGuid": "951fa537-985f-4b58-b30a-1a401826b212",
       "UnitId": 8935
+    },
+    {
+      "SectionGuid": "85f2a23b-ce76-4361-b9da-8890f2a8a1b2",
+      "LessonGuid": "aeccd8fc-f968-4832-b869-74761ce11602",
+      "UnitId": 10509
     }
   ]
 }
