@@ -183,16 +183,17 @@ namespace CreateStepicStructure
                 select new { guid, video }
                 ).ToDictionary(z => z.guid, z => z.video);
 
-            //CreateLessons();
+            CreateLessons();
+            
             // CreateSections();
             // CreateUnits();
-            var notUploaded = UploadAllVideo();
-            Console.WriteLine();
-            Console.WriteLine();
+            //var notUploaded = UploadAllVideo();
+            //Console.WriteLine();
+            //Console.WriteLine();
 
-            foreach (var e in notUploaded)
-                Console.WriteLine(e.Title);
-            Console.ReadKey();
+            //foreach (var e in notUploaded)
+            //    Console.WriteLine(e.Title);
+            //Console.ReadKey();
         }
 
         private static void Save()

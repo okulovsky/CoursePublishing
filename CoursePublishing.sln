@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepicDeadlines", "StepicDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UpdateVideoDescriptionFromOldFormat", "UpdateVideoDescriptionFromOldFormat\UpdateVideoDescriptionFromOldFormat.csproj", "{C29F23D3-D335-49A6-94A5-A0360B28D83F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stepic.Scripts", "Stepic.Sync\Stepic.Scripts.csproj", "{8D63E0E5-815C-4762-8286-8A8E1E83EEB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,10 @@ Global
 		{C29F23D3-D335-49A6-94A5-A0360B28D83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C29F23D3-D335-49A6-94A5-A0360B28D83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C29F23D3-D335-49A6-94A5-A0360B28D83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D63E0E5-815C-4762-8286-8A8E1E83EEB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D63E0E5-815C-4762-8286-8A8E1E83EEB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D63E0E5-815C-4762-8286-8A8E1E83EEB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D63E0E5-815C-4762-8286-8A8E1E83EEB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -124,5 +130,6 @@ Global
 		{E8847D71-CEFD-4C11-819A-09BD3C5A9040} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 		{6CD5012F-0D65-4381-A17E-54898574F116} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 		{27371D38-D503-48B9-A912-2193C8C51DE4} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
+		{8D63E0E5-815C-4762-8286-8A8E1E83EEB8} = {FEC3AC0D-CA75-4582-9425-81ECF82AF122}
 	EndGlobalSection
 EndGlobal
