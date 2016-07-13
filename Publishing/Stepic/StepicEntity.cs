@@ -23,6 +23,11 @@ namespace CoursePublishing
         readonly string sendSelector;
         readonly string receiveSelector;
 
+        public override string ToString()
+        {
+            return apiPath;
+        }
+
         JObject CreateObject(object inner)
         {
             var obj = new JObject();

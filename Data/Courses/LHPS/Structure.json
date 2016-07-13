@@ -228,36 +228,18 @@
             {
               "Level": 3,
               "Order": 0,
-              "Guid": "b98c8f63-e470-4564-b052-908edb22423f",
-              "Name": "Контексты коммуникации",
+              "Guid": "4b178ac0-f1bb-4c93-adac-91d44df5b7a8",
+              "Name": "Ведение дискуссии",
               "Videos": [
                 "cf1523a9-5ce2-454a-9a2c-15af37437497",
-                "906b4edb-85c7-4c0c-82a5-aa1afed4ba13"
-              ],
-              "Sections": []
-            },
-            {
-              "Level": 3,
-              "Order": 1,
-              "Guid": "74453df0-0b07-4c8b-b6cc-b4c6a103bd0e",
-              "Name": "Ход дискуссии",
-              "Videos": [
+                "906b4edb-85c7-4c0c-82a5-aa1afed4ba13",
                 "c4c6bdfd-0ec4-4189-8905-9290f8c62738",
                 "76b09903-c28a-4d28-9806-511164c249c0",
                 "3393dcfd-9ef4-408d-87e2-1ded7537c42a",
                 "3fef1e40-952f-4e0f-b204-dc5644c2b5c8",
                 "d5c3308e-995a-4957-9764-1bd967ebaf87",
                 "2a654f30-7f88-4f17-8a42-c9fd8d2e3e88",
-                "6b1e953a-a4f6-4010-915e-d5d6aab5d307"
-              ],
-              "Sections": []
-            },
-            {
-              "Level": 3,
-              "Order": 2,
-              "Guid": "e5399996-960b-43bd-acbc-b3c3be428781",
-              "Name": "Ошибки ведения дискуссии",
-              "Videos": [
+                "6b1e953a-a4f6-4010-915e-d5d6aab5d307",
                 "e8496e9d-57fd-4b00-9dd1-c476b3e35265",
                 "a6d1f576-e442-4421-9c8f-ff0d76e0e3e7",
                 "21cd0983-fe1a-44b1-9dbe-50fd96c15f6b"
