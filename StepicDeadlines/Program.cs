@@ -25,8 +25,8 @@ namespace StepicDeadlines
             }
 
             var opening = new DateTime(2016, 8, 29, 0, 0, 0);
-            var softDeadlineTime = TimeSpan.FromDays(21);
-            var hardDeadLineTime = TimeSpan.FromDays(28);
+            var softDeadlineTime = TimeSpan.FromDays(28);
+            var hardDeadLineTime = TimeSpan.FromDays(42);
             var lectureTime = TimeSpan.FromDays(7);
 
             var currentOpening = opening;
@@ -44,7 +44,7 @@ namespace StepicDeadlines
                      data["begin_date_source"] = convertor(currentOpening);
                      data["soft_deadline_source"] = convertor(currentOpening + softDeadlineTime);
                      data["hard_deadline_source"] = convertor(currentOpening + hardDeadLineTime);
-                     data["discounting_policy"] = "first_one";
+                     data["discounting_policy"] = "first_three";
                      data["grading_policy"] = "halved";
 
                 data.Remove("units");
