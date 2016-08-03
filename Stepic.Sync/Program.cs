@@ -107,7 +107,7 @@ namespace Stepic.Sync
         {
             StepicData = Publishing.Courses[CourseName].LoadOrInit<StepicData>();
             StepicApi.Authorize();
-            CreateLesson(Guid.Parse("4b178ac0-f1bb-4c93-adac-91d44df5b7a8"));
+            //CreateLesson(Guid.Parse("05b464c4-411c-4cf6-af31-fea61ec677b8"));
         }
     }
 }

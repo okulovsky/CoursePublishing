@@ -494,21 +494,12 @@
             {
               "Level": 3,
               "Order": 0,
-              "Guid": "3dc2c299-8c7b-40f7-934d-d079d259f116",
-              "Name": "Критика модерна",
+              "Guid": "05b464c4-411c-4cf6-af31-fea61ec677b8",
+              "Name": "Критика и крах модерна",
               "Videos": [
                 "a19cca05-1b91-4df0-b02f-a494d060b7e7",
                 "09fd1e14-3654-4097-b60e-5f1fcf12dda8",
-                "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366"
-              ],
-              "Sections": []
-            },
-            {
-              "Level": 3,
-              "Order": 1,
-              "Guid": "4b05d503-e80d-4b00-8fd2-a4bf5bdbe949",
-              "Name": "Крах модерна",
-              "Videos": [
+                "af3a89b8-8ba1-44b0-9b59-2b0e5fd46366",
                 "9b87543a-132b-4983-9b69-4c8fa5416b8d",
                 "bc26cfdc-8be1-4b51-823f-934ca9265cbe",
                 "8816681e-a877-4438-92fa-de0900d80537"
